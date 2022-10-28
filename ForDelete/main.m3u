@@ -81,8 +81,16 @@ http://venomtt.com:8000/kdcxxD1U/543545/199097
 http://venomtt.com:8000/kdcxxD1U/543545/199094
 #EXTINF:-1 tvg-id="mtvphd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-portugal.png",MTV PORTUGAL
 http://venomtt.com:8000/kdcxxD1U/543545/79085
+#EXTINF:-1 tvg-id="MTVLive.uk"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-live-es.png",MTV LIVE
+http://abc123.digital:8080/total/STq2brTYSq/436153
 #EXTINF:-1 tvg-id="MTV00s.uk"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-00s-eu.png",MTV 00s
 http://venomtt.com:8000/kdcxxD1U/543545/79148
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-hits-uk.png",MTV HITS
+http://abc123.digital:8080/total/STq2brTYSq/371309
+#EXTINF:-1 tvg-id="mcmtop.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/Mcm_top.png",MCM TOP
+http://abc123.digital:8080/total/STq2brTYSq/436166
+#EXTINF:-1 tvg-id="mcmpop.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mcm-pop.png",MCM POP
+http://abc123.digital:8080/total/STq2brTYSq/436047
 #EXTINF:-1 tvg-id="abolatvhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/a-bola-tv-pt.png",A BOLA TV FHD
 http://venomtt.com:8000/kdcxxD1U/543545/199216
 #EXTINF:-1 tvg-id="portochd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/PortoCanal.png",PORTO CANAL FHD
