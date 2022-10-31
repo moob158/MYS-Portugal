@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1,"--DRICA AGORA TEM 2 CANAIS IGUAIS 2 SERVIDORES-----"
+#EXTINF:-1 tvg-id="sicnhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sic-noticias-pt.png",SIC NOTICIAS
+http://359980880345307805.niceapy.xyz:80/play/1975/1975/307805.ts
+#EXTINF:-1 tvg-id="sicnhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sic-noticias-pt.png",SIC NOTICIAS
+http://dontuse.offshorerev.cc:80/SPIDER_O9gvbQ/o3aDY7Xm0r/106215
+#EXTINF:-1 tvg-id="cnnpthd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/cnn-portugal-pt.png",CNN PORTUGAL
+http://venomtt.com:8000/kdcxxD1U/543545/199260
+#EXTINF:-1 tvg-id="cmtvhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/cmtv-pt.png",CMTV
+http://venomtt.com:8000/kdcxxD1U/543545/199034
+#EXTINF:-1 tvg-id="histor.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/CanalHistoria.png",HISTÓRIA
+http://venomtt.com:8000/kdcxxD1U/543545/199065
+#EXTINF:-1 tvg-id="odisseiahd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/odisseia-pt.png",ODISSEIA
+http://venomtt.com:8000/kdcxxD1U/543545/199067
+#EXTINF:-1 tvg-id="ngchd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/national-geographic-es.png",NATIONAL GEOGRAPHIC
+http://venomtt.com:8000/kdcxxD1U/543545/199074
+#EXTINF:-1 tvg-id="dischd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/discovery-channel-icon-us.png",DISCOVERY CHANNEL
+http://venomtt.com:8000/kdcxxD1U/543545/66432
+#EXTINF:-1 tvg-id="crimeinvestigation.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/crime-and-investigation-us.png",ID INVESTIGATION DISCOVERY
+http://venomtt.com:8000/kdcxxD1U/543545/199071
+#EXTINF:-1 tvg-id="travelhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/travel-channel-int.png",TRAVEL CHANNEL
+http://venomtt.com:8000/kdcxxD1U/543545/199069
+#EXTINF:-1 tvg-id="ngwhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/nat-geo-wild-us.png",NATIONAL GEOGRAPHIC WILD
+http://venomtt.com:8000/kdcxxD1U/543545/199076
+#EXTINF:-1 tvg-id="blaze.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/amcbreak.png",AMC BREACK
+http://venomtt.com:8000/kdcxxD1U/543545/79151
+#EXTINF:-1 tvg-id="canalqhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/canal-q-pt.png",CANAL Q
+http://venomtt.com:8000/kdcxxD1U/543545/199252
+#EXTINF:-1 tvg-id="sicrhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sic-radical-pt.png",SIC RADICAL
+http://venomtt.com:8000/kdcxxD1U/543545/199228
+#EXTINF:-1 tvg-id="sicchd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sic-caras-pt.png",SIC CARAS
+http://venomtt.com:8000/kdcxxD1U/543545/199253
+#EXTINF:-1 tvg-id="sicmhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sic-mulher-pt.png",SIC MULHER
+http://venomtt.com:8000/kdcxxD1U/543545/199230
+#EXTINF:-1 tvg-id="tvificcao.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvi-ficcao-pt.png",TVI FICCAO
+http://venomtt.com:8000/kdcxxD1U/543545/199246
+#EXTINF:-1 tvg-id="tvireality.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvi-reality-pt.png",TVI REALITY
+http://venomtt.com:8000/kdcxxD1U/543545/199242
+#EXTINF:-1 tvg-id="24khd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/24-kitchen-pt.png",24 KITCHEN
+http://venomtt.com:8000/kdcxxD1U/543545/199060
+#EXTINF:-1 tvg-id="tvcineplus.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvcineplus.png",TV CINE +
+http://venomtt.com:8000/kdcxxD1U/543545/199142
+#EXTINF:-1 tvg-id="tvctophd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvcine-top-pt.png",TVCINE TOP
+http://venomtt.com:8000/kdcxxD1U/543545/199139
+#EXTINF:-1 tvg-id="tvceditionhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvcine-edition-pt.png",TVCINE EDITION
+http://venomtt.com:8000/kdcxxD1U/543545/199136
+#EXTINF:-1 tvg-id="tvcemotionhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvcine-emotion-pt.png",TVCINE EMOTION
+http://venomtt.com:8000/kdcxxD1U/543545/199133
+#EXTINF:-1 tvg-id="tvcactionhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/tvcine-action-pt.png",TVCINE ACTION
+http://venomtt.com:8000/kdcxxD1U/543545/199130
+#EXTINF:-1 tvg-id="nosstudios.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/NosStudios.png",NOS STUDIOS
+http://venomtt.com:8000/kdcxxD1U/543545/199127
+#EXTINF:-1 tvg-id="cinemundohd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/cine-mundo-pt.png",CINEMUNDO
+http://venomtt.com:8000/kdcxxD1U/543545/199123
+#EXTINF:-1 tvg-id="hollywhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/canal-hollywood-pt.png",HOLLYWOOD
+http://venomtt.com:8000/kdcxxD1U/543545/199120
+#EXTINF:-1 tvg-id="amchd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/amc-pt.png",AMC
+http://venomtt.com:8000/kdcxxD1U/543545/199118
+#EXTINF:-1 tvg-id="axnhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/axn-pt.png",AXN ᴴᵉᵛᶜ
+http://venomtt.com:8000/kdcxxD1U/543545/199002
+#EXTINF:-1 tvg-id="axnwhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/axn-white-pt.png",AXN WHITE
+http://venomtt.com:8000/kdcxxD1U/543545/79034
+#EXTINF:-1 tvg-id="axnmhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/axn-movies-pt.png",AXN MOVIES
+http://venomtt.com:8000/kdcxxD1U/543545/199110
+#EXTINF:-1 tvg-id="foxhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/fox-pt.png",FOX
+http://venomtt.com:8000/kdcxxD1U/543545/199107
+#EXTINF:-1 tvg-id="foxchd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/fox-crime-pt.png",FOX CRIME
+http://venomtt.com:8000/kdcxxD1U/543545/199104
+#EXTINF:-1 tvg-id="foxcomedyhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/fox-comedy-pt.png",FOX COMEDY
+http://venomtt.com:8000/kdcxxD1U/543545/199102
+#EXTINF:-1 tvg-id="foxlhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/fox-life-pt.png",FOX LIFE
+http://venomtt.com:8000/kdcxxD1U/543545/199100
+#EXTINF:-1 tvg-id="foxmhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/fox-movies-pt.png",FOX MOVIES
+http://venomtt.com:8000/kdcxxD1U/543545/199097
+#EXTINF:-1 tvg-id="syfyhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/syfy-es.png",SYFY
+http://venomtt.com:8000/kdcxxD1U/543545/199094
+#EXTINF:-1 tvg-id="mtvphd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-portugal.png",MTV PORTUGAL
+http://venomtt.com:8000/kdcxxD1U/543545/79085
+#EXTINF:-1 tvg-id="MTVLive.uk"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-live-es.png",MTV LIVE
+http://abc123.digital:8080/total/STq2brTYSq/436153
+#EXTINF:-1 tvg-id="MTV00s.uk"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-00s-eu.png",MTV 00s
+http://venomtt.com:8000/kdcxxD1U/543545/79148
+#EXTINF:-1 tvg-id="MTVHitsEurope.uk"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mtv-hits-uk.png",MTV HITS
+http://abc123.digital:8080/total/STq2brTYSq/371309
+#EXTINF:-1 tvg-id="mcmtop.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/Mcm_top.png",MCM TOP
+http://abc123.digital:8080/total/STq2brTYSq/436166
+#EXTINF:-1 tvg-id="mcmpop.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/mcm-pop.png",MCM POP
+http://abc123.digital:8080/total/STq2brTYSq/436047
+#EXTINF:-1 tvg-id="abolatvhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/a-bola-tv-pt.png",A BOLA TV
+http://venomtt.com:8000/kdcxxD1U/543545/199216
+#EXTINF:-1 tvg-id="portochd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/PortoCanal.png",PORTO CANAL
+http://venomtt.com:8000/kdcxxD1U/543545/199255
+#EXTINF:-1 tvg-id="scptvhd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sporting-tv-pt.png",SPORTING TV
+http://venomtt.com:8000/kdcxxD1U/543545/199161
+#EXTINF:-1 tvg-id="btv1hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/btv-pt.png",BENFICA TV
+http://venomtt.com:8000/kdcxxD1U/543545/199182
+#EXTINF:-1 tvg-id="sptv-plushd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-mais-pt.png",SPORTV +
+http://venomtt.com:8000/kdcxxD1U/543545/199211
+#EXTINF:-1 tvg-id="sptv1hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-1-pt.png",SPORT TV 1
+http://venomtt.com:8000/kdcxxD1U/543545/199206
+#EXTINF:-1 tvg-id="sptv2hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-2-pt.png",SPORT TV 2
+http://venomtt.com:8000/kdcxxD1U/543545/199201
+#EXTINF:-1 tvg-id="sptv3hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-3-pt.png",SPORT TV 3
+http://venomtt.com:8000/kdcxxD1U/543545/199197
+#EXTINF:-1 tvg-id="sptv4hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-4-pt.png",SPORT TV 4
+http://venomtt.com:8000/kdcxxD1U/543545/199194
+#EXTINF:-1 tvg-id="sptv5hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-5-pt.png",SPORT TV 5
+http://venomtt.com:8000/kdcxxD1U/543545/199191
+#EXTINF:-1 tvg-id="sptv6hd.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/sport-tv-6-pt.png",SPORT TV 6
+http://venomtt.com:8000/kdcxxD1U/543545/199190
+#EXTINF:-1 tvg-id="eleven1.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/eleven-sports-1-pt-branco.png",ELEVEN SPORTS 1
+http://venomtt.com:8000/kdcxxD1U/543545/199178
+#EXTINF:-1 tvg-id="eleven2.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/eleven-sports-2-pt-branco.png",ELEVEN SPORTS 2
+http://venomtt.com:8000/kdcxxD1U/543545/199173
+#EXTINF:-1 tvg-id="eleven3.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/eleven-sports-3-pt-branco.png",ELEVEN SPORTS 3
+http://venomtt.com:8000/kdcxxD1U/543545/199171
+#EXTINF:-1 tvg-id="eleven4.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/eleven-sports-4-pt-branco.png",ELEVEN SPORTS 4
+http://venomtt.com:8000/kdcxxD1U/543545/199169
+#EXTINF:-1 tvg-id="eleven5.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/eleven-sports-5-pt-branco.png",ELEVEN SPORTS 5
+http://venomtt.com:8000/kdcxxD1U/543545/199167
+#EXTINF:-1 tvg-id="eleven6.tv.vodafone.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/eleven-sports-6-pt-branco.png",ELEVEN SPORTS 6
+http://venomtt.com:8000/kdcxxD1U/543545/199164
