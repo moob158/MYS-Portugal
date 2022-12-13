@@ -1,0 +1,6 @@
+<?php
+$data = file_get_contents("php://input"); // get data from POST
+$fp = fopen('backup.nav', 'w'); // creates a backup.nav file in the current directory storying the backup
+fwrite($fp, $data);
+fclose($fp);
+?>
