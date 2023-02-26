@@ -1,167 +1,137 @@
 ﻿#EXTM3U
-#EXTINF:-1 ,FOX CRIME
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25033.ts
-#EXTINF:-1 ,FOX LIFE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25034.ts
-#EXTINF:-1 ,FOX COMEDY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25032.ts
-#EXTINF:-1 ,AMC
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/24989.ts
-#EXTINF:-1 ,AXN
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/24991.ts
-#EXTINF:-1 ,FOX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25031.ts
-#EXTINF:-1 ,SYFY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC
+http://flysilo.top:8080/live/281671069189658059/3411671069189658/24989.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN
+http://flysilo.top:8080/live/281671069189658059/3411671069189658/24991.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25080.ts
-#EXTINF:-1 ,AXN WHITE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24994.ts
-#EXTINF:-1 ,TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25081.ts
-#EXTINF:-1 ,SIC NOTICIAS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25078.ts
-#EXTINF:-1 ,CNN PORTUGAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25086.ts
-#EXTINF:-1 ,CMTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25017.ts
-#EXTINF:-1 ,MTV PORTUGAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25049.ts
-#EXTINF:-1 ,MTV 00s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25089.ts
-#EXTINF:-1,MTV HITS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-hits.png",MTV HITS
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24546.ts
-#EXTINF:-1 ,MCM POP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25046.ts
-#EXTINF:-1 ,MCM TOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top.png",MCM TOP
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25047.ts
-#EXTINF:-1 ,RTP 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25064.ts
-#EXTINF:-1 ,RTP 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25065.ts
-#EXTINF:-1 ,RTP 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25066.ts
-#EXTINF:-1 ,SIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25073.ts
-#EXTINF:-1 ,SIC CARAS
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25074.ts
-#EXTINF:-1 ,SIC MULHER
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25077.ts
-#EXTINF:-1 ,SIC RADICAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25079.ts
-#EXTINF:-1 ,TVI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER
+http://flysilo.top:8080/live/281671069189658059/3411671069189658/25077.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS
+http://flysilo.top:8080/live/281671069189658059/3411671069189658/25074.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25085.ts
-#EXTINF:-1 ,TVI FICÇÃO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25087.ts
-#EXTINF:-1 ,TVI REALITY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25088.ts
-#EXTINF:-1 ,HISTÓRIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25040.ts
-#EXTINF:-1 ,DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25019.ts
-#EXTINF:-1 ,NAT GEO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25051.ts
-#EXTINF:-1 ,ODISSEIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25058.ts
-#EXTINF:-1 ,TRAVEL CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25084.ts
-#EXTINF:-1 ,AXN MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24993.ts
-#EXTINF:-1 ,FOX MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25035.ts
-#EXTINF:-1 ,TVCINE ACTION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25009.ts
-#EXTINF:-1 ,TVCINE TOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25012.ts
-#EXTINF:-1 ,TVCINE EDITION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25013.ts
-#EXTINF:-1 ,TVCINE EMOTION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25014.ts
-#EXTINF:-1 ,CINEMUNDO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cine-mundo.png",CINEMUNDO
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25016.ts
-#EXTINF:-1 ,HOLLYWOOD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25041.ts
-#EXTINF:-1 ,NOS STUDIO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIO
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25057.ts
-#EXTINF:-1 ,E! ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ENTERTAINMENT
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25023.ts
-#EXTINF:-1 ,AMC BREACK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREACK
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24999.ts
-#EXTINF:-1 ,CANAL Q
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25006.ts
-#EXTINF:-1 ,CRIME & INVESTIGATION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25018.ts
-#EXTINF:-1 ,ID INVESTIGATION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25042.ts
-#EXTINF:-1 ,SPORTTV + ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
+http://flysilo.top:8080/live/281671069189658059/3411671069189658/25006.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/29668.ts
-#EXTINF:-1 ,SPORTTV 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24984.ts
-#EXTINF:-1 ,SPORTTV 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24982.ts
-#EXTINF:-1 ,SPORTTV 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24980.ts
-#EXTINF:-1 ,SPORTTV 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24979.ts
-#EXTINF:-1 ,SPORTTV 5 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24978.ts
-#EXTINF:-1 ,SPORTTV 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/29669.ts
-#EXTINF:-1 ,SPORTTV NBA ᶠᴴᴰ
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/24981.ts
-#EXTINF:-1 ,ELEVEN 1 ᴴ²⁶⁵ ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᴴ²⁶⁵ ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25024.ts
-#EXTINF:-1 ,ELEVEN 2 ᴴ²⁶⁵ ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᴴ²⁶⁵ ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25025.ts
-#EXTINF:-1 ,ELEVEN 3 ᴴ²⁶⁵ ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᴴ²⁶⁵ ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25026.ts
-#EXTINF:-1 ,ELEVEN 4 ᴴ²⁶⁵ ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᴴ²⁶⁵ ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25027.ts
-#EXTINF:-1 ,ELEVEN 5 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25028.ts
-#EXTINF:-1 ,ELEVEN 6 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᶠᴴᴰ
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24983.ts
-#EXTINF:-1 ,BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25000.ts
-#EXTINF:-1 ,CANAL 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25004.ts
-#EXTINF:-1 ,A BOLA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24987.ts
-#EXTINF:-1 ,24 KITCHEN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen.png",24 KITCHEN
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24986.ts
-#EXTINF:-1 ,ARTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/artv.png",ARTV
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24990.ts
-#EXTINF:-1 ,AXN BLACK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/24992.ts
-#EXTINF:-1 ,BBC WORLD NEWS
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/24996.ts
-#EXTINF:-1 ,DISCOVERY SHOWCASE
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25020.ts
-#EXTINF:-1 ,EURO NEWS
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25030.ts
-#EXTINF:-1 ,FUEL TV
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25036.ts
-#EXTINF:-1 ,GLOBO
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25038.ts
-#EXTINF:-1 ,GLOBO NOW
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25039.ts
-#EXTINF:-1 ,MOTORVISION
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25048.ts
-#EXTINF:-1 ,MY CUISINE
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25050.ts
-#EXTINF:-1 ,NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25052.ts
-#EXTINF:-1 ,PORTO CANAL
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25062.ts
-#EXTINF:-1 ,RECORD TV
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25063.ts
-#EXTINF:-1 ,RTP AÇORES
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25067.ts
-#EXTINF:-1 ,RTP ÁFRICA
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25068.ts
-#EXTINF:-1 ,RTP MADEIRA
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25069.ts
-#EXTINF:-1 ,RTP MEMÓRIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
 http://flysilo.top:8080/live/281671069189658059/3411671069189658/25070.ts
-#EXTINF:-1 ,TRACE URBAN
-http://flysilo.top:8080/live/281671069189658059/3411671069189658/25083.ts
-#EXTINF:-1 ,۩๑๑۩๑๑۩ 15 DEZEMBRO ۩๑๑۩๑๑۩
-http://gmtb.tk:80/NicolauAlmeida/Nicolau2020/81303
+#EXTINF:-1 tvg-logo="",✽✽⭒ 15 DEZEMBRO ⭒✽✽
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/755.ts
