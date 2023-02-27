@@ -1,229 +1,139 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Fox Crime ᴴᴰ"tvg-id="FOX.Crime.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/84144423851.png",FOX CRIME ᴴᴰ
+#EXTINF:-1 tvg-name="Fox Crime ᴴᴰ"tvg-id="FOX.Crime.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99316.ts
-#EXTINF:-1 tvg-name="Fox Life ᴴᴰ"tvg-id="FOX.Life.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/89653555961.png",FOX LIFE ᴴᴰ
+#EXTINF:-1 tvg-name="Fox Life ᴴᴰ"tvg-id="FOX.Life.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/114186.ts
-#EXTINF:-1 tvg-name="Fox Comedy ᴴᴰ"tvg-id="FOX.Comedy.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/75196109241.png",FOX COMEDY ᴴᴰ
+#EXTINF:-1 tvg-name="Fox Comedy ᴴᴰ"tvg-id="FOX.Comedy.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/191526.ts
-#EXTINF:-1 tvg-name="Fox ᴴᴰ"tvg-id="FOX.HD.pt"tvg-logo="https://curl.pk/img/u/ba14bcce17e7057aeaf9864947c467e97681.png",FOX ᴴᴰ
+#EXTINF:-1 tvg-name="Fox ᴴᴰ"tvg-id="FOX.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/284702.ts
-#EXTINF:-1 tvg-name="Amc ᶠᴴᴰ"tvg-id="AMC.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/40666549701.png",AMC ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Amc ᶠᴴᴰ"tvg-id="AMC.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146367.ts
-#EXTINF:-1 tvg-name="Axn ᴴᴰ"tvg-id="AXN.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/97873457161.png",AXN ᴴᴰ
+#EXTINF:-1 tvg-name="Axn ᴴᴰ"tvg-id="AXN.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/114170.ts
-#EXTINF:-1 tvg-name="Axn White ᴴᴰ"tvg-id="AXN.White.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/79266531791.png",AXN WHITE ᴴᴰ
+#EXTINF:-1 tvg-name="Axn White ᴴᴰ"tvg-id="AXN.White.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99337.ts
-#EXTINF:-1 tvg-name="Syfy"tvg-id="Syfy.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/50392196661.png",SYFY
+#EXTINF:-1 tvg-name="Syfy"tvg-id="Syfy.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY
 http://live.geoiptv.org:8880/live/mateus1/mateus/583935.ts
-#EXTINF:-1 tvg-name="Rtp 1 ᶠᴴᴰ"tvg-id="RTP.1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/43939679791.png",RTP 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Rtp 1 ᶠᴴᴰ"tvg-id="RTP.1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/329585.ts
-#EXTINF:-1 tvg-name="Rtp 2 ᶠᴴᴰ"tvg-id="RTP.2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/22211805931.png",RTP 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Rtp 2 ᶠᴴᴰ"tvg-id="RTP.2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/329586.ts
-#EXTINF:-1 tvg-name="Rtp 3"tvg-id="RTP.3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/23418126101.png",RTP 3
+#EXTINF:-1 tvg-name="Rtp 3"tvg-id="RTP.3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3
 http://live.geoiptv.org:8880/live/mateus1/mateus/59846.ts
-#EXTINF:-1 tvg-name="Sic ᶠᴴᴰ"tvg-id="SIC.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/86644693631.png",SIC ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sic ᶠᴴᴰ"tvg-id="SIC.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/329587.ts
-#EXTINF:-1 tvg-name="TVi ᶠᴴᴰ"tvg-id="TVI.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/22170395081.png",TVI ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVi ᶠᴴᴰ"tvg-id="TVI.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/329588.ts
-#EXTINF:-1 tvg-name="Sic Noticias ᴴᴰ"tvg-id="SIC.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/16448639021.png",SIC NOTICIAS ᴴᴰ
+#EXTINF:-1 tvg-name="Sic Noticias ᴴᴰ"tvg-id="SIC.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTICIAS ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99268.ts
-#EXTINF:-1 tvg-name="Cnn Portugal ᴴᴰ"tvg-id="CNN.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/53676356811.png",CNN PORTUGAL ᴴᴰ
+#EXTINF:-1 tvg-name="Cnn Portugal ᴴᴰ"tvg-id="CNN.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/545522.ts
-#EXTINF:-1 tvg-name="CmTV ᶠᴴᴰ"tvg-id="CMTV.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/60915977351.png",CMTV ᶠᴴᴰ
+#EXTINF:-1 tvg-name="CmTV ᶠᴴᴰ"tvg-id="CMTV.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146375.ts
-#EXTINF:-1 tvg-name="Rtp Memoria"tvg-id="RTP.Memória.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/41006834241.png",RTP MEMORIA
+#EXTINF:-1 tvg-name="Rtp Memoria"tvg-id="RTP.Memória.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMORIA
 http://live.geoiptv.org:8880/live/mateus1/mateus/329589.ts
-#EXTINF:-1 tvg-name="Sic Mulher ᴴᴰ"tvg-id="SIC.Mulher.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/74059577701.png",SIC MULHER ᴴᴰ
+#EXTINF:-1 tvg-name="Sic Mulher ᴴᴰ"tvg-id="SIC.Mulher.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99267.ts
-#EXTINF:-1 tvg-name="Globo Now"tvg-id="Globo.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/39925561451.png",GLOBO NOW
+#EXTINF:-1 tvg-name="Globo Now"tvg-id="Globo.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/globo-now.png",GLOBO NOW
 http://live.geoiptv.org:8880/live/mateus1/mateus/99277.ts
-#EXTINF:-1 tvg-name="Canal 11 ᶠᴴᴰ"tvg-id="Canal.11.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png",CANAL 11 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Canal 11 ᶠᴴᴰ"tvg-id="Canal.11.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146384.ts
-#EXTINF:-1 tvg-name="TVi Ficcao ᴴᴰ"tvg-id="TVI.Ficção.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/46248373441.png",TVI FICCAO ᴴᴰ
+#EXTINF:-1 tvg-name="TVi Ficcao ᴴᴰ"tvg-id="TVI.Ficção.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICCAO ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/114240.ts
-#EXTINF:-1 tvg-name="A Bola TV ᴴᴰ"tvg-id=""tvg-logo="https://curl.pk/img/u/0e8830e4c62496128e0838113279ec021465.jpg",A BOLA TV ᴴᴰ
+#EXTINF:-1 tvg-name="A Bola TV ᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/105791.ts
-#EXTINF:-1 tvg-name="Porto Canal ᴴᴰ"tvg-id="Porto.Canal.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/73667824231.png",PORTO CANAL ᴴᴰ
+#EXTINF:-1 tvg-name="Porto Canal ᴴᴰ"tvg-id="Porto.Canal.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/porto-canal.png",PORTO CANAL ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99272.ts
-#EXTINF:-1 tvg-name="Rtp Memoria"tvg-id="RTP.Memória.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/15079158191.png",RTP MEMORIA
-http://live.geoiptv.org:8880/live/mateus1/mateus/59856.ts
-#EXTINF:-1 tvg-name="Rtp Acores"tvg-id="RTP.Açores.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/26661114841.png",RTP ACORES
-http://live.geoiptv.org:8880/live/mateus1/mateus/61111.ts
-#EXTINF:-1 tvg-name="Rtp Africa"tvg-id=""tvg-logo="http://3.bp.blogspot.com/-kH1ArIrLYQk/Tyu5Y2UGmZI/AAAAAAAAECA/oYAkmG4Xts8/s500/RTP+%C3%81frica+logo+2012.png",RTP AFRICA
-http://live.geoiptv.org:8880/live/mateus1/mateus/612868.ts
-#EXTINF:-1 tvg-name="Rtp Madeira"tvg-id="RTP.Madeira.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/22947880041.png",RTP MADEIRA
-http://live.geoiptv.org:8880/live/mateus1/mateus/320637.ts
-#EXTINF:-1 tvg-name="Sport TV + ᴴᴰ"tvg-id="SPORT.TV+.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/37029653971.png",SPORT TV + ᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV + ᴴᴰ"tvg-id="SPORT.TV+.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/59869.ts
-#EXTINF:-1 tvg-name="Sport TV 1 ᶠᴴᴰ"tvg-id="SPORT.TV1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png",SPORT TV 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV 1 ᶠᴴᴰ"tvg-id="SPORT.TV1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/59871.ts
-#EXTINF:-1 tvg-name="Sport TV 2 ᶠᴴᴰ"tvg-id="SPORT.TV2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/73219314261.png",SPORT TV 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV 2 ᶠᴴᴰ"tvg-id="SPORT.TV2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/59874.ts
-#EXTINF:-1 tvg-name="Sport TV 3 ᶠᴴᴰ"tvg-id="SPORT.TV3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png",SPORT TV 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV 3 ᶠᴴᴰ"tvg-id="SPORT.TV3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/61157.ts
-#EXTINF:-1 tvg-name="Sport TV 4 ᶠᴴᴰ"tvg-id="SPORT.TV4.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png",SPORT TV 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV 4 ᶠᴴᴰ"tvg-id="SPORT.TV4.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522182.ts
-#EXTINF:-1 tvg-name="Sport TV 5 ᶠᴴᴰ"tvg-id="SPORT.TV5.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/32589196211.png",SPORT TV 5 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV 5 ᶠᴴᴰ"tvg-id="SPORT.TV5.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522183.ts
-#EXTINF:-1 tvg-name="Sport TV 6 ᶠᴴᴰ"tvg-id=""tvg-logo="https://img-cdn.curl.pk/channels_icon/41422634401.png",SPORT TV 6 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Sport TV 6 ᶠᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522185.ts
-#EXTINF:-1 tvg-name="BTV ᴴᴰ"tvg-id="BTV1.pt"tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png",BTV ᴴᴰ
+#EXTINF:-1 tvg-name="BTV ᴴᴰ"tvg-id="BTV1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/61162.ts
-#EXTINF:-1 tvg-name="Eleven Sports 1 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/90929690281.png",ELEVEN 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Eleven Sports 1 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522193.ts
-#EXTINF:-1 tvg-name="Eleven Sports 2 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png",ELEVEN 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Eleven Sports 2 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522194.ts
-#EXTINF:-1 tvg-name="Eleven Sports 3 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/92758271991.png",ELEVEN 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Eleven Sports 3 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522196.ts
-#EXTINF:-1 tvg-name="Eleven Sports 4 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.4.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/55288435571.png",ELEVEN 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Eleven Sports 4 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.4.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522198.ts
-#EXTINF:-1 tvg-name="Eleven Sports 5 ᶠᴴᴰ"tvg-id=""tvg-logo="https://img-cdn.curl.pk/channels_icon/13816943561.png",ELEVEN 5 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Eleven Sports 5 ᶠᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/603696.ts
-#EXTINF:-1 tvg-name="Eleven Sports 6 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.6.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/56263321141.png",ELEVEN 6 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Eleven Sports 6 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.6.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/522202.ts
-#EXTINF:-1 tvg-name="Sporting TV"tvg-id="Sporting.TV.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png",SPORTING TV
-http://live.geoiptv.org:8880/live/mateus1/mateus/114325.ts
-#EXTINF:-1 tvg-name="Eurosports 1 ᴴᴰ"tvg-id="Eurosport.1.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/84682087451.png",EUROSPORTS 1 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61283.ts
-#EXTINF:-1 tvg-name="Eurosports 2 ᴴᴰ"tvg-id="Eurosport.2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/29719204421.png",EUROSPORTS 2 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522260.ts
-#EXTINF:-1 tvg-name="Fuel TV ᴴᴰ"tvg-id="Fuel.TV.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/90469150681.png",FUEL TV ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146387.ts
-#EXTINF:-1 tvg-name="TVcine Top ᴴᴰ"tvg-id="TVCine.TOP.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/61630460641.png",TVCINE TOP ᴴᴰ
+#EXTINF:-1 tvg-name="TVcine Top ᴴᴰ"tvg-id="TVCine.TOP.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/191524.ts
-#EXTINF:-1 tvg-name="TVcine Edition ᴴᴰ"tvg-id="TVCine.EDITION.pt"tvg-logo="https://curl.pk/img/u/ca3d39221ad40dfc004455a4b786d7fc5314.png",TVCINE EDITION ᴴᴰ
+#EXTINF:-1 tvg-name="TVcine Edition ᴴᴰ"tvg-id="TVCine.EDITION.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/61068.ts
-#EXTINF:-1 tvg-name="TVcine Emotion ᴴᴰ"tvg-id="TVCine.EMOTION.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/82230613441.png",TVCINE EMOTION ᴴᴰ
+#EXTINF:-1 tvg-name="TVcine Emotion ᴴᴰ"tvg-id="TVCine.EMOTION.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/191525.ts
-#EXTINF:-1 tvg-name="TVcine Action ᴴᴰ"tvg-id="TVCine.ACTION.pt"tvg-logo="https://img-cdn.curl.pk/chimg/tvdd.jpg",TVCINE ACTION ᴴᴰ
+#EXTINF:-1 tvg-name="TVcine Action ᴴᴰ"tvg-id="TVCine.ACTION.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99312.ts
-#EXTINF:-1 tvg-name="Nos Studio ᴴᴰ"tvg-id="NOS.Studios..HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/78918101611.png",NOS STUDIO ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99296.ts
-#EXTINF:-1 tvg-name="Nos Studios ᴴᴰ"tvg-id="NOS.Studios..HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/59575645571.png",NOS STUDIOS ᴴᴰ
+#EXTINF:-1 tvg-name="Nos Studios ᴴᴰ"tvg-id="NOS.Studios..HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146372.ts
-#EXTINF:-1 tvg-name="Axn Movies ᴴᴰ"tvg-id="AXN.Movies.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/30526733641.png",AXN MOVIES ᴴᴰ
+#EXTINF:-1 tvg-name="Axn Movies ᴴᴰ"tvg-id="AXN.Movies.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/191527.ts
-#EXTINF:-1 tvg-name="Cinemundo ᴴᴰ"tvg-id="Cinemundo.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/16246815381.png",CINEMUNDO ᴴᴰ
+#EXTINF:-1 tvg-name="Cinemundo ᴴᴰ"tvg-id="Cinemundo.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146370.ts
-#EXTINF:-1 tvg-name="Hollywood ᴴᴰ"tvg-id="Canal.Hollywood.HD.pt"tvg-logo="https://curl.pk/img/u/be45e1383451d6a75773a06fe6c5f23f6649.png",HOLLYWOOD ᴴᴰ
+#EXTINF:-1 tvg-name="Hollywood ᴴᴰ"tvg-id="Canal.Hollywood.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99313.ts
-#EXTINF:-1 tvg-name="Fox Movies ᴴᴰ"tvg-id="FOX.Movies.pt"tvg-logo="https://curl.pk/img/u/9f13e852799059f723698e47590df1538500.png",FOX MOVIES ᴴᴰ
+#EXTINF:-1 tvg-name="Fox Movies ᴴᴰ"tvg-id="FOX.Movies.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99318.ts
-#EXTINF:-1 tvg-name="Axn Movies"tvg-id="AXN.Movies.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/81761198601.png",AXN MOVIES
-http://live.geoiptv.org:8880/live/mateus1/mateus/99335.ts
-#EXTINF:-1 tvg-name="Canal Nos"tvg-id="Canal.NOS.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/88677490231.png",CANAL NOS
-http://live.geoiptv.org:8880/live/mateus1/mateus/99286.ts
-#EXTINF:-1 tvg-name="Canal Q"tvg-id="Canal.Q.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/78497712031.png",CANAL Q
+#EXTINF:-1 tvg-name="Canal Q"tvg-id="Canal.Q.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
 http://live.geoiptv.org:8880/live/mateus1/mateus/146353.ts
-#EXTINF:-1 tvg-name="TVi Reality ᴴᴰ"tvg-id="TVI.Reality.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/86149968531.png",TVI REALITY ᴴᴰ
+#EXTINF:-1 tvg-name="TVi Reality ᴴᴰ"tvg-id="TVI.Reality.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99271.ts
-#EXTINF:-1 tvg-name="MTV Portugal ᴴᴰ"tvg-id="MTV.Portugal.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/70082929431.png",MTV PORTUGAL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61288.ts
-#EXTINF:-1 tvg-name="E! Entertainement"tvg-id="E!.Entertainment.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/69450912331.png",E! ENTERTAINEMENT
+#EXTINF:-1 tvg-name="E! Entertainement"tvg-id="E!.Entertainment.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ENTERTAINEMENT
 http://live.geoiptv.org:8880/live/mateus1/mateus/105819.ts
-#EXTINF:-1 tvg-name="Sic Caras TV"tvg-id="SIC.Caras.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/68173814971.png",SIC CARAS TV
+#EXTINF:-1 tvg-name="Sic Caras TV"tvg-id="SIC.Caras.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS TV
 http://live.geoiptv.org:8880/live/mateus1/mateus/99266.ts
-#EXTINF:-1 tvg-name="Sic Radical ᴴᴰ"tvg-id="SIC.Radical.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/57118826571.png",SIC RADICAL ᴴᴰ
+#EXTINF:-1 tvg-name="Sic Radical ᴴᴰ"tvg-id="SIC.Radical.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99265.ts
-#EXTINF:-1 tvg-name="Tlc ᴴᴰ"tvg-id="TLC.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/69120615021.png",TLC ᴴᴰ
+#EXTINF:-1 tvg-name="Tlc ᴴᴰ"tvg-id="TLC.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99324.ts
-#EXTINF:-1 tvg-name="Break"tvg-id="Blaze.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/72035576531.png",AMC BREAK
+#EXTINF:-1 tvg-name="Break"tvg-id="Blaze.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK
 http://live.geoiptv.org:8880/live/mateus1/mateus/61273.ts
-#EXTINF:-1 tvg-name="Crime"tvg-id="Crime.+.Investigation.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/23442536161.png",AMC CRIME
+#EXTINF:-1 tvg-name="Crime"tvg-id="Crime.+.Investigation.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
 http://live.geoiptv.org:8880/live/mateus1/mateus/191529.ts
-#EXTINF:-1 tvg-name="Id Investigation Discovery"tvg-id="ID.Investigation.Discovery.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/28746553101.png",ID INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-name="Id Investigation Discovery"tvg-id="ID.Investigation.Discovery.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION
 http://live.geoiptv.org:8880/live/mateus1/mateus/105820.ts
-#EXTINF:-1 tvg-name="FTV"tvg-id="FTV.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/77509115781.png",FTV
-http://live.geoiptv.org:8880/live/mateus1/mateus/105816.ts
-#EXTINF:-1 tvg-name="Travel Channel ᴴᴰ"tvg-id="Travel.Channel.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/21020145101.png",TRAVEL CHANNEL ᴴᴰ
+#EXTINF:-1 tvg-name="Travel Channel ᴴᴰ"tvg-id="Travel.Channel.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99302.ts
-#EXTINF:-1 tvg-name="24 Kitchen ᴴᴰ"tvg-id="24Kitchen.HD.pt"tvg-logo="https://curl.pk/img/u/b0a6b33f8a6671b037ca508d61e8e25b7905.png",24 KITCHEN ᴴᴰ
+#EXTINF:-1 tvg-name="24 Kitchen ᴴᴰ"tvg-id="24Kitchen.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen.png",24 KITCHEN ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/99332.ts
-#EXTINF:-1 tvg-name="Casa E Cozinha ᶠᴴᴰ"tvg-id="Casa.e.Cozinha.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/71640654511.png",CASA E COZINHA ᶠᴴᴰ
+#EXTINF:-1 tvg-name="Casa E Cozinha ᶠᴴᴰ"tvg-id="Casa.e.Cozinha.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/casa-e-cozinha.png",CASA E COZINHA ᶠᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146351.ts
-#EXTINF:-1 tvg-name="Food Network ᴴᴰ"tvg-id="Food.Network.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/44322432661.png",FOOD NETWORK ᴴᴰ
+#EXTINF:-1 tvg-name="Food Network ᴴᴰ"tvg-id="Food.Network.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/food-network.png",FOOD NETWORK ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/191528.ts
-#EXTINF:-1 tvg-name="Discovery Channel ᴴᴰ"tvg-id="Discovery.Channel.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/88410116651.png",DISCOVERY CHANNEL ᴴᴰ
+#EXTINF:-1 tvg-name="Discovery Channel ᴴᴰ"tvg-id="Discovery.Channel.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY CHANNEL ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146354.ts
-#EXTINF:-1 tvg-name="Historia"tvg-id="História.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/27757584771.png",HISTORIA
+#EXTINF:-1 tvg-name="Historia"tvg-id="História.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTORIA
 http://live.geoiptv.org:8880/live/mateus1/mateus/61129.ts
-#EXTINF:-1 tvg-name="National Geographic ᴴᴰ"tvg-id="National.Geographic.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/95796722021.png",NATIONAL GEOGRAPHIC ᴴᴰ
+#EXTINF:-1 tvg-name="National Geographic ᴴᴰ"tvg-id="National.Geographic.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146357.ts
-#EXTINF:-1 tvg-name="National Geographic Wild ᴴᴰ"tvg-id="National.Geographic.WILD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/11604061511.png",NATIONAL GEOGRAPHIC WILD ᴴᴰ
+#EXTINF:-1 tvg-name="National Geographic Wild ᴴᴰ"tvg-id="National.Geographic.WILD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/146358.ts
-#EXTINF:-1 tvg-name="Odisseia ᴴᴰ"tvg-id="Odisseia.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/19749495821.png",ODISSEIA ᴴᴰ
+#EXTINF:-1 tvg-name="Odisseia ᴴᴰ"tvg-id="Odisseia.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᴴᴰ
 http://live.geoiptv.org:8880/live/mateus1/mateus/61290.ts
-#EXTINF:-1 tvg-name="Mcm Pop TV"tvg-id="MCM.Pop.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/49537779331.png",MCM POP TV
+#EXTINF:-1 tvg-name="Mcm Pop TV"tvg-id="MCM.Pop.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
 http://live.geoiptv.org:8880/live/mateus1/mateus/99328.ts
-#EXTINF:-1 tvg-name="TV Record ᴴᴰ"tvg-id="Record.TV.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/41237829891.png",TV RECORD ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61297.ts
-#EXTINF:-1 tvg-name="ArTV"tvg-id="ARTV.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/98755693151.png",ARTV
-http://live.geoiptv.org:8880/live/mateus1/mateus/99338.ts
-#EXTINF:-1 tvg-name="Euronews"tvg-id=""tvg-logo="https://img-cdn.curl.pk/channels_icon/62906044401.png",EURONEWS
-http://live.geoiptv.org:8880/live/mateus1/mateus/583938.ts
-#EXTINF:-1 tvg-name="Nat Geo Wild"tvg-id="National.Geographic.WILD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/65511860511.png",NAT GEO WILD
-http://live.geoiptv.org:8880/live/mateus1/mateus/59937.ts
-#EXTINF:-1 tvg-name="MTV Live ᴴᴰ"tvg-id="MTV.Live.HD.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/42769127461.png",MTV LIVE ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191532.ts
-#EXTINF:-1 tvg-name="MCM TOP"tvg-id=""tvg-logo="https://img-cdn.curl.pk/channels_icon_api/72a5fc31f58b2a615db0735a2df3a2f5.png",MCM TOP
+#EXTINF:-1 tvg-name="MCM TOP"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP
 http://live.geoiptv.org:8880/live/mateus1/mateus/683754.ts
-#EXTINF:-1 tvg-name="Canal 180"tvg-id="Canal.180.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/17061220331.png",CANAL 180
-http://live.geoiptv.org:8880/live/mateus1/mateus/191536.ts
-#EXTINF:-1 tvg-name="Sic ᴴᴰ"tvg-id="SIC.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/81407902831.png",SIC ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/284703.ts
-#EXTINF:-1 tvg-name="TVi ᴴᴰ"tvg-id="TVI.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/42512950521.png",TVI ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99270.ts
-#EXTINF:-1 tvg-name="Rtp 2"tvg-id="RTP.2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/13414514141.png",RTP 2
-http://live.geoiptv.org:8880/live/mateus1/mateus/61086.ts
-#EXTINF:-1 tvg-name="Rtp 1 ᴴᴰ"tvg-id="RTP.1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/17804697521.png",RTP 1 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/114252.ts
-#EXTINF:-1 tvg-name="CmTV ᴴᴰ"tvg-id="CMTV.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/60915977351.png",CMTV ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99333.ts
-#EXTINF:-1 tvg-name="Sport TV 1"tvg-id="SPORT.TV1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png",SPORT TV 1
-http://live.geoiptv.org:8880/live/mateus1/mateus/522186.ts
-#EXTINF:-1 tvg-name="Sport TV 1 ᴴᴰ"tvg-id="SPORT.TV1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/99548243601.png",SPORT TV 1 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61153.ts
-#EXTINF:-1 tvg-name="Sport TV 2"tvg-id="SPORT.TV2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png",SPORT TV 2
-http://live.geoiptv.org:8880/live/mateus1/mateus/522188.ts
-#EXTINF:-1 tvg-name="Sport TV 2 ᴴᴰ"tvg-id="SPORT.TV2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/60781612131.png",SPORT TV 2 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/105805.ts
-#EXTINF:-1 tvg-name="Sport TV 3"tvg-id="SPORT.TV3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/30700435421.png",SPORT TV 3
-http://live.geoiptv.org:8880/live/mateus1/mateus/522189.ts
-#EXTINF:-1 tvg-name="Sport TV 3 ᴴᴰ"tvg-id="SPORT.TV3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png",SPORT TV 3 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522204.ts
-#EXTINF:-1 tvg-name="Sport TV 4"tvg-id="SPORT.TV4.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/98962157641.png",SPORT TV 4
-http://live.geoiptv.org:8880/live/mateus1/mateus/522191.ts
-#EXTINF:-1 tvg-name="Sport TV 4 ᴴᴰ"tvg-id="SPORT.TV4.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/93955074211.png",SPORT TV 4 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99288.ts
-#EXTINF:-1 tvg-name="Sport TV 5"tvg-id="SPORT.TV5.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/13350691591.png",SPORT TV 5
-http://live.geoiptv.org:8880/live/mateus1/mateus/522190.ts
-#EXTINF:-1 tvg-name="Sport TV 5 ᴴᴰ"tvg-id="SPORT.TV5.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/28051143461.png",SPORT TV 5 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99289.ts
-#EXTINF:-1 tvg-name="Sport TV 6 ᴴᴰ"tvg-id="RTP.1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/62783331421.png",SPORT TV 6 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/460112.ts
-#EXTINF:-1 tvg-name="BTV"tvg-id="BTV1.HD.pt"tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png",BTV
-http://live.geoiptv.org:8880/live/mateus1/mateus/146378.ts
-#EXTINF:-1 tvg-name="Eleven Sports 1 ᴴᴰ"tvg-id="ELEVEN.SPORTS.1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/90921186001.png",ELEVEN SPORTS 1 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99280.ts
-#EXTINF:-1 tvg-name="Eleven Sports 1"tvg-id="ELEVEN.SPORTS.1.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png",ELEVEN SPORTS 1
-http://live.geoiptv.org:8880/live/mateus1/mateus/522192.ts
-#EXTINF:-1 tvg-name="Eleven Sports 2 ᴴᴰ"tvg-id="ELEVEN.SPORTS.2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/66406572981.png",ELEVEN SPORTS 2 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522195.ts
-#EXTINF:-1 tvg-name="Eleven Sports 2 ᴴᴰ"tvg-id="ELEVEN.SPORTS.2.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/59228469501.png",ELEVEN SPORTS 2 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99281.ts
-#EXTINF:-1 tvg-name="Eleven Sports 3"tvg-id="ELEVEN.SPORTS.3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png",ELEVEN SPORTS 3
-http://live.geoiptv.org:8880/live/mateus1/mateus/522197.ts
-#EXTINF:-1 tvg-name="Eleven Sports 3 ᴴᴰ"tvg-id="ELEVEN.SPORTS.3.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/21480419701.png",ELEVEN SPORTS 3 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99282.ts
-#EXTINF:-1 tvg-name="Eleven Sports 4"tvg-id="ELEVEN.SPORTS.4.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/55246952831.png",ELEVEN SPORTS 4
-http://live.geoiptv.org:8880/live/mateus1/mateus/522199.ts
-#EXTINF:-1 tvg-name="Eleven Sports 4 ᴴᴰ"tvg-id="ELEVEN.SPORTS.4.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/33447846561.png",ELEVEN SPORTS 4 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99283.ts
-#EXTINF:-1 tvg-name="Eleven Sports 5"tvg-id=""tvg-logo="https://img-cdn.curl.pk/channels_icon/80858478501.png",ELEVEN SPORTS 5
-http://live.geoiptv.org:8880/live/mateus1/mateus/603698.ts
-#EXTINF:-1 tvg-name="Eleven Sports 5 ᴴᴰ"tvg-id=""tvg-logo="https://img-cdn.curl.pk/channels_icon/47038704951.png",ELEVEN SPORTS 5 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/603697.ts
-#EXTINF:-1 tvg-name="Eleven Sports 6"tvg-id="ELEVEN.SPORTS.6.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/75473299161.png",ELEVEN SPORTS 6
-http://live.geoiptv.org:8880/live/mateus1/mateus/522203.ts
-#EXTINF:-1 tvg-name="Eleven Sports 6 ᴴᴰ"tvg-id="ELEVEN.SPORTS.6.pt"tvg-logo="https://img-cdn.curl.pk/channels_icon/36475233501.png",ELEVEN SPORTS 6 ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99285.ts
+#EXTINF:-1 tvg-name="MTV Portugal ᴴᴰ"tvg-id="MTV.Portugal.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᴴᴰ
+http://live.geoiptv.org:8880/live/mateus1/mateus/61288.ts
+#EXTINF:-1 tvg-name="MTV Live ᴴᴰ"tvg-id="MTV.Live.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-live.png",MTV LIVE ᴴᴰ
+http://live.geoiptv.org:8880/live/mateus1/mateus/191532.ts
+#EXTINF:-1 tvg-name="ArTV"tvg-id="ARTV.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/artv.png",ARTV
+http://live.geoiptv.org:8880/live/mateus1/mateus/99338.ts
