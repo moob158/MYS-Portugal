@@ -309,12 +309,8 @@ http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8074.m3u8
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2315.m3u8
 #EXTINF:-1 tvg-name="PORTO CANAL ᴴᴰ"tvg-id="porto.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/porto-canal-pt.svg",PORTO CANAL ᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28581.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT1"tvg-id="eurosport1.pt"tvg-logo="http://cine-app.com:8000/logo/fr/eurosport.jpg",EUROSPORT1
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2367.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 1 ᴴᴰ"tvg-id="eurosport1.pt"tvg-logo="",EUROSPORT 1 ᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28596.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT2"tvg-id="eurosport2.pt"tvg-logo="http://cine-app.com:8000/logo/fr/eurosport.jpg",EUROSPORT2
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3517.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 ᴴᴰ"tvg-id="eurosport2.pt"tvg-logo="",EUROSPORT 2 ᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28597.m3u8
 #EXTINF:-1 tvg-name="SPORT TV+"tvg-id="sporttvplus.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_mais.png",SPORT TV+
@@ -341,53 +337,31 @@ http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2297.m3u8
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28543.m3u8
 #EXTINF:-1 tvg-name="SPORT TV 5 ᴴᴰ"tvg-id="sporttv5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt.png",SPORT TV 5 ᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2298.m3u8
-#EXTINF:-1 tvg-name="SPORT TV NBA"tvg-id="sporttvnba.pt"tvg-logo="",SPORT TV NBA
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/17260.m3u8
 #EXTINF:-1 tvg-name="SPORT TV NBA ᶠᴴᴰ"tvg-id="sporttvnba.pt"tvg-logo="",SPORT TV NBA ᶠᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28545.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 1"tvg-id="elevensports1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",ELEVEN SPORTS 1
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28549.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORT1"tvg-id="elevensports1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",ELEVEN SPORT1
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7451.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 2"tvg-id="elevensports2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",ELEVEN SPORTS 2
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28551.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORT2"tvg-id="elevensports2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",ELEVEN SPORT2
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7452.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 3"tvg-id="elevensports3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",ELEVEN SPORTS 3
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28553.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORT 3"tvg-id="elevensports3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",ELEVEN SPORT 3
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7453.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 4"tvg-id="elevensports4.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORTS 4
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28555.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORT4"tvg-id="elevensports4.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORT4
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7454.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 5"tvg-id="elevensports5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORTS 5
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28557.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORT5"tvg-id="elevensports5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORT5
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7455.m3u8
-#EXTINF:-1 tvg-name="ELEVEN SPORT6"tvg-id="elevensports6.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORT6
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7456.m3u8
 #EXTINF:-1 tvg-name="ELEVEN SPORTS 6"tvg-id="elevensports6.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORTS 6
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28559.m3u8
-#EXTINF:-1 tvg-name="SPORTING TV"tvg-id="sportingtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sporting_tv_pt.png",SPORTING TV
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28547.m3u8
 #EXTINF:-1 tvg-name="SPORTING TV ᶠᴴᴰ"tvg-id="sportingtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sporting_tv_pt.png",SPORTING TV ᶠᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28548.m3u8
-#EXTINF:-1 tvg-name="A BOLA TV"tvg-id="abolatv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_bola_tv_pt.png",A BOLA TV
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28561.m3u8
 #EXTINF:-1 tvg-name="A BOLA TV ᴴᴰ"tvg-id="abolatv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_bola_tv_pt.png",A BOLA TV ᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28562.m3u8
-#EXTINF:-1 tvg-name="CANAL 11"tvg-id="canal11.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-11-pt.png",CANAL 11
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28564.m3u8
 #EXTINF:-1 tvg-name="CANAL 11 ᴴᴰ"tvg-id="canal11.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-11-pt.png",CANAL 11 ᴴᴰ
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28565.m3u8
-#EXTINF:-1 tvg-name="BENFICA1"tvg-id="benficatv1.pt"tvg-logo="",BENFICA1
-http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2301.m3u8
 #EXTINF:-1 tvg-name="VH1"tvg-id="vh1.pt"tvg-logo="",VH1
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8056.m3u8
 #EXTINF:-1 tvg-name="MTV"tvg-id="mtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.png",MTV
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5041.m3u8
 #EXTINF:-1 tvg-name="MCM TOP"tvg-id="mcmtophd.pt"tvg-logo="http://cine-app.com:8000/logo/fr/mcm.jpg",MCM TOP
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8072.m3u8
-#EXTINF:-1 tvg-name="##### JANEIRO 2024 |#####"tvg-id=""tvg-logo="http://cine-app.com:8000/logo/categorie/portugal.jpg",##### JANEIRO 2024 |#####
+#EXTINF:-1 tvg-name="##### JANEIRO 2024 #####"tvg-id=""tvg-logo="http://cine-app.com:8000/logo/categorie/portugal.jpg",##### JANEIRO 2024 #####
 http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/16697.m3u8
