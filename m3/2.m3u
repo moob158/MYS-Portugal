@@ -1,139 +1,397 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Fox Crime ᴴᴰ"tvg-id="FOX.Crime.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99316.ts
-#EXTINF:-1 tvg-name="Fox Life ᴴᴰ"tvg-id="FOX.Life.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/114186.ts
-#EXTINF:-1 tvg-name="Fox Comedy ᴴᴰ"tvg-id="FOX.Comedy.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191526.ts
-#EXTINF:-1 tvg-name="Fox ᴴᴰ"tvg-id="FOX.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/284702.ts
-#EXTINF:-1 tvg-name="Amc ᶠᴴᴰ"tvg-id="AMC.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146367.ts
-#EXTINF:-1 tvg-name="Axn ᴴᴰ"tvg-id="AXN.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/114170.ts
-#EXTINF:-1 tvg-name="Axn White ᴴᴰ"tvg-id="AXN.White.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99337.ts
-#EXTINF:-1 tvg-name="Syfy"tvg-id="Syfy.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY
-http://live.geoiptv.org:8880/live/mateus1/mateus/583935.ts
-#EXTINF:-1 tvg-name="Rtp 1 ᶠᴴᴰ"tvg-id="RTP.1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/329585.ts
-#EXTINF:-1 tvg-name="Rtp 2 ᶠᴴᴰ"tvg-id="RTP.2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/329586.ts
-#EXTINF:-1 tvg-name="Rtp 3"tvg-id="RTP.3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3
-http://live.geoiptv.org:8880/live/mateus1/mateus/59846.ts
-#EXTINF:-1 tvg-name="Sic ᶠᴴᴰ"tvg-id="SIC.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/329587.ts
-#EXTINF:-1 tvg-name="TVi ᶠᴴᴰ"tvg-id="TVI.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/329588.ts
-#EXTINF:-1 tvg-name="Sic Noticias ᴴᴰ"tvg-id="SIC.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTICIAS ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99268.ts
-#EXTINF:-1 tvg-name="Cnn Portugal ᴴᴰ"tvg-id="CNN.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/545522.ts
-#EXTINF:-1 tvg-name="CmTV ᶠᴴᴰ"tvg-id="CMTV.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146375.ts
-#EXTINF:-1 tvg-name="Rtp Memoria"tvg-id="RTP.Memória.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMORIA
-http://live.geoiptv.org:8880/live/mateus1/mateus/329589.ts
-#EXTINF:-1 tvg-name="Sic Mulher ᴴᴰ"tvg-id="SIC.Mulher.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99267.ts
-#EXTINF:-1 tvg-name="Globo Now"tvg-id="Globo.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/globo-now.png",GLOBO NOW
-http://live.geoiptv.org:8880/live/mateus1/mateus/99277.ts
-#EXTINF:-1 tvg-name="Canal 11 ᶠᴴᴰ"tvg-id="Canal.11.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146384.ts
-#EXTINF:-1 tvg-name="TVi Ficcao ᴴᴰ"tvg-id="TVI.Ficção.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICCAO ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/114240.ts
-#EXTINF:-1 tvg-name="A Bola TV ᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/105791.ts
-#EXTINF:-1 tvg-name="Porto Canal ᴴᴰ"tvg-id="Porto.Canal.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/porto-canal.png",PORTO CANAL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99272.ts
-#EXTINF:-1 tvg-name="Sport TV + ᴴᴰ"tvg-id="SPORT.TV+.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/59869.ts
-#EXTINF:-1 tvg-name="Sport TV 1 ᶠᴴᴰ"tvg-id="SPORT.TV1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/59871.ts
-#EXTINF:-1 tvg-name="Sport TV 2 ᶠᴴᴰ"tvg-id="SPORT.TV2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/59874.ts
-#EXTINF:-1 tvg-name="Sport TV 3 ᶠᴴᴰ"tvg-id="SPORT.TV3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61157.ts
-#EXTINF:-1 tvg-name="Sport TV 4 ᶠᴴᴰ"tvg-id="SPORT.TV4.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522182.ts
-#EXTINF:-1 tvg-name="Sport TV 5 ᶠᴴᴰ"tvg-id="SPORT.TV5.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522183.ts
-#EXTINF:-1 tvg-name="Sport TV 6 ᶠᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522185.ts
-#EXTINF:-1 tvg-name="BTV ᴴᴰ"tvg-id="BTV1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61162.ts
-#EXTINF:-1 tvg-name="Eleven Sports 1 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522193.ts
-#EXTINF:-1 tvg-name="Eleven Sports 2 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522194.ts
-#EXTINF:-1 tvg-name="Eleven Sports 3 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522196.ts
-#EXTINF:-1 tvg-name="Eleven Sports 4 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.4.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522198.ts
-#EXTINF:-1 tvg-name="Eleven Sports 5 ᶠᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/603696.ts
-#EXTINF:-1 tvg-name="Eleven Sports 6 ᶠᴴᴰ"tvg-id="ELEVEN.SPORTS.6.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/522202.ts
-#EXTINF:-1 tvg-name="TVcine Top ᴴᴰ"tvg-id="TVCine.TOP.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191524.ts
-#EXTINF:-1 tvg-name="TVcine Edition ᴴᴰ"tvg-id="TVCine.EDITION.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61068.ts
-#EXTINF:-1 tvg-name="TVcine Emotion ᴴᴰ"tvg-id="TVCine.EMOTION.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191525.ts
-#EXTINF:-1 tvg-name="TVcine Action ᴴᴰ"tvg-id="TVCine.ACTION.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99312.ts
-#EXTINF:-1 tvg-name="Nos Studios ᴴᴰ"tvg-id="NOS.Studios..HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146372.ts
-#EXTINF:-1 tvg-name="Axn Movies ᴴᴰ"tvg-id="AXN.Movies.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191527.ts
-#EXTINF:-1 tvg-name="Cinemundo ᴴᴰ"tvg-id="Cinemundo.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146370.ts
-#EXTINF:-1 tvg-name="Hollywood ᴴᴰ"tvg-id="Canal.Hollywood.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99313.ts
-#EXTINF:-1 tvg-name="Fox Movies ᴴᴰ"tvg-id="FOX.Movies.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99318.ts
-#EXTINF:-1 tvg-name="Canal Q"tvg-id="Canal.Q.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
-http://live.geoiptv.org:8880/live/mateus1/mateus/146353.ts
-#EXTINF:-1 tvg-name="TVi Reality ᴴᴰ"tvg-id="TVI.Reality.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99271.ts
-#EXTINF:-1 tvg-name="E! Entertainement"tvg-id="E!.Entertainment.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ENTERTAINEMENT
-http://live.geoiptv.org:8880/live/mateus1/mateus/105819.ts
-#EXTINF:-1 tvg-name="Sic Caras TV"tvg-id="SIC.Caras.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS TV
-http://live.geoiptv.org:8880/live/mateus1/mateus/99266.ts
-#EXTINF:-1 tvg-name="Sic Radical ᴴᴰ"tvg-id="SIC.Radical.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99265.ts
-#EXTINF:-1 tvg-name="Tlc ᴴᴰ"tvg-id="TLC.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99324.ts
-#EXTINF:-1 tvg-name="Break"tvg-id="Blaze.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK
-http://live.geoiptv.org:8880/live/mateus1/mateus/61273.ts
-#EXTINF:-1 tvg-name="Crime"tvg-id="Crime.+.Investigation.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
-http://live.geoiptv.org:8880/live/mateus1/mateus/191529.ts
-#EXTINF:-1 tvg-name="Id Investigation Discovery"tvg-id="ID.Investigation.Discovery.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION
-http://live.geoiptv.org:8880/live/mateus1/mateus/105820.ts
-#EXTINF:-1 tvg-name="Travel Channel ᴴᴰ"tvg-id="Travel.Channel.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99302.ts
-#EXTINF:-1 tvg-name="24 Kitchen ᴴᴰ"tvg-id="24Kitchen.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen.png",24 KITCHEN ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/99332.ts
-#EXTINF:-1 tvg-name="Casa E Cozinha ᶠᴴᴰ"tvg-id="Casa.e.Cozinha.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/casa-e-cozinha.png",CASA E COZINHA ᶠᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146351.ts
-#EXTINF:-1 tvg-name="Food Network ᴴᴰ"tvg-id="Food.Network.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/food-network.png",FOOD NETWORK ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191528.ts
-#EXTINF:-1 tvg-name="Discovery Channel ᴴᴰ"tvg-id="Discovery.Channel.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY CHANNEL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146354.ts
-#EXTINF:-1 tvg-name="Historia"tvg-id="História.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTORIA
-http://live.geoiptv.org:8880/live/mateus1/mateus/61129.ts
-#EXTINF:-1 tvg-name="National Geographic ᴴᴰ"tvg-id="National.Geographic.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146357.ts
-#EXTINF:-1 tvg-name="National Geographic Wild ᴴᴰ"tvg-id="National.Geographic.WILD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/146358.ts
-#EXTINF:-1 tvg-name="Odisseia ᴴᴰ"tvg-id="Odisseia.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61290.ts
-#EXTINF:-1 tvg-name="Mcm Pop TV"tvg-id="MCM.Pop.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
-http://live.geoiptv.org:8880/live/mateus1/mateus/99328.ts
-#EXTINF:-1 tvg-name="MCM TOP"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP
-http://live.geoiptv.org:8880/live/mateus1/mateus/683754.ts
-#EXTINF:-1 tvg-name="MTV Portugal ᴴᴰ"tvg-id="MTV.Portugal.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/61288.ts
-#EXTINF:-1 tvg-name="MTV Live ᴴᴰ"tvg-id="MTV.Live.HD.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-live.png",MTV LIVE ᴴᴰ
-http://live.geoiptv.org:8880/live/mateus1/mateus/191532.ts
-#EXTINF:-1 tvg-name="ArTV"tvg-id="ARTV.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/artv.png",ARTV
-http://live.geoiptv.org:8880/live/mateus1/mateus/99338.ts
+#EXTINF:-1 tvg-name="FOX CRIME ᶠᴴᴰ"tvg-id="foxcrime.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28533.m3u8
+#EXTINF:-1 tvg-name="FOX LIFE ᶠᴴᴰ"tvg-id="foxlife.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28535.m3u8
+#EXTINF:-1 tvg-name="FOX COMEDY ᶠᴴᴰ"tvg-id="foxcomedy.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28534.m3u8
+#EXTINF:-1 tvg-name="FOX ᶠᴴᴰ"tvg-id="fox.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28532.m3u8
+#EXTINF:-1 tvg-name="AMC ᶠᴴᴰ"tvg-id="amchd.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28524.m3u8
+#EXTINF:-1 tvg-name="AXN ᶠᴴᴰ"tvg-id="axn.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28526.m3u8
+#EXTINF:-1 tvg-name="AXN WHITE ᶠᴴᴰ"tvg-id="axnwhite.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28527.m3u8
+#EXTINF:-1 tvg-name="SYFY ᶠᴴᴰ"tvg-id="syfy.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28530.m3u8
+#EXTINF:-1 tvg-name="HISTORIA ᶠᴴᴰ"tvg-id="historia.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTORIA ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3512.m3u8
+#EXTINF:-1 tvg-name="NAT GEO ᶠᴴᴰ"tvg-id="nationalgeographic.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28587.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY ᶠᴴᴰ"tvg-id="discoverychannel.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3432.m3u8
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL ᶠᴴᴰ"tvg-id="travelchannel.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3514.m3u8
+#EXTINF:-1 tvg-name="ODISSEIA ᶠᴴᴰ"tvg-id="odisseia.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3507.m3u8
+#EXTINF:-1 tvg-name="ID INVESTIGATION ᴴᴰ"tvg-id="investigationdiscovery.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28591.m3u8
+#EXTINF:-1 tvg-name="AMC CRIME"tvg-id="crimeinvestigation.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28594.m3u8
+#EXTINF:-1 tvg-name="NAT GEO WILD ᶠᴴᴰ"tvg-id="nationalgeographicwild.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28589.m3u8
+#EXTINF:-1 tvg-name="RTP 1 ᶠᴴᴰ"tvg-id="rtp1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28498.m3u8
+#EXTINF:-1 tvg-name="RTP 2 ᶠᴴᴰ"tvg-id="rtp2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28499.m3u8
+#EXTINF:-1 tvg-name="RTP 3 ᶠᴴᴰ"tvg-id="rtp3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28510.m3u8
+#EXTINF:-1 tvg-name="SIC ᶠᴴᴰ"tvg-id="sic.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28500.m3u8
+#EXTINF:-1 tvg-name="TVI ᶠᴴᴰ"tvg-id="tvi.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28502.m3u8
+#EXTINF:-1 tvg-name="CMTV ᶠᴴᴰ"tvg-id="cmtv.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28506.m3u8
+#EXTINF:-1 tvg-name="SIC NOTICIAS ᶠᴴᴰ"tvg-id="sicnoticias.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTICIAS ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28512.m3u8
+#EXTINF:-1 tvg-name="CNN PORTUGAL ᶠᴴᴰ"tvg-id="tvi24.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28509.m3u8
+#EXTINF:-1 tvg-name="SIC RADICAL ᴴᴰ"tvg-id="sicradical.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8073.m3u8
+#EXTINF:-1 tvg-name="SIC CARAS"tvg-id="siccaras.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3430.m3u8
+#EXTINF:-1 tvg-name="SIC MULHER"tvg-id="sicmulher.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3423.m3u8
+#EXTINF:-1 tvg-name="TVI FICCAO ᶠᴴᴰ"tvg-id="tvificcao.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28570.m3u8
+#EXTINF:-1 tvg-name="AMC BREAK ᴴᴰ"tvg-id="blazehd.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28583.m3u8
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT"tvg-id="eentertainment.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ENTERTAINMENT
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3433.m3u8
+#EXTINF:-1 tvg-name="AXN MOVIES ᶠᴴᴰ"tvg-id="axnmovies.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28528.m3u8
+#EXTINF:-1 tvg-name="CINEMUNDO ᶠᴴᴰ"tvg-id="cinemundo.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28522.m3u8
+#EXTINF:-1 tvg-name="FOX MOVIES ᶠᴴᴰ"tvg-id="foxmovies.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28521.m3u8
+#EXTINF:-1 tvg-name="HOLLYWOOD ᶠᴴᴰ"tvg-id="canalhollywood.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28519.m3u8
+#EXTINF:-1 tvg-name="NOS STUDIOS ᶠᴴᴰ"tvg-id="nostudios.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28518.m3u8
+#EXTINF:-1 tvg-name="TVCINE TOP ᶠᴴᴰ"tvg-id="tvcinetop.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28513.m3u8
+#EXTINF:-1 tvg-name="TVCINE EDITION  ᶠᴴᴰ"tvg-id="tvcineedition.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION  ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28514.m3u8
+#EXTINF:-1 tvg-name="TVCINE EMOTION ᶠᴴᴰ"tvg-id="tvcineemotion.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28515.m3u8
+#EXTINF:-1 tvg-name="TVCINE ACTION ᶠᴴᴰ"tvg-id="tvcineaction.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28516.m3u8
+#EXTINF:-1 tvg-name="TLC"tvg-id="tlc.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3513.m3u8
+#EXTINF:-1 tvg-name="CANAL Q"tvg-id="canalq.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28582.m3u8
+#EXTINF:-1 tvg-name="MTV 00s"tvg-id="vh1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28619.m3u8
+#EXTINF:-1 tvg-name="MTV PORTUGAL ᴴᴰ"tvg-id="mtv.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28621.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE ᴴᴰ"tvg-id="mtv.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-live.png",MTV LIVE ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28622.m3u8
+#EXTINF:-1 tvg-name="MCM TOP ᶠᴴᴰ"tvg-id="mcmtophd.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28623.m3u8
+#EXTINF:-1 tvg-name="MCM POP"tvg-id="mcmtophd.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28624.m3u8
+#EXTINF:-1 tvg-name="CLUBBING TV"tvg-id="clubbingtvhd.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/clubbingtv.png",CLUBBING TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28626.m3u8
+#EXTINF:-1 tvg-name="SPORT TV + ᶠᴴᴰ"tvg-id="sporttvplus.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28537.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1 ᶠᴴᴰ"tvg-id="sporttv1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28538.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1 ⁴ᴷ"tvg-id="sporttv4k.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4k.png",SPORT TV 1 ⁴ᴷ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/77435.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 2 ᶠᴴᴰ"tvg-id="sporttv2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28539.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 3 ᶠᴴᴰ"tvg-id="sporttv3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28540.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 4 ᶠᴴᴰ"tvg-id="sporttv4.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28542.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 5 ᶠᴴᴰ"tvg-id="sporttv5.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28544.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 6 ᶠᴴᴰ"tvg-id="sporttv6.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/82779.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 1 ᶠᴴᴰ"tvg-id="elevensports1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28550.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 1 ⁴ᴷ"tvg-id="elevensports1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ⁴ᴷ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/77437.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 2 ᶠᴴᴰ"tvg-id="elevensports2.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28552.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 3 ᶠᴴᴰ"tvg-id="elevensports3.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28554.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 4 ᶠᴴᴰ"tvg-id="elevensports4.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28556.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 5 ᶠᴴᴰ"tvg-id="elevensports5.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28558.m3u8
+#EXTINF:-1 tvg-name="ELEVEN 6 ᶠᴴᴰ"tvg-id="elevensports6.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28560.m3u8
+#EXTINF:-1 tvg-name="BENFICA TV ᶠᴴᴰ"tvg-id="benficatv1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BENFICA TV ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28546.m3u8
+#EXTINF:-1 tvg-name="BENFICA TV ⁴ᴷ"tvg-id="benficatv1.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BENFICA TV ⁴ᴷ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/77436.m3u8
+#EXTINF:-1 tvg-name="A BOLA TV ᶠᴴᴰ"tvg-id="abolatv.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28563.m3u8
+#EXTINF:-1 tvg-name="CANAL 11 ᶠᴴᴰ"tvg-id="canal11.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28566.m3u8
+#EXTINF:-1 tvg-name="FUEL TV ᶠᴴᴰ"tvg-id="fueltv.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fueltv.png",FUEL TV ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28599.m3u8
+#EXTINF:-1 tvg-name="WWE ᴴᴰ"tvg-id=""tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/wwe.png",WWE ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28608.m3u8
+#EXTINF:-1 tvg-name="COMBATE ᴴᴰ"tvg-id="kombatsport.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/combate.png",COMBATE ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28610.m3u8
+#EXTINF:-1 tvg-name="COMBATE ᶠᴴᴰ"tvg-id="kombatsport.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/combate.png",COMBATE ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28611.m3u8
+#EXTINF:-1 tvg-name="SIC ᴴᴰ"tvg-id="sic.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic-pt.png",SIC ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8112.m3u8
+#EXTINF:-1 tvg-name="RTP1"tvg-id="rtp1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-1-pt.png",RTP1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2321.m3u8
+#EXTINF:-1 tvg-name="RTP1 ᴴᴰ"tvg-id="rtp1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-1-pt.png",RTP1 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8075.m3u8
+#EXTINF:-1 tvg-name="RTP2"tvg-id="rtp2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-2-pt.png",RTP2
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2320.m3u8
+#EXTINF:-1 tvg-name="RTP 2 ᴴᴰ"tvg-id="rtp2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-2-pt.png",RTP 2 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8076.m3u8
+#EXTINF:-1 tvg-name="RTP3"tvg-id="rtp3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp_3_pt.png",RTP3
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3412.m3u8
+#EXTINF:-1 tvg-name="RTP_3_HD"tvg-id="rtp3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp_3_pt.png",RTP_3_HD
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8077.m3u8
+#EXTINF:-1 tvg-name="RTP MEMORIA"tvg-id="rtpmemoria.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-memoria-pt.png",RTP MEMORIA
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2319.m3u8
+#EXTINF:-1 tvg-name="RTP MEMORIA ᴴᴰ"tvg-id="rtpmemoria.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-memoria-pt.png",RTP MEMORIA ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8118.m3u8
+#EXTINF:-1 tvg-name="SIC"tvg-id="sic.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic-pt.png",SIC
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3410.m3u8
+#EXTINF:-1 tvg-name="SIC RADICAL"tvg-id="sicradical.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic_pt_radical.png",SIC RADICAL
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2370.m3u8
+#EXTINF:-1 tvg-name="SIC NOTICIAS"tvg-id="sicnoticias.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic-noticias-pt.png",SIC NOTICIAS
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3426.m3u8
+#EXTINF:-1 tvg-name="TVI"tvg-id="tvi.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png",TVI
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2317.m3u8
+#EXTINF:-1 tvg-name="TVI ᴴᴰ"tvg-id="tvi.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt.png",TVI ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28501.m3u8
+#EXTINF:-1 tvg-name="TVI REALITY"tvg-id="tvireality.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_reality.png",TVI REALITY
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3411.m3u8
+#EXTINF:-1 tvg-name="TVI REALITY ᴴᴰ"tvg-id="tvireality.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_reality.png",TVI REALITY ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8065.m3u8
+#EXTINF:-1 tvg-name="CMTV"tvg-id="cmtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png",CMTV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28504.m3u8
+#EXTINF:-1 tvg-name="CMTV ᴴᴰ"tvg-id="cmtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png",CMTV ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28505.m3u8
+#EXTINF:-1 tvg-name="TVI 24"tvg-id="tvi24.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_internacional.png",TVI 24
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28507.m3u8
+#EXTINF:-1 tvg-name="TVI 24 ᴴᴰ"tvg-id="tvi24.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_internacional.png",TVI 24 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28508.m3u8
+#EXTINF:-1 tvg-name="SIC NOTICIAS ᴴᴰ"tvg-id="sicnoticias.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sic-noticias-pt.png",SIC NOTICIAS ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28511.m3u8
+#EXTINF:-1 tvg-name="TVCINE TOP"tvg-id="tvcinetop.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-top-pt.png",TVCINE TOP
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2302.m3u8
+#EXTINF:-1 tvg-name="TVCINE TOP ᴴᴰ"tvg-id="tvcinetop.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-top-pt.png",TVCINE TOP ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8060.m3u8
+#EXTINF:-1 tvg-name="TVCINE EDITION"tvg-id="tvcineedition.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-edition-pt.png",TVCINE EDITION
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2303.m3u8
+#EXTINF:-1 tvg-name="TVCINE EDITION ᴴᴰ"tvg-id="Tvcine2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-edition-pt.png",TVCINE EDITION ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8061.m3u8
+#EXTINF:-1 tvg-name="TVCINE EMOTION"tvg-id="tvcineemotion.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-emotion-pt.png",TVCINE EMOTION
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2304.m3u8
+#EXTINF:-1 tvg-name="TVCINE EMOTION ᴴᴰ"tvg-id="tvcineemotion.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-emotion-pt.png",TVCINE EMOTION ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8062.m3u8
+#EXTINF:-1 tvg-name="TVCINE ACTION"tvg-id="tvcineaction.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-action-pt.png",TVCINE ACTION
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2305.m3u8
+#EXTINF:-1 tvg-name="TVCINE ACTION ᴴᴰ"tvg-id="tvcineaction.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvcine-action-pt.png",TVCINE ACTION ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8063.m3u8
+#EXTINF:-1 tvg-name="HOLLYWOOD"tvg-id="canalhollywood.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_pt.png",HOLLYWOOD
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3431.m3u8
+#EXTINF:-1 tvg-name="HOLLYWOOD ᴴᴰ"tvg-id="canalhollywood.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_hollywood_pt.png",HOLLYWOOD ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8055.m3u8
+#EXTINF:-1 tvg-name="NOS STUDIO"tvg-id="nostudios.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nos-studios-pt.png",NOS STUDIO
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7182.m3u8
+#EXTINF:-1 tvg-name="NOS STUDIOS ᴴᴰ"tvg-id="nosstudioshd.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nos-studios-pt.png",NOS STUDIOS ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28517.m3u8
+#EXTINF:-1 tvg-name="CINE MUNDO"tvg-id="cinemundo.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cine_mundo_pt.png",CINE MUNDO
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3422.m3u8
+#EXTINF:-1 tvg-name="CINE MUNDO ᴴᴰ"tvg-id="cinemundo.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cine_mundo_pt.png",CINE MUNDO ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8111.m3u8
+#EXTINF:-1 tvg-name="FOX MOVIES"tvg-id="foxmovies.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png",FOX MOVIES
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8064.m3u8
+#EXTINF:-1 tvg-name="FOX MOVIES ᴴᴰ"tvg-id="foxmovies.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png",FOX MOVIES ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28520.m3u8
+#EXTINF:-1 tvg-name="AXN"tvg-id="axn.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png",AXN
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2308.m3u8
+#EXTINF:-1 tvg-name="AXN ᴴᴰ"tvg-id="axn.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png",AXN ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8053.m3u8
+#EXTINF:-1 tvg-name="AXN MOVIES"tvg-id="axnmovies.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn-movies-us-pt.png",AXN MOVIES
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2310.m3u8
+#EXTINF:-1 tvg-name="AXN MOVIES ᴴᴰ"tvg-id="axnmovies.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn-movies-us-pt.png",AXN MOVIES ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8052.m3u8
+#EXTINF:-1 tvg-name="AXN WHITE"tvg-id="axnwhite.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_white_pt.png",AXN WHITE
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2309.m3u8
+#EXTINF:-1 tvg-name="AXN WHITE ᴴᴰ"tvg-id="axnwhite.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_white_pt.png",AXN WHITE ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8059.m3u8
+#EXTINF:-1 tvg-name="FOX"tvg-id="fox.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg",FOX
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2312.m3u8
+#EXTINF:-1 tvg-name="FOX ᴴᴰ"tvg-id="fox.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg",FOX ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28531.m3u8
+#EXTINF:-1 tvg-name="FOX COMEDY"tvg-id="foxcomedy.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_comedy_pt.png",FOX COMEDY
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2311.m3u8
+#EXTINF:-1 tvg-name="FOX COMEDY ᴴᴰ"tvg-id="foxcomedy.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_comedy_pt.png",FOX COMEDY ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8116.m3u8
+#EXTINF:-1 tvg-name="FOX CRIME"tvg-id="foxcrime.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png",FOX CRIME
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2314.m3u8
+#EXTINF:-1 tvg-name="FOX CRIME ᴴᴰ"tvg-id="foxcrime.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png",FOX CRIME ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8123.m3u8
+#EXTINF:-1 tvg-name="FOX LIFE"tvg-id="foxlife.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png",FOX LIFE
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2313.m3u8
+#EXTINF:-1 tvg-name="FOX LIFE ᴴᴰ"tvg-id="foxlife.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png",FOX LIFE ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8115.m3u8
+#EXTINF:-1 tvg-name="TV GOLBO NOW"tvg-id="globonow.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/globo-now.png",TV GOLBO NOW
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/9821.m3u8
+#EXTINF:-1 tvg-name="TV GLOBO ᴴᴰ"tvg-id="globo.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/globo-now-br.png",TV GLOBO ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28572.m3u8
+#EXTINF:-1 tvg-name="TV GLOBO ᶠᴴᴰ"tvg-id="globo.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/globo-now-br.png",TV GLOBO ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28573.m3u8
+#EXTINF:-1 tvg-name="FOOD NETWORK"tvg-id="foodnetwork.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/food-network.png",FOOD NETWORK
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28578.m3u8
+#EXTINF:-1 tvg-name="24 KITCHEN ᴴᴰ"tvg-id="24kitchen.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen.png",24 KITCHEN ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8058.m3u8
+#EXTINF:-1 tvg-name="Benfica TV ᴴᴰ"tvg-id="benficatv1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/benfica_tv_pt.png",Benfica TV ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8066.m3u8
+#EXTINF:-1 tvg-name="AMC"tvg-id="amc.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png",AMC
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8054.m3u8
+#EXTINF:-1 tvg-name="AMC ᴴᴰ"tvg-id="amc.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png",AMC ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28523.m3u8
+#EXTINF:-1 tvg-name="A BOLA"tvg-id="abolatv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_bola_tv_pt.png",A BOLA
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8070.m3u8
+#EXTINF:-1 tvg-name="SYFY"tvg-id="syfy.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy-us.svg",SYFY
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2322.m3u8
+#EXTINF:-1 tvg-name="SYFY ᴴᴰ"tvg-id="syfy.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy-us.svg",SYFY ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28529.m3u8
+#EXTINF:-1 tvg-name="TVI FICCAO"tvg-id="tvificcao.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png",TVI FICCAO
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3435.m3u8
+#EXTINF:-1 tvg-name="TVI FICÇÃO"tvg-id="tvificcao.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png",TVI FICÇÃO
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28568.m3u8
+#EXTINF:-1 tvg-name="TVI FICCAO ᴴᴰ"tvg-id="tvificcao.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvi_pt_ficcao.png",TVI FICCAO ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28569.m3u8
+#EXTINF:-1 tvg-name="CM TV"tvg-id="cmtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cm_tv_pt.png",CM TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3434.m3u8
+#EXTINF:-1 tvg-name="TLC"tvg-id="tlc.pt"tvg-logo="",TLC
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28575.m3u8
+#EXTINF:-1 tvg-name="DOG TV"tvg-id="dogtv.pt"tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/dogtv.png",DOG TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28584.m3u8
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT"tvg-id="eentertainment.pt"tvg-logo="",E! ENTERTAINMENT
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28579.m3u8
+#EXTINF:-1 tvg-name="BLAZE"tvg-id="blazehd.pt"tvg-logo="",BLAZE
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3429.m3u8
+#EXTINF:-1 tvg-name="CANAL 180 ᴴᴰ"tvg-id="canal180.pt"tvg-logo="",CANAL 180 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28627.m3u8
+#EXTINF:-1 tvg-name="CANAL HISTÓRIA"tvg-id="historia.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/historia_pt.png",CANAL HISTÓRIA
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28593.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL ᴴᴰ"tvg-id="discoverychannelhd.pt"tvg-logo="",DISCOVERY CHANNEL ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28590.m3u8
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL ᴴᴰ"tvg-id="travelchannel.pt"tvg-logo="",TRAVEL CHANNEL ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28580.m3u8
+#EXTINF:-1 tvg-name="NATGEO WILD"tvg-id="nationalgeographicwild.pt"tvg-logo="",NATGEO WILD
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3510.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD ᴴᴰ"tvg-id="nationalgeographicwild.pt"tvg-logo="",NATIONAL GEOGRAPHIC WILD ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28588.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC"tvg-id="nationalgeographic.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",NATIONAL GEOGRAPHIC
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3509.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ"tvg-id="nationalgeographic.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png",NATIONAL GEOGRAPHIC ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28586.m3u8
+#EXTINF:-1 tvg-name="ODISSEIA ᴴᴰ"tvg-id="odisseia.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/odisseia_pt.png",ODISSEIA ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28592.m3u8
+#EXTINF:-1 tvg-name="FASHION TV"tvg-id=""tvg-logo="",FASHION TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8057.m3u8
+#EXTINF:-1 tvg-name="FASHION TV ᴴᴰ"tvg-id=""tvg-logo="",FASHION TV ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28595.m3u8
+#EXTINF:-1 tvg-name="MOTORSPORT TV"tvg-id="motorvision.pt"tvg-logo="",MOTORSPORT TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8068.m3u8
+#EXTINF:-1 tvg-name="SPORTING TV ᴴᴰ"tvg-id="sportingtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sporting_tv_pt.png",SPORTING TV ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8074.m3u8
+#EXTINF:-1 tvg-name="PORTO CANAL"tvg-id="porto.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/porto-canal-pt.svg",PORTO CANAL
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2315.m3u8
+#EXTINF:-1 tvg-name="PORTO CANAL ᴴᴰ"tvg-id="porto.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/porto-canal-pt.svg",PORTO CANAL ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28581.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT1"tvg-id="eurosport1.pt"tvg-logo="http://cine-app.com:8000/logo/fr/eurosport.jpg",EUROSPORT1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2367.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 1 ᴴᴰ"tvg-id="eurosport1.pt"tvg-logo="",EUROSPORT 1 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28596.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT2"tvg-id="eurosport2.pt"tvg-logo="http://cine-app.com:8000/logo/fr/eurosport.jpg",EUROSPORT2
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/3517.m3u8
+#EXTINF:-1 tvg-name="EUROSPORT 2 ᴴᴰ"tvg-id="eurosport2.pt"tvg-logo="",EUROSPORT 2 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28597.m3u8
+#EXTINF:-1 tvg-name="SPORT TV+"tvg-id="sporttvplus.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_mais.png",SPORT TV+
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5150.m3u8
+#EXTINF:-1 tvg-name="SPORT TV + ᴴᴰ"tvg-id="sporttvplus.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_mais.png",SPORT TV + ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28536.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1"tvg-id="sporttv1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png",SPORT TV 1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5151.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 1 ᴴᴰ"tvg-id="sporttv1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_1.png",SPORT TV 1 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2325.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 2"tvg-id="sporttv2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png",SPORT TV 2
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5152.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 2 ᴴᴰ"tvg-id="sporttv2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_2.png",SPORT TV 2 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2295.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 3"tvg-id="sporttv3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_3.png",SPORT TV 3
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5153.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 3 ᴴᴰ"tvg-id="sporttv3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_3.png",SPORT TV 3 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2296.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 4"tvg-id="sporttv4.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_4.png",SPORT TV 4
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28541.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 4 ᴴᴰ"tvg-id="sporttv4.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_4.png",SPORT TV 4 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2297.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 5"tvg-id="sporttv5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt.png",SPORT TV 5
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28543.m3u8
+#EXTINF:-1 tvg-name="SPORT TV 5 ᴴᴰ"tvg-id="sporttv5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt.png",SPORT TV 5 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2298.m3u8
+#EXTINF:-1 tvg-name="SPORT TV NBA"tvg-id="sporttvnba.pt"tvg-logo="",SPORT TV NBA
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/17260.m3u8
+#EXTINF:-1 tvg-name="SPORT TV NBA ᶠᴴᴰ"tvg-id="sporttvnba.pt"tvg-logo="",SPORT TV NBA ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28545.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1"tvg-id="elevensports1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",ELEVEN SPORTS 1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28549.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT1"tvg-id="elevensports1.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",ELEVEN SPORT1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7451.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2"tvg-id="elevensports2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",ELEVEN SPORTS 2
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28551.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT2"tvg-id="elevensports2.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",ELEVEN SPORT2
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7452.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3"tvg-id="elevensports3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",ELEVEN SPORTS 3
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28553.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT 3"tvg-id="elevensports3.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",ELEVEN SPORT 3
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7453.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4"tvg-id="elevensports4.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORTS 4
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28555.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT4"tvg-id="elevensports4.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png",ELEVEN SPORT4
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7454.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5"tvg-id="elevensports5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORTS 5
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28557.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT5"tvg-id="elevensports5.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORT5
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7455.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORT6"tvg-id="elevensports6.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORT6
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/7456.m3u8
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6"tvg-id="elevensports6.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports-network-uk.png",ELEVEN SPORTS 6
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28559.m3u8
+#EXTINF:-1 tvg-name="SPORTING TV"tvg-id="sportingtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sporting_tv_pt.png",SPORTING TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28547.m3u8
+#EXTINF:-1 tvg-name="SPORTING TV ᶠᴴᴰ"tvg-id="sportingtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sporting_tv_pt.png",SPORTING TV ᶠᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28548.m3u8
+#EXTINF:-1 tvg-name="A BOLA TV"tvg-id="abolatv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_bola_tv_pt.png",A BOLA TV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28561.m3u8
+#EXTINF:-1 tvg-name="A BOLA TV ᴴᴰ"tvg-id="abolatv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_bola_tv_pt.png",A BOLA TV ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28562.m3u8
+#EXTINF:-1 tvg-name="CANAL 11"tvg-id="canal11.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-11-pt.png",CANAL 11
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28564.m3u8
+#EXTINF:-1 tvg-name="CANAL 11 ᴴᴰ"tvg-id="canal11.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-11-pt.png",CANAL 11 ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28565.m3u8
+#EXTINF:-1 tvg-name="BENFICA1"tvg-id="benficatv1.pt"tvg-logo="",BENFICA1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/2301.m3u8
+#EXTINF:-1 tvg-name="VH1"tvg-id="vh1.pt"tvg-logo="",VH1
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8056.m3u8
+#EXTINF:-1 tvg-name="MTV"tvg-id="mtv.pt"tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.png",MTV
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5041.m3u8
+#EXTINF:-1 tvg-name="MCM TOP"tvg-id="mcmtophd.pt"tvg-logo="http://cine-app.com:8000/logo/fr/mcm.jpg",MCM TOP
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/8072.m3u8
+#EXTINF:-1 tvg-name="FUEL TV ᴴᴰ"tvg-id="fueltv.pt"tvg-logo="",FUEL TV ᴴᴰ
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/28600.m3u8
+#EXTINF:-1 tvg-name="##### JANEIRO 2024 |#####"tvg-id=""tvg-logo="http://cine-app.com:8000/logo/categorie/portugal.jpg",##### JANEIRO 2024 |#####
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/16697.m3u8
+#EXTINF:-1 tvg-name="24 KITCHEN"tvg-id="24kitchen.pt"tvg-logo="",24 KITCHEN
+http://cine-app.com:8000/live/mag00:1A:79:6B:A8:98/WiYhPs45oS/5065.m3u8
