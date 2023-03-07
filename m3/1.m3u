@@ -1,479 +1,147 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
-http://243204782575353573.stonehuge.xyz:80/live/vi06087/7798764/353573.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
-http://243204782575416336.stonehuge.xyz:80/live/vi06087/7798764/416336.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᶠᴴᴰ
-http://243204782575398577.stonehuge.xyz:80/live/vi06087/7798764/398577.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
-http://243204782575339526.stonehuge.xyz:80/live/vi06087/7798764/339526.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
-http://243204782575339487.stonehuge.xyz:80/live/vi06087/7798764/339487.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
-http://243204782575339493.stonehuge.xyz:80/live/vi06087/7798764/339493.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
-http://243204782575339491.stonehuge.xyz:80/live/vi06087/7798764/339491.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
-http://243204782575416385.stonehuge.xyz:80/live/vi06087/7798764/416385.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA ᴴᴰ
-http://243204782575416344.stonehuge.xyz:80/live/vi06087/7798764/416344.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
-http://243204782575416168.stonehuge.xyz:80/live/vi06087/7798764/416168.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᶠᴴᴰ
-http://243204782575386742.stonehuge.xyz:80/live/vi06087/7798764/386742.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᶠᴴᴰ
-http://243204782575394714.stonehuge.xyz:80/live/vi06087/7798764/394714.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᶠᴴᴰ
-http://243204782575402438.stonehuge.xyz:80/live/vi06087/7798764/402438.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᶠᴴᴰ
-http://243204782575339532.stonehuge.xyz:80/live/vi06087/7798764/339532.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-xp-v2.png",TRAVEL XP ᴴᴰ
-http://243204782575414190.stonehuge.xyz:80/live/vi06087/7798764/414190.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᶠᴴᴰ
-http://243204782575416346.stonehuge.xyz:80/live/vi06087/7798764/416346.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME ᴴᴰ
-http://243204782575414140.stonehuge.xyz:80/live/vi06087/7798764/414140.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87357.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87356.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87358.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87355.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87353.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87359.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87361.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87360.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTICIAS ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87440.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL  ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87442.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87443.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87304.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87286.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87441.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87287.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87288.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87295.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87290.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87297.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87446.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87447.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87300.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87444.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87435.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87436.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK ᴴᴰ
-http://243204782575410943.stonehuge.xyz:80/live/vi06087/7798764/410943.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ᶠᴴᴰ
-http://243204782575417940.stonehuge.xyz:80/live/vi06087/7798764/417940.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS ᶠᴴᴰ
-http://243204782575416374.stonehuge.xyz:80/live/vi06087/7798764/416374.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
-http://243204782575417938.stonehuge.xyz:80/live/vi06087/7798764/417938.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
-http://243204782575416330.stonehuge.xyz:80/live/vi06087/7798764/416330.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
-http://243204782575405210.stonehuge.xyz:80/live/vi06087/7798764/405210.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᶠᴴᴰ
-http://243204782575339539.stonehuge.xyz:80/live/vi06087/7798764/339539.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᶠᴴᴰ
-http://243204782575416373.stonehuge.xyz:80/live/vi06087/7798764/416373.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᶠᴴᴰ
-http://243204782575416369.stonehuge.xyz:80/live/vi06087/7798764/416369.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
-http://243204782575339490.stonehuge.xyz:80/live/vi06087/7798764/339490.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
-http://243204782575402427.stonehuge.xyz:80/live/vi06087/7798764/402427.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
-http://243204782575416337.stonehuge.xyz:80/live/vi06087/7798764/416337.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᶠᴴᴰ
-http://243204782575374678.stonehuge.xyz:80/live/vi06087/7798764/374678.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᶠᴴᴰ
-http://243204782575416360.stonehuge.xyz:80/live/vi06087/7798764/416360.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
-http://243204782575398076.stonehuge.xyz:80/live/vi06087/7798764/398076.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᶠᴴᴰ
-http://243204782575416172.stonehuge.xyz:80/live/vi06087/7798764/416172.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
-http://243204782575417954.stonehuge.xyz:80/live/vi06087/7798764/417954.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
-http://243204782575398645.stonehuge.xyz:80/live/vi06087/7798764/398645.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᶠᴴᴰ
-http://243204782575417946.stonehuge.xyz:80/live/vi06087/7798764/417946.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
-http://243204782575416351.stonehuge.xyz:80/live/vi06087/7798764/416351.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-live.png",MTV LIVE ᴴᴰ
-http://243204782575414167.stonehuge.xyz:80/live/vi06087/7798764/414167.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/alma-lusa.png",ALMA LUSA ᶠᴴᴰ
-http://243204782575311211.stonehuge.xyz:80/live/vi06087/7798764/311211.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP ᴴᴰ
-http://243204782575414162.stonehuge.xyz:80/live/vi06087/7798764/414162.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
-http://243204782575307730.stonehuge.xyz:80/live/vi06087/7798764/307730.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᶠᴴᴰ
-http://243204782575416375.stonehuge.xyz:80/live/vi06087/7798764/416375.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
-http://243204782575416376.stonehuge.xyz:80/live/vi06087/7798764/416376.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
-http://243204782575416377.stonehuge.xyz:80/live/vi06087/7798764/416377.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
-http://243204782575339545.stonehuge.xyz:80/live/vi06087/7798764/339545.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BENFICA TV ᶠᴴᴰ
-http://243204782575371593.stonehuge.xyz:80/live/vi06087/7798764/371593.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
-http://243204782575307600.stonehuge.xyz:80/live/vi06087/7798764/307600.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
-http://243204782575419595.stonehuge.xyz:80/live/vi06087/7798764/419595.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
-http://243204782575416335.stonehuge.xyz:80/live/vi06087/7798764/416335.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
-http://243204782575412449.stonehuge.xyz:80/live/vi06087/7798764/412449.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
-http://243204782575318326.stonehuge.xyz:80/live/vi06087/7798764/318326.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
-http://243204782575380837.stonehuge.xyz:80/live/vi06087/7798764/380837.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
-http://243204782575416366.stonehuge.xyz:80/live/vi06087/7798764/416366.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
-http://243204782575339540.stonehuge.xyz:80/live/vi06087/7798764/339540.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
-http://243204782575408691.stonehuge.xyz:80/live/vi06087/7798764/408691.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q ᴴᴰ
-http://243204782575414133.stonehuge.xyz:80/live/vi06087/7798764/414133.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᶠᴴᴰ
-http://243204782575416397.stonehuge.xyz:80/live/vi06087/7798764/416397.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᶠᴴᴰ
-http://243204782575339570.stonehuge.xyz:80/live/vi06087/7798764/339570.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/dizi.png",DIZI CHANEL
-http://243204782575307647.stonehuge.xyz:80/live/vi06087/7798764/307647.m3u8
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87296.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E!
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87330.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/opto-v2.png",SIC OPTO
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87311.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87293.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87294.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87323.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
-http://243204782575307864.stonehuge.xyz:80/live/vi06087/7798764/307864.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
-http://243204782575307786.stonehuge.xyz:80/live/vi06087/7798764/307786.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",ELEVEN SPORTS 4 ᶠᴴᴰ
-http://243204782575307669.stonehuge.xyz:80/live/vi06087/7798764/307669.m3u8
-#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jA-LSta6OKG5CQ8ZlH8tzkEAzVPdMxyijykCRPYsxS5wQ.png",BTV ᴴᴰ
-http://243204782575307592.stonehuge.xyz:80/live/vi06087/7798764/307592.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png",RTP 3
-http://243204782575307781.stonehuge.xyz:80/live/vi06087/7798764/307781.m3u8
-#EXTINF:-1 tvg-logo="",SPTV 1 ᴴᴰ
-http://243204782575307853.stonehuge.xyz:80/live/vi06087/7798764/307853.m3u8
-#EXTINF:-1 tvg-logo="",SPTV 2 ᴴᴰ
-http://243204782575307854.stonehuge.xyz:80/live/vi06087/7798764/307854.m3u8
-#EXTINF:-1 tvg-logo="",SPTV 3 ᴴᴰ
-http://243204782575307855.stonehuge.xyz:80/live/vi06087/7798764/307855.m3u8
-#EXTINF:-1 tvg-logo="",SPTV 6 ᴴᴰ
-http://243204782575307858.stonehuge.xyz:80/live/vi06087/7798764/307858.m3u8
-#EXTINF:-1 tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",ELEVEN SPORTS 1 ᴴᴰ
-http://243204782575339509.stonehuge.xyz:80/live/vi06087/7798764/339509.m3u8
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png",ELEVEN SPORTS 3 ᴴᴰ
-http://243204782575339513.stonehuge.xyz:80/live/vi06087/7798764/339513.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e29ab16dd731b9f11938c24282ed403c.png",EUROSPORT 1 ᶠᴴᴰ
-http://243204782575339518.stonehuge.xyz:80/live/vi06087/7798764/339518.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a633.png",ELEVEN SPORTS 2 ᴴᴰ
-http://243204782575344852.stonehuge.xyz:80/live/vi06087/7798764/344852.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png",MCM TOP
-http://243204782575348195.stonehuge.xyz:80/live/vi06087/7798764/348195.m3u8
-#EXTINF:-1 tvg-logo="",ID INVESTIGATION DISCOVERY
-http://243204782575349546.stonehuge.xyz:80/live/vi06087/7798764/349546.m3u8
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png",ELEVEN SPORTS 5 ᶠᴴᴰ
-http://243204782575352760.stonehuge.xyz:80/live/vi06087/7798764/352760.m3u8
-#EXTINF:-1 tvg-logo="",ELEVEN 4 ᶠᴴᴰ
-http://243204782575362264.stonehuge.xyz:80/live/vi06087/7798764/362264.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png",TV CINE EDITION ᴴ²⁶⁵
-http://243204782575364573.stonehuge.xyz:80/live/vi06087/7798764/364573.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6acaabb8655012b819b7e909f7eb920aeb78a49b1b72fe2230bf51ccde4abdc8.png",MTV PORTUGAL
-http://243204782575375550.stonehuge.xyz:80/live/vi06087/7798764/375550.m3u8
-#EXTINF:-1 tvg-logo="https://odisseia.pt/wp-content/uploads/2019/10/PT_ODI_LOGO_ADAP_2117x709.png",ODISSEIA
-http://243204782575377369.stonehuge.xyz:80/live/vi06087/7798764/377369.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png",24 KITCHEN ᶠᴴᴰ
-http://243204782575384865.stonehuge.xyz:80/live/vi06087/7798764/384865.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",A BOLA TV
-http://243204782575384866.stonehuge.xyz:80/live/vi06087/7798764/384866.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png",SIC
-http://243204782575388093.stonehuge.xyz:80/live/vi06087/7798764/388093.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a633.png",ELEVEN SPORTS 2 ᴴ²⁶⁵
-http://243204782575394664.stonehuge.xyz:80/live/vi06087/7798764/394664.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png",TV CINE TOP
-http://243204782575394716.stonehuge.xyz:80/live/vi06087/7798764/394716.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png",TV CINE ACTION ᴴ²⁶⁵
-http://243204782575395365.stonehuge.xyz:80/live/vi06087/7798764/395365.m3u8
-#EXTINF:-1 tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png",BENFICA ᶠᴴᴰ
-http://243204782575396810.stonehuge.xyz:80/live/vi06087/7798764/396810.m3u8
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png",ELEVEN SPORTS 5 ᴴᴰ
-http://243204782575396822.stonehuge.xyz:80/live/vi06087/7798764/396822.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png",ELEVEN SPORTS 6 ᶠᴴᴰ
-http://243204782575398063.stonehuge.xyz:80/live/vi06087/7798764/398063.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/2560px-AMC_Break.svg.png",AMC BREAK
-http://243204782575398536.stonehuge.xyz:80/live/vi06087/7798764/398536.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN ᴴ²⁶⁵
-http://243204782575398540.stonehuge.xyz:80/live/vi06087/7798764/398540.m3u8
-#EXTINF:-1 tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png",CINEMUNDO ᶠᴴᴰ
-http://243204782575398551.stonehuge.xyz:80/live/vi06087/7798764/398551.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png",FOX MOVIES ᴴ²⁶⁵
-http://243204782575398581.stonehuge.xyz:80/live/vi06087/7798764/398581.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png",FOX ᴴ²⁶⁵
-http://243204782575398583.stonehuge.xyz:80/live/vi06087/7798764/398583.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png",NOS STUDIOS ᴴ²⁶⁵
-http://243204782575398603.stonehuge.xyz:80/live/vi06087/7798764/398603.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/86/RecordTV_logo_2016.png",RECORD TV
-http://243204782575398609.stonehuge.xyz:80/live/vi06087/7798764/398609.m3u8
-#EXTINF:-1 tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCpuXuL6UvyCq75tzA2rRhBvGx2-h2nwckZCzZGCsCj9A.png",CRIME+INVESTIGATION
-http://243204782575307636.stonehuge.xyz:80/live/vi06087/7798764/307636.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png",SPORT TV 2 ᴴ²⁶⁵
-http://243204782575398625.stonehuge.xyz:80/live/vi06087/7798764/398625.m3u8
-#EXTINF:-1 tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png",SPORT TV
-http://243204782575398636.stonehuge.xyz:80/live/vi06087/7798764/398636.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png",TVCINE EMOTION ᴴ²⁶⁵
-http://243204782575398646.stonehuge.xyz:80/live/vi06087/7798764/398646.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png",TVCINE TOP ᴴ²⁶⁵
-http://243204782575398647.stonehuge.xyz:80/live/vi06087/7798764/398647.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/6/63/TVI_logo_2017.png",TVI ᴴ²⁶⁵
-http://243204782575398655.stonehuge.xyz:80/live/vi06087/7798764/398655.m3u8
-#EXTINF:-1 tvg-logo="",FOOD NETWORK
-http://243204782575400086.stonehuge.xyz:80/live/vi06087/7798764/400086.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png",SPORT TV 4 ᶠᴴᴰ
-http://243204782575400103.stonehuge.xyz:80/live/vi06087/7798764/400103.m3u8
-#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL ᶠᴴᴰ
-http://243204782575401978.stonehuge.xyz:80/live/vi06087/7798764/401978.m3u8
-#EXTINF:-1 tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",ELEVEN SPORTS 1 ᴴ²⁶⁵
-http://243204782575401982.stonehuge.xyz:80/live/vi06087/7798764/401982.m3u8
-#EXTINF:-1 tvg-logo="",TVI 24
-http://243204782575403640.stonehuge.xyz:80/live/vi06087/7798764/403640.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",A BOLA TV ᴴᴰ
-http://243204782575405211.stonehuge.xyz:80/live/vi06087/7798764/405211.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",ELEVEN SPORTS 4 ᴴᴰ
-http://243204782575405226.stonehuge.xyz:80/live/vi06087/7798764/405226.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png",ELEVEN SPORTS 4
-http://243204782575405227.stonehuge.xyz:80/live/vi06087/7798764/405227.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png",ELEVEN SPORTS 6 ᴴᴰ
-http://243204782575405228.stonehuge.xyz:80/live/vi06087/7798764/405228.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png",ELEVEN SPORTS 6
-http://243204782575405229.stonehuge.xyz:80/live/vi06087/7798764/405229.m3u8
-#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/eurosport1-hdtvler-z5hb.png",EUROSPORT 1
-http://243204782575405230.stonehuge.xyz:80/live/vi06087/7798764/405230.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png",FOX ᴴᴰ
-http://243204782575405233.stonehuge.xyz:80/live/vi06087/7798764/405233.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Globo_Internacional_logo.png",GLOBO TV ᴴᴰ
-http://243204782575405238.stonehuge.xyz:80/live/vi06087/7798764/405238.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png",HOLLYWOOD ᴴ²⁶⁵
-http://243204782575405239.stonehuge.xyz:80/live/vi06087/7798764/405239.m3u8
-#EXTINF:-1 tvg-logo="https://rotaportoliberal.pt/media/2017/07/logo-porto-canal.png",PORTO CANAL ᴴᴰ
-http://243204782575405250.stonehuge.xyz:80/live/vi06087/7798764/405250.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/RTP.png",RTP 1 ᴴᴰ
-http://243204782575405251.stonehuge.xyz:80/live/vi06087/7798764/405251.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png",RTP 3 ᴴᴰ
-http://243204782575405255.stonehuge.xyz:80/live/vi06087/7798764/405255.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png",SIC MULHER ᴴᴰ
-http://243204782575405258.stonehuge.xyz:80/live/vi06087/7798764/405258.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/SICNWhite.png",SIC NOTICIAS ᴴᴰ
-http://243204782575405259.stonehuge.xyz:80/live/vi06087/7798764/405259.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png",SIC ᴴᴰ
-http://243204782575405260.stonehuge.xyz:80/live/vi06087/7798764/405260.m3u8
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png",SPORT TV + ᴴᴰ
-http://243204782575405262.stonehuge.xyz:80/live/vi06087/7798764/405262.m3u8
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/reviews/sport_tv_plus/european_qualifiers_antevisao_jornadas_9_e_10.png",SPORT TV +
-http://243204782575405263.stonehuge.xyz:80/live/vi06087/7798764/405263.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png",SPORT TV 1 ᴴᴰ
-http://243204782575405264.stonehuge.xyz:80/live/vi06087/7798764/405264.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.millereponses.com/wp-content/uploads/2018/11/sport-tv2hd-frequence-hispasat.png",SPORT TV 2 ᴴᴰ
-http://243204782575405265.stonehuge.xyz:80/live/vi06087/7798764/405265.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png",SPORT TV 3 ᴴᴰ
-http://243204782575405266.stonehuge.xyz:80/live/vi06087/7798764/405266.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png",SPORT TV ᴴᴰ
-http://243204782575405268.stonehuge.xyz:80/live/vi06087/7798764/405268.m3u8
-#EXTINF:-1 tvg-logo="",ELEVEN 5 ᶠᴴᴰ
-http://243204782575406807.stonehuge.xyz:80/live/vi06087/7798764/406807.m3u8
-#EXTINF:-1 tvg-logo="",ELEVEN 6 ᶠᴴᴰ
-http://243204782575406808.stonehuge.xyz:80/live/vi06087/7798764/406808.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png",AMC ᴴᴰ
-http://243204782575410944.stonehuge.xyz:80/live/vi06087/7798764/410944.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png",AXN ᴴᴰ
-http://243204782575410945.stonehuge.xyz:80/live/vi06087/7798764/410945.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png",CANAL 11 ᴴᴰ
-http://243204782575410950.stonehuge.xyz:80/live/vi06087/7798764/410950.m3u8
-#EXTINF:-1 tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png",CINEMUNDO ᴴᴰ
-http://243204782575410954.stonehuge.xyz:80/live/vi06087/7798764/410954.m3u8
-#EXTINF:-1 tvg-logo="https://www.cm-tv.pt/i/logo-share.png",CMTV ᴴᴰ
-http://243204782575410956.stonehuge.xyz:80/live/vi06087/7798764/410956.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/1200px-CNN_Portugal.svg.png",CNN PORTUGAL ᴴᴰ
-http://243204782575410957.stonehuge.xyz:80/live/vi06087/7798764/410957.m3u8
-#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/06/E.png",E! ENTERTAINMENT
-http://243204782575410962.stonehuge.xyz:80/live/vi06087/7798764/410962.m3u8
-#EXTINF:-1 tvg-logo="",ELEVEN 3 ᶠᴴᴰ
-http://243204782575410963.stonehuge.xyz:80/live/vi06087/7798764/410963.m3u8
-#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/eurosport1-hdtvler-z5hb.png",EUROSPORT 1 ᴴᴰ
-http://243204782575410964.stonehuge.xyz:80/live/vi06087/7798764/410964.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/14618607951807.png",EUROSPORT 2 ᴴᴰ
-http://243204782575410965.stonehuge.xyz:80/live/vi06087/7798764/410965.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png",FOX MOVIES ᴴᴰ
-http://243204782575410966.stonehuge.xyz:80/live/vi06087/7798764/410966.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png",HOLLYWOOD ᴴᴰ
-http://243204782575410967.stonehuge.xyz:80/live/vi06087/7798764/410967.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png",SPORT TV 4 ᴴᴰ
-http://243204782575410980.stonehuge.xyz:80/live/vi06087/7798764/410980.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png",SPORT TV 5 ᴴᴰ
-http://243204782575410981.stonehuge.xyz:80/live/vi06087/7798764/410981.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sporting-tv-logo-442B250094-seeklogo.com.png",SPORTING TV ᴴᴰ
-http://243204782575410983.stonehuge.xyz:80/live/vi06087/7798764/410983.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/tvi-ficcao.png",TVI FICCAO ᴴᴰ
-http://243204782575410988.stonehuge.xyz:80/live/vi06087/7798764/410988.m3u8
-#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png",AXN MOVIES ᴴᴰ
-http://243204782575412432.stonehuge.xyz:80/live/vi06087/7798764/412432.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png",AXN WHITE ᴴᴰ
-http://243204782575412433.stonehuge.xyz:80/live/vi06087/7798764/412433.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png",CRIME INVESTIGATION
-http://243204782575412441.stonehuge.xyz:80/live/vi06087/7798764/412441.m3u8
-#EXTINF:-1 tvg-logo="https://d1qxviojg2h5lt.cloudfront.net/images/01CV8RBN6BPYFJF2S09JRA3JVN/discovery400.png",DISCOVERY ᴴᴰ
-http://243204782575412442.stonehuge.xyz:80/live/vi06087/7798764/412442.m3u8
-#EXTINF:-1 tvg-logo="https://dizistatic.tv2zcdn.com/images/489bd450f8a0008325d01c5adeabd7c91598b538.png",DIZI CHANNEL
-http://243204782575412445.stonehuge.xyz:80/live/vi06087/7798764/412445.m3u8
-#EXTINF:-1 tvg-logo="https://famatv.pt/wp-content/uploads/2020/10/FamaTV_cor-blackbg-horizontal.png",FAMA TV
-http://243204782575412450.stonehuge.xyz:80/live/vi06087/7798764/412450.m3u8
-#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png",FOX COMEDY ᴴᴰ
-http://243204782575412451.stonehuge.xyz:80/live/vi06087/7798764/412451.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png",FOX CRIME ᴴᴰ
-http://243204782575412452.stonehuge.xyz:80/live/vi06087/7798764/412452.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png",FOX LIFE ᴴᴰ
-http://243204782575412453.stonehuge.xyz:80/live/vi06087/7798764/412453.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1024px-National_Geographic_Wild_logo.svg.png",NAT GEO WILD ᴴᴰ
-http://243204782575412460.stonehuge.xyz:80/live/vi06087/7798764/412460.m3u8
-#EXTINF:-1 tvg-logo="https://www.nationalgeographic.fr/images/logo.png",NAT GEO ᴴᴰ
-http://243204782575412462.stonehuge.xyz:80/live/vi06087/7798764/412462.m3u8
-#EXTINF:-1 tvg-logo="https://odisseia.pt/wp-content/uploads/2019/10/PT_ODI_LOGO_ADAP_2117x709.png",ODISSEIA ᴴᴰ
-http://243204782575412466.stonehuge.xyz:80/live/vi06087/7798764/412466.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/81/31/7a/81317a6d2382e0213799c22ac89da9a8.png",SPORT TV 1 ᴴ²⁶⁵
-http://243204782575412467.stonehuge.xyz:80/live/vi06087/7798764/412467.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png",SYFY ᴴᴰ
-http://243204782575412468.stonehuge.xyz:80/live/vi06087/7798764/412468.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png",TVI REALITY ᴴᴰ
-http://243204782575412471.stonehuge.xyz:80/live/vi06087/7798764/412471.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png",24 KITCHEN ᴴᴰ
-http://243204782575414124.stonehuge.xyz:80/live/vi06087/7798764/414124.m3u8
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png",ALMA LUSA ᴴᴰ
-http://243204782575414126.stonehuge.xyz:80/live/vi06087/7798764/414126.m3u8
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png",ALMA LUSA
-http://243204782575414127.stonehuge.xyz:80/live/vi06087/7798764/414127.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bndlyr.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png",CANAL 180 ᴴᴰ
-http://243204782575414131.stonehuge.xyz:80/live/vi06087/7798764/414131.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png",CANCAO NOVA ᴴᴰ
-http://243204782575414134.stonehuge.xyz:80/live/vi06087/7798764/414134.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png",CASA COZINHA ᴴᴰ
-http://243204782575414136.stonehuge.xyz:80/live/vi06087/7798764/414136.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",DISCOVERY ID ᴴᴰ
-http://243204782575414141.stonehuge.xyz:80/live/vi06087/7798764/414141.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png",DISCOVERY ID
-http://243204782575414142.stonehuge.xyz:80/live/vi06087/7798764/414142.m3u8
-#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/06/E.png",E! ENTERTAINMENT ᴴᴰ
-http://243204782575414144.stonehuge.xyz:80/live/vi06087/7798764/414144.m3u8
-#EXTINF:-1 tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/09/euronews-vector-logo.png",EURONEWS
-http://243204782575414146.stonehuge.xyz:80/live/vi06087/7798764/414146.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Fashion_TV_Logo.png",FASHION TV ᴴᴰ
-http://243204782575414147.stonehuge.xyz:80/live/vi06087/7798764/414147.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Fashion_TV_Logo.png",FASHION TV
-http://243204782575414148.stonehuge.xyz:80/live/vi06087/7798764/414148.m3u8
-#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2019/05/fuel-tv.png",FUEL TV ᴴᴰ
-http://243204782575414150.stonehuge.xyz:80/live/vi06087/7798764/414150.m3u8
-#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2019/05/fuel-tv.png",FUEL TV
-http://243204782575414151.stonehuge.xyz:80/live/vi06087/7798764/414151.m3u8
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Localvisao-TV.png",LOCAL VISAO TV ᴴᴰ
-http://243204782575414160.stonehuge.xyz:80/live/vi06087/7798764/414160.m3u8
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/Localvisao-TV.png",LOCAL VISAO TV
-http://243204782575414161.stonehuge.xyz:80/live/vi06087/7798764/414161.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00S
-http://243204782575414166.stonehuge.xyz:80/live/vi06087/7798764/414166.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/178/921/png-transparent-mtv-live-hd-mtv2-viacom-media-networks-others-television-text-logo.png",MTV LIVE
-http://243204782575414168.stonehuge.xyz:80/live/vi06087/7798764/414168.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6acaabb8655012b819b7e909f7eb920aeb78a49b1b72fe2230bf51ccde4abdc8.png",MTV PORTUGAL ᴴᴰ
-http://243204782575414169.stonehuge.xyz:80/live/vi06087/7798764/414169.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/86/RecordTV_logo_2016.png",RECORD TV ᴴᴰ
-http://243204782575414173.stonehuge.xyz:80/live/vi06087/7798764/414173.m3u8
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/s-mais.png",SAUDE MAIS ᴴᴰ
-http://243204782575414176.stonehuge.xyz:80/live/vi06087/7798764/414176.m3u8
-#EXTINF:-1 tvg-logo="https://www.meo.pt/PublishingImages/canais/s-mais.png",SAUDE MAIS
-http://243204782575414177.stonehuge.xyz:80/live/vi06087/7798764/414177.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png",SIC CARAS ᴴᴰ
-http://243204782575414178.stonehuge.xyz:80/live/vi06087/7798764/414178.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603915491103666177/-PFXaSvQ_400x400.png",SIC RADICAL ᴴᴰ
-http://243204782575414180.stonehuge.xyz:80/live/vi06087/7798764/414180.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603915491103666177/-PFXaSvQ_400x400.png",SIC RADICAL
-http://243204782575414181.stonehuge.xyz:80/live/vi06087/7798764/414181.m3u8
-#EXTINF:-1 tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png",TRAVELXP
-http://243204782575414191.stonehuge.xyz:80/live/vi06087/7798764/414191.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/6/63/TVI_logo_2017.png",TVI ᴴᴰ
-http://243204782575414199.stonehuge.xyz:80/live/vi06087/7798764/414199.m3u8
-#EXTINF:-1 tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png",KOMBAT SPORT ᴴᴰ
-http://243204782575414825.stonehuge.xyz:80/live/vi06087/7798764/414825.m3u8
-#EXTINF:-1 tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png",AXN MOVIES ᴴ²⁶⁵
-http://243204782575416159.stonehuge.xyz:80/live/vi06087/7798764/416159.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png",AXN WHITE ᴴ²⁶⁵
-http://243204782575416160.stonehuge.xyz:80/live/vi06087/7798764/416160.m3u8
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png",ELEVEN SPORTS 3 ᴴ²⁶⁵
-http://243204782575416164.stonehuge.xyz:80/live/vi06087/7798764/416164.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dcf244bfae.png",SPORTV
-http://243204782575416170.stonehuge.xyz:80/live/vi06087/7798764/416170.m3u8
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png",BENFICA TV ᴴᴰ
-http://243204782575416325.stonehuge.xyz:80/live/vi06087/7798764/416325.m3u8
-#EXTINF:-1 tvg-logo="",BLAZE TV
-http://243204782575416326.stonehuge.xyz:80/live/vi06087/7798764/416326.m3u8
-#EXTINF:-1 tvg-logo="https://fr.thematv.ca/images/channels/canal-q.png",CANAL Q
-http://243204782575307610.stonehuge.xyz:80/live/vi06087/7798764/307610.m3u8
-#EXTINF:-1 tvg-logo="",BLAZE
-http://243204782575416327.stonehuge.xyz:80/live/vi06087/7798764/416327.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2df8f6e6d22413d34871a4e44e7117fb.png",FUEL TV ᶠᴴᴰ
-http://243204782575416340.stonehuge.xyz:80/live/vi06087/7798764/416340.m3u8
-#EXTINF:-1 tvg-logo="",GLOBO ᶠᴴᴰ
-http://243204782575416342.stonehuge.xyz:80/live/vi06087/7798764/416342.m3u8
-#EXTINF:-1 tvg-logo="",LOCALVISãO TV ᴴᴰ
-http://243204782575416349.stonehuge.xyz:80/live/vi06087/7798764/416349.m3u8
-#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC WILD
-http://243204782575416354.stonehuge.xyz:80/live/vi06087/7798764/416354.m3u8
-#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC ᶠᴴᴰ
-http://243204782575416355.stonehuge.xyz:80/live/vi06087/7798764/416355.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4cefd33fa39d9f718ec85aef91a09896.png",NBA TV ᶠᴴᴰ
-http://243204782575416357.stonehuge.xyz:80/live/vi06087/7798764/416357.m3u8
-#EXTINF:-1 tvg-logo="https://rotaportoliberal.pt/media/2017/07/logo-porto-canal.png",PORTO CANAL ᶠᴴᴰ
-http://243204782575416363.stonehuge.xyz:80/live/vi06087/7798764/416363.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png",RTP 2 ᴴᴰ
-http://243204782575416365.stonehuge.xyz:80/live/vi06087/7798764/416365.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/1.bp.blogspot.com/-sSoHu8yNg7Q/V_YOzJcaLKI/AAAAAAAABq0/bJ4dJhM-DvIh8dugy8d63VfChRbzei6-ACLcB/s1600/urrwxq1436898891.png",SPORT TV 4 ᴴᴰ ᶠᴴᴰ
-http://243204782575416378.stonehuge.xyz:80/live/vi06087/7798764/416378.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png",SPORT TV 5 ᶠᴴᴰ
-http://243204782575416380.stonehuge.xyz:80/live/vi06087/7798764/416380.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png",SPORT TV 6 ᶠᴴᴰ
-http://243204782575416381.stonehuge.xyz:80/live/vi06087/7798764/416381.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png",SPORTING TV ᶠᴴᴰ
-http://243204782575416382.stonehuge.xyz:80/live/vi06087/7798764/416382.m3u8
-#EXTINF:-1 tvg-logo="",SPORTING ᶠᴴᴰ
-http://243204782575416383.stonehuge.xyz:80/live/vi06087/7798764/416383.m3u8
-#EXTINF:-1 tvg-logo="",TV RECORD ᶠᴴᴰ
-http://243204782575416391.stonehuge.xyz:80/live/vi06087/7798764/416391.m3u8
-#EXTINF:-1 tvg-logo="",TV RECORD
-http://243204782575416392.stonehuge.xyz:80/live/vi06087/7798764/416392.m3u8
-#EXTINF:-1 tvg-logo="",A BOLA
-http://243204782575417933.stonehuge.xyz:80/live/vi06087/7798764/417933.m3u8
-#EXTINF:-1 tvg-logo="",BLAZE ᴴᴰ
-http://243204782575417935.stonehuge.xyz:80/live/vi06087/7798764/417935.m3u8
-#EXTINF:-1 tvg-logo="",CNN PT ᶠᴴᴰ
-http://243204782575417939.stonehuge.xyz:80/live/vi06087/7798764/417939.m3u8
-#EXTINF:-1 tvg-logo="",TVCINE ACTION ᶠᴴᴰ
-http://243204782575417955.stonehuge.xyz:80/live/vi06087/7798764/417955.m3u8
-#EXTINF:-1 tvg-logo="",TVCINE EMOTION ᶠᴴᴰ
-http://243204782575417956.stonehuge.xyz:80/live/vi06087/7798764/417956.m3u8
-#EXTINF:-1 tvg-logo="",TVI FICÇAO ᶠᴴᴰ
-http://243204782575417957.stonehuge.xyz:80/live/vi06087/7798764/417957.m3u8
-#EXTINF:-1 tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",ELEVEN SPORTS 1 ᴴᴰ ᴴ²⁶⁵
-http://243204782575419594.stonehuge.xyz:80/live/vi06087/7798764/419594.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png",SPORT TV 6
-http://243204782575419600.stonehuge.xyz:80/live/vi06087/7798764/419600.m3u8
-#EXTINF:-1 tvg-logo="",SPTV 4 ᴴᴰ
-http://243204782575419603.stonehuge.xyz:80/live/vi06087/7798764/419603.m3u8
-#EXTINF:-1 tvg-logo="",SPTV 5 ᴴᴰ
-http://243204782575419604.stonehuge.xyz:80/live/vi06087/7798764/419604.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png",TRAVEL CHANNEL
-http://243204782575419606.stonehuge.xyz:80/live/vi06087/7798764/419606.m3u8
-#EXTINF:-1 tvg-logo="",TRAVEL CHENNEL
-http://243204782575419607.stonehuge.xyz:80/live/vi06087/7798764/419607.m3u8
-#EXTINF:-1 tvg-logo="",A BOLA ᶠᴴᴰ
-http://243204782575420846.stonehuge.xyz:80/live/vi06087/7798764/420846.m3u8
-#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL
-http://243204782575420848.stonehuge.xyz:80/live/vi06087/7798764/420848.m3u8
-#EXTINF:-1 tvg-logo="",ELEVEN 1 ᶠᴴᴰ
-http://243204782575420849.stonehuge.xyz:80/live/vi06087/7798764/420849.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png",TRAVEL CHANNEL ᴴ²⁶⁵
-http://243204782575420853.stonehuge.xyz:80/live/vi06087/7798764/420853.m3u8
-#EXTINF:-1 tvg-logo="",TVCINE EMOTION ᴴ²⁶⁵
-http://243204782575420854.stonehuge.xyz:80/live/vi06087/7798764/420854.m3u8
-#EXTINF:-1 tvg-logo="",TVCINE TOP ᴴ²⁶⁵
-http://243204782575420855.stonehuge.xyz:80/live/vi06087/7798764/420855.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/11dfc661a91cd89755e23af61a56807f.png",FOX SPORTS
-http://243204782575421072.stonehuge.xyz:80/live/vi06087/7798764/421072.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/historia.png",HISTORIA ᶠᴴᴰ
-http://243204782575421073.stonehuge.xyz:80/live/vi06087/7798764/421073.m3u8
-#EXTINF:-1 tvg-logo="",HISTÓRIA ᶠᴴᴰ
-http://243204782575421074.stonehuge.xyz:80/live/vi06087/7798764/421074.m3u8
-#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAFIC WILD ᶠᴴᴰ
-http://243204782575421075.stonehuge.xyz:80/live/vi06087/7798764/421075.m3u8
-#EXTINF:-1 tvg-logo="",NOS STUDIO ᶠᴴᴰ
-http://243204782575421076.stonehuge.xyz:80/live/vi06087/7798764/421076.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a277997b45f7deaf737abcb24349e34f.png",RIT EUROPA
-http://243204782575421077.stonehuge.xyz:80/live/vi06087/7798764/421077.m3u8
-#EXTINF:-1 tvg-logo="https://www.nba.com/assets/nbatv/logo/grid/nba-tv-horiz-color.png",SPORT TV NBA ᴴ²⁶⁵
-http://243204782575421078.stonehuge.xyz:80/live/vi06087/7798764/421078.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/2560px-Logo_SportTV.svg.png",SPORT TV ᶠᴴᴰ
-http://243204782575421079.stonehuge.xyz:80/live/vi06087/7798764/421079.m3u8
-#EXTINF:-1 tvg-logo="",SPORTV 1 ᶠᴴᴰ
-http://243204782575421080.stonehuge.xyz:80/live/vi06087/7798764/421080.m3u8
-#EXTINF:-1 tvg-logo="",##### 8 JUNHO 2023 #####
-http://243204782575421080.stonehuge.xyz:80/live/vi06087/7798764/421081.m3u8
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87450.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/alma-lusa.png",ALMA LUSA ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87468.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87325.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87476.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-hits.png",MTV HITS ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/68908.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-90s.png",MTV 90s
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/54435.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87472.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top.png",MCM TOP
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87473.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87354.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87351.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87352.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87346.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87345.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87347.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87348.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87349.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87350.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87393.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87394.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87396.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87395.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87398.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87399.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87400.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87401.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87402.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87403.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87405.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87406.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87407.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87408.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87409.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87410.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eurosport-1.png",EUROSPORT 1 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87411.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eurosport-2.png",EUROSPORT 2 ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87412.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/porto-canal.png",PORTO CANAL ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87289.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sporting-tv.png",SPORTING TV ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87397.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/globo.png",GLOBO ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87291.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/globo-now.png",GLOBO NOW  ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87292.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/record-tv.png",TV RECORD ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87298.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/food-network.png",FOOD NETWORK ᴴᴰ
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/87299.ts
+#EXTINF:-1 tvg-logo="",✽✽⭒ MAX. LIGA. 50 ⭒✽✽
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/755.ts
