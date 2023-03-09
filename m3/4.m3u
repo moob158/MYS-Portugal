@@ -1,385 +1,383 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
+#EXTINF:-1 tvg-name="FOX CRIME ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5777
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
+#EXTINF:-1 tvg-name="FOX LIFE ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5780
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᶠᴴᴰ
+#EXTINF:-1 tvg-name="FOX COMEDY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5782
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
+#EXTINF:-1 tvg-name="FOX ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5774
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
+#EXTINF:-1 tvg-name="AMC ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5769
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
+#EXTINF:-1 tvg-name="AXN ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5785
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
+#EXTINF:-1 tvg-name="AXN WHITE ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5788
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SYFY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5793
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA ᶠᴴᴰ
+#EXTINF:-1 tvg-name="HISTÓRIA ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5836
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
+#EXTINF:-1 tvg-name="NAT GEO ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5825
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᶠᴴᴰ
+#EXTINF:-1 tvg-name="DISCOVERY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5830
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5822
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ODISSEIA ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5837
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᶠᴴᴰ
+#EXTINF:-1 tvg-name="NAT GEO WILD ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5827
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ID INVESTIGATION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5832
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
+#EXTINF:-1 tvg-name="AMC CRIME" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
 http://thehive.tv:25461/brogandog/autumn36/5838
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK ᶠᴴᴰ
+#EXTINF:-1 tvg-name="AMC BREAK ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5834
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ᶠᴴᴰ
+#EXTINF:-1 tvg-name="E! ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5864
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SIC NOTÍCIAS ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5638
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
+#EXTINF:-1 tvg-name="CNN PORTUGAL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5640
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
+#EXTINF:-1 tvg-name="CMTV ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5642
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
+#EXTINF:-1 tvg-name="A BOLA TV ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5678
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
+#EXTINF:-1 tvg-name="AXN MOVIES ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5791
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
+#EXTINF:-1 tvg-name="CINEMUNDO ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5766
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
+#EXTINF:-1 tvg-name="FOX MOVIES ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5771
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᶠᴴᴰ
+#EXTINF:-1 tvg-name="HOLLYWOOD ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5764
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIO ᶠᴴᴰ
+#EXTINF:-1 tvg-name="NOS STUDIO ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIO ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5761
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE TOP ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5749
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE EDITION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5752
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5755
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5758
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-plus.png",TVCINE + ᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE + ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-plus.png",TVCINE + ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5746
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5612
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="RTP 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5616
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="RTP 3 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5626
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SIC ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5619
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVI ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5623
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SIC RADICAL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5651
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SIC MULHER ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5647
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SIC CARAS ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5649
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᴴᴰ
+#EXTINF:-1 tvg-name="MTV PORTUGAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5814
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
+#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
 http://thehive.tv:25461/brogandog/autumn36/5815
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/alma-lusa.png",ALMA LUSA ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ALMA LUSA ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/alma-lusa.png",ALMA LUSA ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5810
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
+#EXTINF:-1 tvg-name="MCM POP" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
 http://thehive.tv:25461/brogandog/autumn36/5812
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP
+#EXTINF:-1 tvg-name="MCM TOP" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP
 http://thehive.tv:25461/brogandog/autumn36/5813
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV + ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5684
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5687
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5692
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5696
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5710
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5714
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN 3 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5718
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BENFICA TV ᶠᴴᴰ
+#EXTINF:-1 tvg-name="BENFICA TV ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BENFICA TV ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5729
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="CANAL 11 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5681
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᴴᴰ
+#EXTINF:-1 tvg-name="TVI FICÇÃO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5653
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVI REALITY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5655
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
+#EXTINF:-1 tvg-name="RTP MEMÓRIA" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
 http://thehive.tv:25461/brogandog/autumn36/5629
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
+#EXTINF:-1 tvg-name="CANAL Q" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
 http://thehive.tv:25461/brogandog/autumn36/5666
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/artv.png",AR TV
+#EXTINF:-1 tvg-name="AR TV" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/artv.png",AR TV
 http://thehive.tv:25461/brogandog/autumn36/5634
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/casa-e-cozinha.png",CASA E COZINHA ᶠᴴᴰ
+#EXTINF:-1 tvg-name="CASA E COZINHA ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/casa-e-cozinha.png",CASA E COZINHA ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5664
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen.png",24 KITCHEN ᶠᴴᴰ
+#EXTINF:-1 tvg-name="24 KITCHEN ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen.png",24 KITCHEN ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5662
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/opto-v2.png",OPTO
+#EXTINF:-1 tvg-name="OPTO" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/opto-v2.png",OPTO
 http://thehive.tv:25461/brogandog/autumn36/5668
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
 http://thehive.tv:25461/brogandog/autumn36/5671
-#EXTINF:-1 tvg-logo="",E! ENTERTAINMENT
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT" tvg-logo="",E! ENTERTAINMENT
 http://thehive.tv:25461/brogandog/autumn36/5673
-#EXTINF:-1 tvg-logo="",RTP 1 ᴴᴰ
+#EXTINF:-1 tvg-name="RTP 1 ᴴᴰ" tvg-logo="",RTP 1 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5611
-#EXTINF:-1 tvg-logo="",RTP 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="",RTP 1 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5613
-#EXTINF:-1 tvg-logo="",RTP 2 ᴴᴰ
+#EXTINF:-1 tvg-name="RTP 2 ᴴᴰ" tvg-logo="",RTP 2 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5615
-#EXTINF:-1 tvg-logo="",SIC ᴴᴰ
+#EXTINF:-1 tvg-name="SIC ᴴᴰ" tvg-logo="",SIC ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5618
-#EXTINF:-1 tvg-logo="",SIC ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SIC ᶠᴴᴰ" tvg-logo="",SIC ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5620
-#EXTINF:-1 tvg-logo="",TVI ᴴᴰ
+#EXTINF:-1 tvg-name="TVI ᴴᴰ" tvg-logo="",TVI ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5622
-#EXTINF:-1 tvg-logo="",TVI ᶠᴴᴰ
+#EXTINF:-1 tvg-name="TVI ᶠᴴᴰ" tvg-logo="",TVI ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5624
-#EXTINF:-1 tvg-logo="",SIC NOTÍCIAS ᴴᴰ
+#EXTINF:-1 tvg-name="SIC NOTÍCIAS ᴴᴰ" tvg-logo="",SIC NOTÍCIAS ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5637
-#EXTINF:-1 tvg-logo="",CMTV ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="CMTV ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",CMTV ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5643
-#EXTINF:-1 tvg-logo="",EURONEWS
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="",EURONEWS
 http://thehive.tv:25461/brogandog/autumn36/5644
-#EXTINF:-1 tvg-logo="",CASA E COZINHA ᴴᴰ
+#EXTINF:-1 tvg-name="CASA E COZINHA ᴴᴰ" tvg-logo="",CASA E COZINHA ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5663
-#EXTINF:-1 tvg-logo="",FOOD NETWOORK
+#EXTINF:-1 tvg-name="FOOD NETWOORK" tvg-logo="",FOOD NETWOORK
 http://thehive.tv:25461/brogandog/autumn36/5665
-#EXTINF:-1 tvg-logo="",A BOLA TV ᴴᴰ
+#EXTINF:-1 tvg-name="A BOLA TV ᴴᴰ" tvg-logo="",A BOLA TV ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5677
-#EXTINF:-1 tvg-logo="",CANAL 11 ᴴᴰ
+#EXTINF:-1 tvg-name="CANAL 11 ᴴᴰ" tvg-logo="",CANAL 11 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5680
-#EXTINF:-1 tvg-logo="",SPORT TV + ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV + ᴴᴰ" tvg-logo="",SPORT TV + ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5683
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="",SPORT TV 1 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5686
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 1 ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",SPORT TV 1 ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5688
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ⁴ᴷ
+#EXTINF:-1 tvg-name="SPORT TV 1 ⁴ᴷ" tvg-logo="",SPORT TV 1 ⁴ᴷ
 http://thehive.tv:25461/brogandog/autumn36/5689
-#EXTINF:-1 tvg-logo="",SPORT TV 2 ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="",SPORT TV 2 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5691
-#EXTINF:-1 tvg-logo="",SPORT TV 2 ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 2 ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",SPORT TV 2 ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5693
-#EXTINF:-1 tvg-logo="",SPORT TV 3 ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="",SPORT TV 3 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5695
-#EXTINF:-1 tvg-logo="",SPORT TV 3 ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 3 ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",SPORT TV 3 ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5697
-#EXTINF:-1 tvg-logo="",SPORT TV 4 ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="",SPORT TV 4 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5699
-#EXTINF:-1 tvg-logo="",SPORT TV 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="",SPORT TV 4 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5700
-#EXTINF:-1 tvg-logo="",SPORT TV 5 ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="",SPORT TV 5 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5702
-#EXTINF:-1 tvg-logo="",SPORT TV 5 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="",SPORT TV 5 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5703
-#EXTINF:-1 tvg-logo="",SPORT TV 6 ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 6 ᴴᴰ" tvg-logo="",SPORT TV 6 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5704
-#EXTINF:-1 tvg-logo="",SPORT TV 6 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV 6 ᶠᴴᴰ" tvg-logo="",SPORT TV 6 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5705
-#EXTINF:-1 tvg-logo="",SPORT TV NBA ᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV NBA ᴴᴰ" tvg-logo="",SPORT TV NBA ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5706
-#EXTINF:-1 tvg-logo="",SPORT TV NBA ᶠᴴᴰ
+#EXTINF:-1 tvg-name="SPORT TV NBA ᶠᴴᴰ" tvg-logo="",SPORT TV NBA ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5707
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 ᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 ᴴᴰ" tvg-logo="",ELEVEN SPORTS 1 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5709
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",ELEVEN SPORTS 1 ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5711
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 ᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 ᴴᴰ" tvg-logo="",ELEVEN SPORTS 2 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5713
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",ELEVEN SPORTS 2 ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5715
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 3 ᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 ᴴᴰ" tvg-logo="",ELEVEN SPORTS 3 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5717
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 ᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 ᴴᴰ" tvg-logo="",ELEVEN SPORTS 4 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5720
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 ᶠᴴᴰ" tvg-logo="",ELEVEN SPORTS 4 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5721
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 5 ᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 ᴴᴰ" tvg-logo="",ELEVEN SPORTS 5 ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5723
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 5 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 ᶠᴴᴰ" tvg-logo="",ELEVEN SPORTS 5 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5724
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 6 ᶠᴴᴰ
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 ᶠᴴᴰ" tvg-logo="",ELEVEN SPORTS 6 ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5726
-#EXTINF:-1 tvg-logo="",BENFICA TV ᴴᴰ
+#EXTINF:-1 tvg-name="BENFICA TV ᴴᴰ" tvg-logo="",BENFICA TV ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5728
-#EXTINF:-1 tvg-logo="",BENFICA TV ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="BENFICA TV ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",BENFICA TV ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5730
-#EXTINF:-1 tvg-logo="",PORTO CANAL ᶠᴴᴰ
+#EXTINF:-1 tvg-name="PORTO CANAL ᶠᴴᴰ" tvg-logo="",PORTO CANAL ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5734
-#EXTINF:-1 tvg-logo="",TV CINE TOP ᴴᴰ
+#EXTINF:-1 tvg-name="TV CINE TOP ᴴᴰ" tvg-logo="",TV CINE TOP ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5748
-#EXTINF:-1 tvg-logo="",TVCINE EDITION ᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE EDITION ᴴᴰ" tvg-logo="",TVCINE EDITION ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5751
-#EXTINF:-1 tvg-logo="",TVCINE EMOTION ᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE EMOTION ᴴᴰ" tvg-logo="",TVCINE EMOTION ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5754
-#EXTINF:-1 tvg-logo="",TVCINE ACTION ᴴᴰ
+#EXTINF:-1 tvg-name="TVCINE ACTION ᴴᴰ" tvg-logo="",TVCINE ACTION ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5757
-#EXTINF:-1 tvg-logo="",NOS STUDIO ᴴᴰ
+#EXTINF:-1 tvg-name="NOS STUDIO ᴴᴰ" tvg-logo="",NOS STUDIO ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5760
-#EXTINF:-1 tvg-logo="",HOLLYWOOD ᴴᴰ
+#EXTINF:-1 tvg-name="HOLLYWOOD ᴴᴰ" tvg-logo="",HOLLYWOOD ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5763
-#EXTINF:-1 tvg-logo="",AMC ᴴᴰ
+#EXTINF:-1 tvg-name="AMC ᴴᴰ" tvg-logo="",AMC ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5768
-#EXTINF:-1 tvg-logo="",FOX ᴴᴰ
+#EXTINF:-1 tvg-name="FOX ᴴᴰ" tvg-logo="",FOX ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5773
-#EXTINF:-1 tvg-logo="",FOX CRIME ᴴᴰ
+#EXTINF:-1 tvg-name="FOX CRIME ᴴᴰ" tvg-logo="",FOX CRIME ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5776
-#EXTINF:-1 tvg-logo="",FOX LIFE ᴴᴰ
+#EXTINF:-1 tvg-name="FOX LIFE ᴴᴰ" tvg-logo="",FOX LIFE ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5779
-#EXTINF:-1 tvg-logo="",AXN ᴴᴰ
+#EXTINF:-1 tvg-name="AXN ᴴᴰ" tvg-logo="",AXN ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5784
-#EXTINF:-1 tvg-logo="",AXN WHITE ᴴᴰ
+#EXTINF:-1 tvg-name="AXN WHITE ᴴᴰ" tvg-logo="",AXN WHITE ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5787
-#EXTINF:-1 tvg-logo="",AXN MOVIES ᴴᴰ
+#EXTINF:-1 tvg-name="AXN MOVIES ᴴᴰ" tvg-logo="",AXN MOVIES ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5790
-#EXTINF:-1 tvg-logo="",DIZI
+#EXTINF:-1 tvg-name="DIZI" tvg-logo="",DIZI
 http://thehive.tv:25461/brogandog/autumn36/5794
-#EXTINF:-1 tvg-logo="",NAT GEO ᴴᴰ
+#EXTINF:-1 tvg-name="NAT GEO ᴴᴰ" tvg-logo="",NAT GEO ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5824
-#EXTINF:-1 tvg-logo="",DISCOVERY ᴴᴰ
+#EXTINF:-1 tvg-name="DISCOVERY ᴴᴰ" tvg-logo="",DISCOVERY ᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5829
-#EXTINF:-1 tvg-logo="",HISTÓRIA
+#EXTINF:-1 tvg-name="HISTÓRIA" tvg-logo="",HISTÓRIA
 http://thehive.tv:25461/brogandog/autumn36/5835
-#EXTINF:-1 tvg-logo="",TV RECORD
+#EXTINF:-1 tvg-name="TV RECORD" tvg-logo="",TV RECORD
 http://thehive.tv:25461/brogandog/autumn36/5845
-#EXTINF:-1 tvg-logo="",GLOBO ᶠᴴᴰ
+#EXTINF:-1 tvg-name="GLOBO ᶠᴴᴰ" tvg-logo="",GLOBO ᶠᴴᴰ
 http://thehive.tv:25461/brogandog/autumn36/5847
-#EXTINF:-1 tvg-logo="",GLOBO NOW
+#EXTINF:-1 tvg-name="GLOBO NOW" tvg-logo="",GLOBO NOW
 http://thehive.tv:25461/brogandog/autumn36/5848
-#EXTINF:-1 tvg-logo="",RTP 1 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="RTP 1 ᴴ²⁶⁵" tvg-logo="",RTP 1 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5965
-#EXTINF:-1 tvg-logo="",RTP 2 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="RTP 2 ᴴ²⁶⁵" tvg-logo="",RTP 2 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5966
-#EXTINF:-1 tvg-logo="",SIC ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SIC ᴴ²⁶⁵" tvg-logo="",SIC ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5967
-#EXTINF:-1 tvg-logo="",TVI ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVI ᴴ²⁶⁵" tvg-logo="",TVI ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5968
-#EXTINF:-1 tvg-logo="",CNN PORTUGAL ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="CNN PORTUGAL ᴴ²⁶⁵" tvg-logo="",CNN PORTUGAL ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5969
-#EXTINF:-1 tvg-logo="",CMTV ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="CMTV ᴴ²⁶⁵" tvg-logo="",CMTV ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5970
-#EXTINF:-1 tvg-logo="",SIC NOTÍCIAS ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SIC NOTÍCIAS ᴴ²⁶⁵" tvg-logo="",SIC NOTÍCIAS ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5971
-#EXTINF:-1 tvg-logo="",RTP 3 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="RTP 3 ᴴ²⁶⁵" tvg-logo="",RTP 3 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5972
-#EXTINF:-1 tvg-logo="",TVI REALITY ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVI REALITY ᴴ²⁶⁵" tvg-logo="",TVI REALITY ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5973
-#EXTINF:-1 tvg-logo="",TVI FICÇÃO ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVI FICÇÃO ᴴ²⁶⁵" tvg-logo="",TVI FICÇÃO ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5974
-#EXTINF:-1 tvg-logo="",SIC MULHER ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SIC MULHER ᴴ²⁶⁵" tvg-logo="",SIC MULHER ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5975
-#EXTINF:-1 tvg-logo="",SIC CARAS ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SIC CARAS ᴴ²⁶⁵" tvg-logo="",SIC CARAS ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5976
-#EXTINF:-1 tvg-logo="",SIC RADICAL ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SIC RADICAL ᴴ²⁶⁵" tvg-logo="",SIC RADICAL ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5977
-#EXTINF:-1 tvg-logo="",SIC K ᴴ²⁶⁵
-http://thehive.tv:25461/brogandog/autumn36/5978
-#EXTINF:-1 tvg-logo="",A BOLA TV ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="A BOLA TV ᴴ²⁶⁵" tvg-logo="",A BOLA TV ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5979
-#EXTINF:-1 tvg-logo="",CANAL 11 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="CANAL 11 ᴴ²⁶⁵" tvg-logo="",CANAL 11 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5980
-#EXTINF:-1 tvg-logo="",SPORT TV + ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV + ᴴ²⁶⁵" tvg-logo="",SPORT TV + ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5981
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 1 ᴴᴰ ᴴ²⁶⁵" tvg-logo="",SPORT TV 1 ᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5982
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 1 ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",SPORT TV 1 ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5983
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ⁴ᴷ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 1 ⁴ᴷ ᴴ²⁶⁵" tvg-logo="",SPORT TV 1 ⁴ᴷ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5984
-#EXTINF:-1 tvg-logo="",SPORT TV 2 ᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 2 ᴴᴰ ᴴ²⁶⁵" tvg-logo="",SPORT TV 2 ᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5985
-#EXTINF:-1 tvg-logo="",SPORT TV 2 ᶠᴴᴰ ᴴ²⁶⁵ 2
+#EXTINF:-1 tvg-name="SPORT TV 2 ᶠᴴᴰ ᴴ²⁶⁵ 2" tvg-logo="",SPORT TV 2 ᶠᴴᴰ ᴴ²⁶⁵ 2
 http://thehive.tv:25461/brogandog/autumn36/5986
-#EXTINF:-1 tvg-logo="",SPORT TV 3 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 3 ᴴ²⁶⁵" tvg-logo="",SPORT TV 3 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5987
-#EXTINF:-1 tvg-logo="",SPORT TV 4 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 4 ᴴ²⁶⁵" tvg-logo="",SPORT TV 4 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5988
-#EXTINF:-1 tvg-logo="",SPORT TV 5 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV 5 ᴴ²⁶⁵" tvg-logo="",SPORT TV 5 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5989
-#EXTINF:-1 tvg-logo="",SPORT TV NBA ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORT TV NBA ᴴ²⁶⁵" tvg-logo="",SPORT TV NBA ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5990
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 ᴴ²⁶⁵" tvg-logo="",ELEVEN SPORTS 1 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5991
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 ᴴ²⁶⁵" tvg-logo="",ELEVEN SPORTS 2 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5992
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 3 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 ᴴ²⁶⁵" tvg-logo="",ELEVEN SPORTS 3 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5993
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 ᴴ²⁶⁵" tvg-logo="",ELEVEN SPORTS 4 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5994
-#EXTINF:-1 tvg-logo="",BTV ᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="BTV ᴴᴰ ᴴ²⁶⁵" tvg-logo="",BTV ᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5995
-#EXTINF:-1 tvg-logo="",BTV ᶠᴴᴰ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="BTV ᶠᴴᴰ ᴴ²⁶⁵" tvg-logo="",BTV ᶠᴴᴰ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5996
-#EXTINF:-1 tvg-logo="",BTV ⁴ᴷ ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="BTV ⁴ᴷ ᴴ²⁶⁵" tvg-logo="",BTV ⁴ᴷ ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5997
-#EXTINF:-1 tvg-logo="",SPORTING TV ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SPORTING TV ᴴ²⁶⁵" tvg-logo="",SPORTING TV ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5998
-#EXTINF:-1 tvg-logo="",EUROSPORT 1 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="EUROSPORT 1 ᴴ²⁶⁵" tvg-logo="",EUROSPORT 1 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/5999
-#EXTINF:-1 tvg-logo="",EUROSPORT 2 ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="EUROSPORT 2 ᴴ²⁶⁵" tvg-logo="",EUROSPORT 2 ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6000
-#EXTINF:-1 tvg-logo="",TVCINE TOP ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVCINE TOP ᴴ²⁶⁵" tvg-logo="",TVCINE TOP ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6001
-#EXTINF:-1 tvg-logo="",TVCINE EDITION ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVCINE EDITION ᴴ²⁶⁵" tvg-logo="",TVCINE EDITION ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6002
-#EXTINF:-1 tvg-logo="",TVCINE EMOTION ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVCINE EMOTION ᴴ²⁶⁵" tvg-logo="",TVCINE EMOTION ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6003
-#EXTINF:-1 tvg-logo="",TVCINE ACTION ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TVCINE ACTION ᴴ²⁶⁵" tvg-logo="",TVCINE ACTION ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6004
-#EXTINF:-1 tvg-logo="",AMC ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="AMC ᴴ²⁶⁵" tvg-logo="",AMC ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6005
-#EXTINF:-1 tvg-logo="",NOS STUDIOS ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="NOS STUDIOS ᴴ²⁶⁵" tvg-logo="",NOS STUDIOS ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6006
-#EXTINF:-1 tvg-logo="",HOLLYWOOD ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="HOLLYWOOD ᴴ²⁶⁵" tvg-logo="",HOLLYWOOD ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6007
-#EXTINF:-1 tvg-logo="",CINEMUNDO ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="CINEMUNDO ᴴ²⁶⁵" tvg-logo="",CINEMUNDO ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6008
-#EXTINF:-1 tvg-logo="",SYFY ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="SYFY ᴴ²⁶⁵" tvg-logo="",SYFY ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6009
-#EXTINF:-1 tvg-logo="",FOX ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="FOX ᴴ²⁶⁵" tvg-logo="",FOX ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6010
-#EXTINF:-1 tvg-logo="",FOX LIFE ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="FOX LIFE ᴴ²⁶⁵" tvg-logo="",FOX LIFE ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6011
-#EXTINF:-1 tvg-logo="",FOX COMEDY ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="FOX COMEDY ᴴ²⁶⁵" tvg-logo="",FOX COMEDY ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6012
-#EXTINF:-1 tvg-logo="",FOX CRIME ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="FOX CRIME ᴴ²⁶⁵" tvg-logo="",FOX CRIME ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6013
-#EXTINF:-1 tvg-logo="",FOX MOVIES ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="FOX MOVIES ᴴ²⁶⁵" tvg-logo="",FOX MOVIES ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6014
-#EXTINF:-1 tvg-logo="",AXN ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="AXN ᴴ²⁶⁵" tvg-logo="",AXN ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6015
-#EXTINF:-1 tvg-logo="",AXN WHITE ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="AXN WHITE ᴴ²⁶⁵" tvg-logo="",AXN WHITE ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6016
-#EXTINF:-1 tvg-logo="",AXN MOVIES ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="AXN MOVIES ᴴ²⁶⁵" tvg-logo="",AXN MOVIES ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6017
-#EXTINF:-1 tvg-logo="",DISCOVERY ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="DISCOVERY ᴴ²⁶⁵" tvg-logo="",DISCOVERY ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6018
-#EXTINF:-1 tvg-logo="",ID INVESTIGATION ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ID INVESTIGATION ᴴ²⁶⁵" tvg-logo="",ID INVESTIGATION ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6019
-#EXTINF:-1 tvg-logo="",NAT GEO ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="NAT GEO ᴴ²⁶⁵" tvg-logo="",NAT GEO ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6020
-#EXTINF:-1 tvg-logo="",NAT GEO WILD ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="NAT GEO WILD ᴴ²⁶⁵" tvg-logo="",NAT GEO WILD ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6021
-#EXTINF:-1 tvg-logo="",ODISSEIA ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="ODISSEIA ᴴ²⁶⁵" tvg-logo="",ODISSEIA ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6022
-#EXTINF:-1 tvg-logo="",E! ENTERTAINMENT ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="E! ENTERTAINMENT ᴴ²⁶⁵" tvg-logo="",E! ENTERTAINMENT ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6023
-#EXTINF:-1 tvg-logo="",AMC BREAK ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="AMC BREAK ᴴ²⁶⁵" tvg-logo="",AMC BREAK ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6024
-#EXTINF:-1 tvg-logo="",24 KITCHEN ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="24 KITCHEN ᴴ²⁶⁵" tvg-logo="",24 KITCHEN ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6025
-#EXTINF:-1 tvg-logo="",CASA E COZINHA ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="CASA E COZINHA ᴴ²⁶⁵" tvg-logo="",CASA E COZINHA ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6026
-#EXTINF:-1 tvg-logo="",TV RECORD ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="TV RECORD ᴴ²⁶⁵" tvg-logo="",TV RECORD ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6027
-#EXTINF:-1 tvg-logo="",GLOBO ᴴ²⁶⁵
+#EXTINF:-1 tvg-name="GLOBO ᴴ²⁶⁵" tvg-logo="",GLOBO ᴴ²⁶⁵
 http://thehive.tv:25461/brogandog/autumn36/6028
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/Portugal.png",##### 19 NOVEMBRO 2023 #####
+#EXTINF:-1 tvg-name="##### 19 NOVEMBRO 2023 #####" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/Portugal.png",##### 19 NOVEMBRO 2023 #####
 http://thehive.tv:25461/brogandog/autumn36/6029
