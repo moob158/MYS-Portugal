@@ -66,7 +66,7 @@ http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/64698.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS ᶠᴴᴰ
 http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7470.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
-http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7477.ts
+http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7722.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
 http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7476.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
@@ -147,8 +147,8 @@ http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7706.ts
 http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7708.ts
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sic-logo.png",SIC Radical
 http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7709.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png",TVI 24
-http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7722.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
+http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7477.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/Port-Portugal/TVI_fic%c3%a7%c3%a3o.png",TVI Ficçao
 http://185.53.88.153:25461/live/Phenixiptv/acAWT263n7LR/7479.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/Port-Portugal/Tvi_reality.png",TVI Reality
