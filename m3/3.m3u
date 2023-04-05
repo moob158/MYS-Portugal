@@ -1,199 +1,555 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="FOX CRIME ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1564
-#EXTINF:-1 tvg-name="FOX LIFE ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1562
-#EXTINF:-1 tvg-name="FOX COMEDY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1563
-#EXTINF:-1 tvg-name="FOX ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1561
-#EXTINF:-1 tvg-name="AMC ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1568
-#EXTINF:-1 tvg-name="AXN ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1553
-#EXTINF:-1 tvg-name="AXN WHITE ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1557
-#EXTINF:-1 tvg-name="SYFY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1570
-#EXTINF:-1 tvg-name="HISTÓRIA ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1577
-#EXTINF:-1 tvg-name="NAT GEO ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1578
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY CHANNEL ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1574
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL CHANNEL ᶠᴴᴰ
-http://fullonline.es:8080/mahmoud/mahmoud/547735
-#EXTINF:-1 tvg-name="ODISSEIA" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1579
-#EXTINF:-1 tvg-name="SIC NOTÍCIAS  ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS  ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/10226
-#EXTINF:-1 tvg-name="CNN PORTUGAL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/899603
-#EXTINF:-1 tvg-name="CMTV ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/10230
-#EXTINF:-1 tvg-name="MTV PORTUGAL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1591
-#EXTINF:-1 tvg-name="MTV 00s" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1592
-#EXTINF:-1 tvg-name="MCM POP" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1593
-#EXTINF:-1 tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1551
-#EXTINF:-1 tvg-name="TVCINE EDITION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1547
-#EXTINF:-1 tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1548
-#EXTINF:-1 tvg-name="TVCINE TOP ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1545
-#EXTINF:-1 tvg-name="AXN MOVIES ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
-http://fullonline.es:8080/mahmoud/mahmoud/547648
-#EXTINF:-1 tvg-name="CINEMUNDO ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1569
-#EXTINF:-1 tvg-name="FOX MOVIES ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1565
-#EXTINF:-1 tvg-name="HOLLYWOOD  ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD  ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1566
-#EXTINF:-1 tvg-name="NOS STUDIOS ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/45491
-#EXTINF:-1 tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1604
-#EXTINF:-1 tvg-name="RTP 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1603
-#EXTINF:-1 tvg-name="RTP 3 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1479
-#EXTINF:-1 tvg-name="SIC ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/10224
-#EXTINF:-1 tvg-name="TVI ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1483
-#EXTINF:-1 tvg-name="SIC RADICAL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/10225
-#EXTINF:-1 tvg-name="SIC MULHER ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/10227
-#EXTINF:-1 tvg-name="SIC CARAS ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/51991
-#EXTINF:-1 tvg-name="TVI FICCÇÃO ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICCÇÃO ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/51992
-#EXTINF:-1 tvg-name="E! ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1588
-#EXTINF:-1 tvg-name="A BOLA TV" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1535
-#EXTINF:-1 tvg-name="SPORT TV + ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV + ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/51993
-#EXTINF:-1 tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1514
-#EXTINF:-1 tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1517
-#EXTINF:-1 tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1520
-#EXTINF:-1 tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1523
-#EXTINF:-1 tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1526
-#EXTINF:-1 tvg-name="SPORT TV 6 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/68314
-#EXTINF:-1 tvg-name="BTV ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1529
-#EXTINF:-1 tvg-name="ELEVEN 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2377
-#EXTINF:-1 tvg-name="ELEVEN 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2385
-#EXTINF:-1 tvg-name="ELEVEN 3 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2391
-#EXTINF:-1 tvg-name="ELEVEN 4 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2398
-#EXTINF:-1 tvg-name="ELEVEN 5 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2405
-#EXTINF:-1 tvg-name="ELEVEN 6 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2411
-#EXTINF:-1 tvg-name="CANAL 11 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2623
-#EXTINF:-1 tvg-name="EUROSPORT 1 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eurosport-1.png",EUROSPORT 1 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1536
-#EXTINF:-1 tvg-name="EUROSPORT 2 ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eurosport-2.png",EUROSPORT 2 ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1537
-#EXTINF:-1 tvg-name="PORTO CANAL ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/porto-canal.png",PORTO CANAL ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1497
-#EXTINF:-1 tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1550
-#EXTINF:-1 tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1549
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1554
-#EXTINF:-1 tvg-name="AXN WHITE" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1558
-#EXTINF:-1 tvg-name="AMC CRIME" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1571
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1587
-#EXTINF:-1 tvg-name="24 KITCHEN ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen-branco.png",24 KITCHEN ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1586
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NATIONAL GEOGRAPHIC ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1576
-#EXTINF:-1 tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1560
-#EXTINF:-1 tvg-name="RTP 1" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1600
-#EXTINF:-1 tvg-name="RTP 2" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1599
-#EXTINF:-1 tvg-name="RTP 3" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/899601
-#EXTINF:-1 tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1480
-#EXTINF:-1 tvg-name="TVI" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1484
-#EXTINF:-1 tvg-name="SIC NOTÍCIAS" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1493
-#EXTINF:-1 tvg-name="CMTV" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1494
-#EXTINF:-1 tvg-name="CNN PORTUGAL" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/75838
-#EXTINF:-1 tvg-name="SIC CARAS" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1491
-#EXTINF:-1 tvg-name="SIC MULHER" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher.png",SIC MULHER
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1490
-#EXTINF:-1 tvg-name="SIC RADICAL" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical.png",SIC RADICAL
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1492
-#EXTINF:-1 tvg-name="TVI FICÇÃO" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1487
-#EXTINF:-1 tvg-name="TVI REALITY" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1488
-#EXTINF:-1 tvg-name="SPORT TV +" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-plus.png",SPORT TV +
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/10795
-#EXTINF:-1 tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1515
-#EXTINF:-1 tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1518
-#EXTINF:-1 tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1521
-#EXTINF:-1 tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1524
-#EXTINF:-1 tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1527
-#EXTINF:-1 tvg-name="SPORT TV 6" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/68315
-#EXTINF:-1 tvg-name="BTV TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV TV ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1530
-#EXTINF:-1 tvg-name="ELEVEN 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2375
-#EXTINF:-1 tvg-name="ELEVEN 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2382
-#EXTINF:-1 tvg-name="ELEVEN 3 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2390
-#EXTINF:-1 tvg-name="ELEVEN 4 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2396
-#EXTINF:-1 tvg-name="ELEVEN 5 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2402
-#EXTINF:-1 tvg-name="ELEVEN 6 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/2409
-#EXTINF:-1 tvg-name="TVCINE TOP" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1544
-#EXTINF:-1 tvg-name="TVCINE EDITION" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1546
-#EXTINF:-1 tvg-name="HOLLYWOOD" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1567
-#EXTINF:-1 tvg-name="RTP MEMÓRIA" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1499
-#EXTINF:-1 tvg-name="TVI REALITY ᶠᴴᴰ" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᶠᴴᴰ
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1489
-#EXTINF:-1 tvg-name="✽✽⭒ 15 DEZEMBRO ⭒✽✽" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/Portugal.png",✽✽⭒ 15 DEZEMBRO ⭒✽✽
-http://dns.acaidopara.net:8080/mfeitosa1/Acessotv1/1489999
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/42
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/41
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/39
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/156
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/141
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/136
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/138
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/30920
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/137
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-xp-v2.png",TRAVELXP ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43744
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/139
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/41471
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/41472
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ENTERTAINMENT ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/127
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/37
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/28
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/30
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIOS ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/27
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-plus.png",TVCINE + ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36261
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/122
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/121
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/172
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-90s.png",MTV 90s
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36699
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-hits.png",MTV HITS
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36698
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-live.png",MTV LIVE ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/758
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-classic.png",MTV CLASSIC
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36697
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/alma-lusa.png",ALMA LUSA ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/24447
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/180
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-top2.png",MCM TOP
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36590
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/bomsom-tv.png",BOMSOM ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/42583
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/clubbingtv.png",CLUBBING TV
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/24448
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/musicbox-tv.png",MUSIC BOX ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36277
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/129
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/115
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/116
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16051
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/56
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/59
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/70
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16052
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/76
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38244
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen-branco.png",24 KITCHEN ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/125
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/casa-e-cozinha.png",CASA COZINHA ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/18592
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/food-network.png",FOOD NETWORK ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/126
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-s-plus.png",SAUDE + ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22638
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/134
+#EXTINF:-1 tvg-logo="",RTP 1 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/2
+#EXTINF:-1 tvg-logo="",SIC ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/5
+#EXTINF:-1 tvg-logo="",TVI ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/7
+#EXTINF:-1 tvg-logo="",CMTV ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/278
+#EXTINF:-1 tvg-logo="",SPORT TV + ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16
+#EXTINF:-1 tvg-logo="",SPORT TV 1
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/48
+#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ 1280
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43353
+#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ 1BIT
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43354
+#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/49
+#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ ²ᴷ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/24307
+#EXTINF:-1 tvg-logo="",SPORT TV 2 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/54
+#EXTINF:-1 tvg-logo="",SPORT TV 3 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/57
+#EXTINF:-1 tvg-logo="",SPORT TV 4 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/60
+#EXTINF:-1 tvg-logo="",SPORT TV 4 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/62
+#EXTINF:-1 tvg-logo="",SPORT TV 5 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/63
+#EXTINF:-1 tvg-logo="",SPORT TV 5 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/65
+#EXTINF:-1 tvg-logo="",SPORT TV 6 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/37967
+#EXTINF:-1 tvg-logo="",SPORT TV 6 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/40698
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nba-tv.png",SPORT TV NBA ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/66
+#EXTINF:-1 tvg-logo="",BTV
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/67
+#EXTINF:-1 tvg-logo="",BTV ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/68
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/18230
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/73
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/75
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 3 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/77
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/78
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38245
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 5 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/79
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 5 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38246
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 6 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/80
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 6 ᶠᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38247
+#EXTINF:-1 tvg-logo="",TV GLOBO ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/117
+#EXTINF:-1 tvg-logo="",TV RECORD ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/119
+#EXTINF:-1 tvg-logo="",CANAL 180
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/36564
+#EXTINF:-1 tvg-logo="",LOCAL VISÃO ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22943
+#EXTINF:-1 tvg-logo="",FUEL TV ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/99
+#EXTINF:-1 tvg-logo="",SPORTING TV ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/71
+#EXTINF:-1 tvg-logo="",PORTO CANAL ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/128
+#EXTINF:-1 tvg-logo="",EUROSPORT 1 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/96
+#EXTINF:-1 tvg-logo="",EUROSPORT 2 ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/97
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/dogtv.png",DOG TV ᴴᴰ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/47298
+#EXTINF:-1 tvg-logo="",RTP 1
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/274
+#EXTINF:-1 tvg-logo="",RTP 1 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16496
+#EXTINF:-1 tvg-logo="",RTP 1 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21690
+#EXTINF:-1 tvg-logo="",RTP 2
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/275
+#EXTINF:-1 tvg-logo="",RTP 2 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21592
+#EXTINF:-1 tvg-logo="",RTP 2 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21688
+#EXTINF:-1 tvg-logo="",SIC
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/276
+#EXTINF:-1 tvg-logo="",SIC Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16497
+#EXTINF:-1 tvg-logo="",SIC ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21689
+#EXTINF:-1 tvg-logo="",TVI
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/277
+#EXTINF:-1 tvg-logo="",TVI Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16498
+#EXTINF:-1 tvg-logo="",TVI ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21644
+#EXTINF:-1 tvg-logo="",EURONEWS
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/20307
+#EXTINF:-1 tvg-logo="",CMTV Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16499
+#EXTINF:-1 tvg-logo="",CMTV ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21646
+#EXTINF:-1 tvg-logo="",CNN PORTUGAL
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/280
+#EXTINF:-1 tvg-logo="",CNN PORTUGAL Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16500
+#EXTINF:-1 tvg-logo="",CNN PORTUGAL ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21687
+#EXTINF:-1 tvg-logo="",RTP 3
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22843
+#EXTINF:-1 tvg-logo="",RTP 3 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16508
+#EXTINF:-1 tvg-logo="",SIC NOTICIAS
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/279
+#EXTINF:-1 tvg-logo="",SIC NOTICIAS Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16503
+#EXTINF:-1 tvg-logo="",SIC NOTICIAS ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21648
+#EXTINF:-1 tvg-logo="",CANAL 11
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22696
+#EXTINF:-1 tvg-logo="",CANAL 11 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21624
+#EXTINF:-1 tvg-logo="",CANAL 11 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22695
+#EXTINF:-1 tvg-logo="",A BOLA TV
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21618
+#EXTINF:-1 tvg-logo="",A BOLA TV Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16510
+#EXTINF:-1 tvg-logo="",A BOLA TV ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21649
+#EXTINF:-1 tvg-logo="",SPORT TV +
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/343
+#EXTINF:-1 tvg-logo="",SPORT TV + Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/18228
+#EXTINF:-1 tvg-logo="",SPORT TV + ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21651
+#EXTINF:-1 tvg-logo="",PORTO CANAL
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/282
+#EXTINF:-1 tvg-logo="",PORTO CANAL Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21606
+#EXTINF:-1 tvg-logo="",PORTO CANAL ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22654
+#EXTINF:-1 tvg-logo="",ARTV
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/20676
+#EXTINF:-1 tvg-logo="",RTP ÁFRICA
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/294
+#EXTINF:-1 tvg-logo="",RTP MADEIRA
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/133
+#EXTINF:-1 tvg-logo="",RTP AÇORES
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/131
+#EXTINF:-1 tvg-logo="",SPORT TV 1 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16511
+#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21652
+#EXTINF:-1 tvg-logo="",SPORT TV 1 ⁴ᴷ
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21640
+#EXTINF:-1 tvg-logo="",SPORT TV 2 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16512
+#EXTINF:-1 tvg-logo="",SPORT TV 2 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21654
+#EXTINF:-1 tvg-logo="",SPORT TV 3 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16513
+#EXTINF:-1 tvg-logo="",SPORT TV 3 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21691
+#EXTINF:-1 tvg-logo="",SPORT TV 4 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21608
+#EXTINF:-1 tvg-logo="",SPORT TV 4 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21656
+#EXTINF:-1 tvg-logo="",SPORT TV 5 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21609
+#EXTINF:-1 tvg-logo="",SPORT TV 5 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21657
+#EXTINF:-1 tvg-logo="",SPORT TV 6 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/37971
+#EXTINF:-1 tvg-logo="",SPORT TV NBA
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21697
+#EXTINF:-1 tvg-logo="",SPORT TV NBA ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22635
+#EXTINF:-1 tvg-logo="",BTV
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/384
+#EXTINF:-1 tvg-logo="",BTV Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16516
+#EXTINF:-1 tvg-logo="",BTV ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21658
+#EXTINF:-1 tvg-logo="",SPORTING TV
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/328
+#EXTINF:-1 tvg-logo="",SPORTING TV Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21613
+#EXTINF:-1 tvg-logo="",SPORTING TV ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22714
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38238
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16534
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21659
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38239
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16535
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21661
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 3
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38240
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 3 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21597
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38241
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21602
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 5
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38242
+#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 6
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/38243
+#EXTINF:-1 tvg-logo="",EUROSPORT 1
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/329
+#EXTINF:-1 tvg-logo="",EUROSPORT 1 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21595
+#EXTINF:-1 tvg-logo="",EUROSPORT 1 ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22710
+#EXTINF:-1 tvg-logo="",EUROSPORT 2
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/330
+#EXTINF:-1 tvg-logo="",EUROSPORT 2 Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21596
+#EXTINF:-1 tvg-logo="",FUEL
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22699
+#EXTINF:-1 tvg-logo="",TVCINE TOP
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/347
+#EXTINF:-1 tvg-logo="",TVCINE TOP Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16517
+#EXTINF:-1 tvg-logo="",TVCINE TOP ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21663
+#EXTINF:-1 tvg-logo="",TVCINE ACTION
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/346
+#EXTINF:-1 tvg-logo="",TVCINE ACTION Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16520
+#EXTINF:-1 tvg-logo="",TVCINE ACTION ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21669
+#EXTINF:-1 tvg-logo="",TVCINE EMOTION
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/345
+#EXTINF:-1 tvg-logo="",TVCINE EMOTION Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16519
+#EXTINF:-1 tvg-logo="",TVCINE EMOTION ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21667
+#EXTINF:-1 tvg-logo="",TVCINE EDITION
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/344
+#EXTINF:-1 tvg-logo="",TVCINE EDITION Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16518
+#EXTINF:-1 tvg-logo="",TVCINE EDITION ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21665
+#EXTINF:-1 tvg-logo="",NOS STUDIOS
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16285
+#EXTINF:-1 tvg-logo="",NOS STUDIOS Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16521
+#EXTINF:-1 tvg-logo="",NOS STUDIOS ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21680
+#EXTINF:-1 tvg-logo="",HOLLYWOOD
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/304
+#EXTINF:-1 tvg-logo="",HOLLYWOOD Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16522
+#EXTINF:-1 tvg-logo="",HOLLYWOOD ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21681
+#EXTINF:-1 tvg-logo="",FOX MOVIES
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/305
+#EXTINF:-1 tvg-logo="",FOX MOVIES Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/18226
+#EXTINF:-1 tvg-logo="",FOX MOVIES ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21677
+#EXTINF:-1 tvg-logo="",AXN MOVIES Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/18225
+#EXTINF:-1 tvg-logo="",AXN MOVIES ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21676
+#EXTINF:-1 tvg-logo="",CINEMUNDO
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/270
+#EXTINF:-1 tvg-logo="",CINEMUNDO Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16523
+#EXTINF:-1 tvg-logo="",CINEMUNDO ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21682
+#EXTINF:-1 tvg-logo="",AMC
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/310
+#EXTINF:-1 tvg-logo="",AMC Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16533
+#EXTINF:-1 tvg-logo="",AMC ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21685
+#EXTINF:-1 tvg-logo="",AMC BREAK
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43381
+#EXTINF:-1 tvg-logo="",AXN
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21620
+#EXTINF:-1 tvg-logo="",AXN Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16524
+#EXTINF:-1 tvg-logo="",AXN ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21671
+#EXTINF:-1 tvg-logo="",AXN WHITE
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21623
+#EXTINF:-1 tvg-logo="",AXN WHITE Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22703
+#EXTINF:-1 tvg-logo="",AXN WHITE ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21675
+#EXTINF:-1 tvg-logo="",SYFY
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/309
+#EXTINF:-1 tvg-logo="",SYFY Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21604
+#EXTINF:-1 tvg-logo="",SYFY ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22704
+#EXTINF:-1 tvg-logo="",FOX
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21622
+#EXTINF:-1 tvg-logo="",FOX Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16525
+#EXTINF:-1 tvg-logo="",FOX ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21673
+#EXTINF:-1 tvg-logo="",FOX CRIME
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21619
+#EXTINF:-1 tvg-logo="",FOX CRIME Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/18227
+#EXTINF:-1 tvg-logo="",FOX CRIME ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21678
+#EXTINF:-1 tvg-logo="",FOX COMEDY
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/313
+#EXTINF:-1 tvg-logo="",FOX COMEDY Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21607
+#EXTINF:-1 tvg-logo="",FOX COMEDY ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21679
+#EXTINF:-1 tvg-logo="",FOX LIFE
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21625
+#EXTINF:-1 tvg-logo="",FOX LIFE Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21626
+#EXTINF:-1 tvg-logo="",FOX LIFE ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22705
+#EXTINF:-1 tvg-logo="",TVI REALITY
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/283
+#EXTINF:-1 tvg-logo="",TVI REALITY Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21614
+#EXTINF:-1 tvg-logo="",TVI FICCAO
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21056
+#EXTINF:-1 tvg-logo="",TVI FICCAO Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21612
+#EXTINF:-1 tvg-logo="",TVI FICCAO ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22636
+#EXTINF:-1 tvg-logo="",TV GLOBO
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/289
+#EXTINF:-1 tvg-logo="",TV GLOBO Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16531
+#EXTINF:-1 tvg-logo="",TV GLOBO ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21650
+#EXTINF:-1 tvg-logo="",TV RECORD
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/290
+#EXTINF:-1 tvg-logo="",TV RECORD Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21611
+#EXTINF:-1 tvg-logo="",TV RECORD ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22713
+#EXTINF:-1 tvg-logo="",SIC RADICAL
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43780
+#EXTINF:-1 tvg-logo="",SIC RADICAL ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/43779
+#EXTINF:-1 tvg-logo="",SIC CARAS
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/284
+#EXTINF:-1 tvg-logo="",SIC CARAS Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21615
+#EXTINF:-1 tvg-logo="",SIC CARAS ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21686
+#EXTINF:-1 tvg-logo="",SIC MULHER
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/273
+#EXTINF:-1 tvg-logo="",SIC MULHER Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/16502
+#EXTINF:-1 tvg-logo="",SIC MULHER ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22708
+#EXTINF:-1 tvg-logo="",CASA COZINHA Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21617
+#EXTINF:-1 tvg-logo="",CASA COZINHA ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21684
+#EXTINF:-1 tvg-logo="",24 KITCHEN
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/287
+#EXTINF:-1 tvg-logo="",FOOD NETWORK
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/288
+#EXTINF:-1 tvg-logo="",FOOD NETWORK Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21621
+#EXTINF:-1 tvg-logo="",E! ENTERTAINMENT
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/322
+#EXTINF:-1 tvg-logo="",TLC
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/321
+#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/39102
+#EXTINF:-1 tvg-logo="",NAT GEO
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/20372
+#EXTINF:-1 tvg-logo="",NAT GEO ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21683
+#EXTINF:-1 tvg-logo="",NAT GEO WILD
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/20373
+#EXTINF:-1 tvg-logo="",NAT GEO WILD ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21593
+#EXTINF:-1 tvg-logo="",ID INVESTIGATION DISCOVERY Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21616
+#EXTINF:-1 tvg-logo="",ODISSEIA
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/326
+#EXTINF:-1 tvg-logo="",ODISSEIA Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21594
+#EXTINF:-1 tvg-logo="",ODISSEIA ᴴᴰ ᴴ²⁶⁵
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/22709
+#EXTINF:-1 tvg-logo="",HISTÓRIA
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/325
+#EXTINF:-1 tvg-logo="",HISTORIA Mobile
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21610
+#EXTINF:-1 tvg-logo="",✦ ✦ ✦ 9 FEVEREIRO 2024 ✦ ✦ ✦
+http://hjwjaje.com:8080/jVBXL8syU5/72CmFyxaFm/21636
