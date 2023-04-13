@@ -1,377 +1,217 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox.png",FOX ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123793
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-life.png",FOX LIFE ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123795
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-crime.png",FOX CRIME ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123796
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-comedy.png",FOX COMEDY
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105664
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn.png",AXN ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123790
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-white.png",AXN WHITE ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123791
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/syfy-v2.png",SYFY ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123789
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tlc.png",TLC
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105724
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/historia.png",HISTÓRIA ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123822
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo.png",NAT GEO ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123816
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-channel.png",DISCOVERY ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/675829
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/travel-channel.png",TRAVEL ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123819
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/odisseia-branco.png",ODISSEIA ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123820
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nat-geo-wild.png",NAT GEO WILD ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123817
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/discovery-investigation-id.png",ID INVESTIGATION ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123818
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-crime.png",AMC CRIME
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105650
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc-break.png",AMC BREAK ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123821
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/e-entertainment.png",E! ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123825
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-portugal.png",MTV PORTUGAL
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105685
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-00s.png",MTV 00s
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/672852
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-90s.png",MTV 90s
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/672853
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-80s.png",MTV 80s
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/15558
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-hits.png",MTV HITS ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/657086
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-classic.png",MTV CLASSIC
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/101110
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-hits.png",MTV HITS UK
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/101112
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mcm-pop.png",MCM POP
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105681
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/now-80s.png",NOW 80s
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/101117
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/now-70s-v2.png",NOW 70s
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/101122
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/now-90s.png",NOW MUSIC
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/101118
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/musicchoice-tv.png",MC MUSIC 90s
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/206040
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-noticias.png",SIC NOTÍCIAS ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123773
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cnn-portugal.png",CNN PORTUGAL ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123772
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cmtv.png",CMTV ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123770
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/a-bola-tv.png",A BOLA TV ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123813
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-radical-v2-pt.png",SIC RADICAL ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123776
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-mulher-v2.png",SIC MULHER ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123774
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic-caras.png",SIC CARAS ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123775
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-1.png",RTP 1 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123766
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-2.png",RTP 2 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123767
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-3.png",RTP 3 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123771
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sic.png",SIC ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123768
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi.png",TVI ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123769
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-ficcao.png",TVI FICÇÃO ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123797
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvi-reality.png",TVI REALITY ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269117
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-q-v2.png",CANAL Q
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105642
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/rtp-memoria.png",RTP MEMÓRIA
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105704
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/amc.png",AMC ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123786
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/axn-movies.png",AXN MOVIES ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123792
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/cinemundo.png",CINEMUNDO ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123788
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/fox-movies.png",FOX MOVIES ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123794
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/hollywood.png",HOLLYWOOD ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123787
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/nos-studios.png",NOS STUDIO ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123785
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-top.png",TVCINE TOP ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123781
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-edition.png",TVCINE EDITION ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123782
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-emotion.png",TVCINE EMOTION ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123783
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/tvcine-action.png",TVCINE ACTION ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123784
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-1.png",SPORT TV 1 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123800
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-2.png",SPORT TV 2 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123801
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-3.png",SPORT TV 3 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123802
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-4.png",SPORT TV 4 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269118
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-5.png",SPORT TV 5 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269119
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/sport-tv-6.png",SPORT TV 6 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/407448
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/btv.png",BTV 1 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123810
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/canal-11.png",CANAL 11 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123798
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-1.png",ELEVEN 1 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123804
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-2.png",ELEVEN 2 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123805
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-3.png",ELEVEN 3 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123806
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-4.png",ELEVEN 4 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123807
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-5.png",ELEVEN 5 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123808
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/eleven-sports-6.png",ELEVEN 6 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123809
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/24-kitchen-branco.png",24 KITCHEN ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123777
-#EXTINF:-1 tvg-logo="",BTV 1 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105637
-#EXTINF:-1 tvg-logo="",SPORTING TV
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105722
-#EXTINF:-1 tvg-logo="",SPORTING TV ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123811
-#EXTINF:-1 tvg-logo="",SPORT TV NBA ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123803
-#EXTINF:-1 tvg-logo="",KOMBAT SPORT
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105680
-#EXTINF:-1 tvg-logo="",FUEL TV
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105672
-#EXTINF:-1 tvg-logo="",EUROSPORT 1
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105661
-#EXTINF:-1 tvg-logo="",EUROSPORT 1 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105662
-#EXTINF:-1 tvg-logo="",EUROSPORT 1 ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123814
-#EXTINF:-1 tvg-logo="",EUROSPORT 2
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105663
-#EXTINF:-1 tvg-logo="",A BOLA TV
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105625
-#EXTINF:-1 tvg-logo="",NBA TV
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105688
-#EXTINF:-1 tvg-logo="",FIGHT NETWORK ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123815
-#EXTINF:-1 tvg-logo="",TV RECORD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105730
-#EXTINF:-1 tvg-logo="",TV RECORD ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269121
-#EXTINF:-1 tvg-logo="",TV RECORD NEWS
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269037
-#EXTINF:-1 tvg-logo="",TV RECORD NEWS ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269122
-#EXTINF:-1 tvg-logo="",GLOBO ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105673
-#EXTINF:-1 tvg-logo="",GLOBO PORTUGAL ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123780
-#EXTINF:-1 tvg-logo="",GLOBO PREMIUM
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105674
-#EXTINF:-1 tvg-logo="",GLOBO INTERNACIONAL ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269123
-#EXTINF:-1 tvg-logo="",TV GLOBO NOW
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269039
-#EXTINF:-1 tvg-logo="",TV GLOBO NOW ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269125
-#EXTINF:-1 tvg-logo="",TV GLOBO
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269038
-#EXTINF:-1 tvg-logo="",TV GLOBO ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269124
-#EXTINF:-1 tvg-logo="",FOX ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105666
-#EXTINF:-1 tvg-logo="",FOX CRIME ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105665
-#EXTINF:-1 tvg-logo="",FOX LIFE ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105667
-#EXTINF:-1 tvg-logo="",FOX MOVIES
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105668
-#EXTINF:-1 tvg-logo="",TVCINE TOP ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105732
-#EXTINF:-1 tvg-logo="",TVCINE EDITION ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105734
-#EXTINF:-1 tvg-logo="",TVCINE EMOTION ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105735
-#EXTINF:-1 tvg-logo="",TVCINE ACTION ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105737
-#EXTINF:-1 tvg-logo="",TVCINE EDITION
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105733
-#EXTINF:-1 tvg-logo="",TVCINE ACTION
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105736
-#EXTINF:-1 tvg-logo="",AXN MOVIES ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105629
-#EXTINF:-1 tvg-logo="",CINEMUNDO
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105646
-#EXTINF:-1 tvg-logo="",NOS STUDIOS ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105691
-#EXTINF:-1 tvg-logo="",HOLLYWOOD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105676
-#EXTINF:-1 tvg-logo="",HOLLYWOOD ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105677
-#EXTINF:-1 tvg-logo="",NOS STUDIO ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105639
-#EXTINF:-1 tvg-logo="",ID INVESTIGATION DISCOVERY
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/675830
-#EXTINF:-1 tvg-logo="",E! ENTERTAINMENT
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105655
-#EXTINF:-1 tvg-logo="",DISCOVERY CHANNEL
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105651
-#EXTINF:-1 tvg-logo="",NAT GEO GEOGRAPHIC ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105687
-#EXTINF:-1 tvg-logo="",NAT GEO WILD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105686
-#EXTINF:-1 tvg-logo="",ODISSEIA
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105692
-#EXTINF:-1 tvg-logo="",HISTORIA
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105675
-#EXTINF:-1 tvg-logo="",CASA E COZINHA ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123778
-#EXTINF:-1 tvg-logo="",FOOD NETWORK
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/487227
-#EXTINF:-1 tvg-logo="",24 KITCHEN ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105624
-#EXTINF:-1 tvg-logo="",AMC
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105627
-#EXTINF:-1 tvg-logo="",AMC ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105628
-#EXTINF:-1 tvg-logo="",SIC CARAS ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105706
-#EXTINF:-1 tvg-logo="",SIC MULHER
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105708
-#EXTINF:-1 tvg-logo="",TRAVEL CHANNEL ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105728
-#EXTINF:-1 tvg-logo="",SYFY
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105723
-#EXTINF:-1 tvg-logo="",SIC RADICAL
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105710
-#EXTINF:-1 tvg-logo="",DOG TV ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123824
-#EXTINF:-1 tvg-logo="",SAUDE ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/269127
-#EXTINF:-1 tvg-logo="",AXN ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105630
-#EXTINF:-1 tvg-logo="",AXN WHITE ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105631
-#EXTINF:-1 tvg-logo="",RTP 1 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105698
-#EXTINF:-1 tvg-logo="",RTP 2 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105700
-#EXTINF:-1 tvg-logo="",RTP 3
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105701
-#EXTINF:-1 tvg-logo="",SIC ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105705
-#EXTINF:-1 tvg-logo="",TVI ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105740
-#EXTINF:-1 tvg-logo="",CNN PORTUGAL ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105741
-#EXTINF:-1 tvg-logo="",SIC NOTICIAS ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105709
-#EXTINF:-1 tvg-logo="",CMTV ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105647
-#EXTINF:-1 tvg-logo="",PORTO CANAL
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105694
-#EXTINF:-1 tvg-logo="",PORTO CANAL ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123779
-#EXTINF:-1 tvg-logo="",TVI FICCAO ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105742
-#EXTINF:-1 tvg-logo="",TVI REALITY ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105743
-#EXTINF:-1 tvg-logo="",CANAL 11
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105754
-#EXTINF:-1 tvg-logo="",SPORT TV
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105712
-#EXTINF:-1 tvg-logo="",SPORT TV + ᶠᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/123799
-#EXTINF:-1 tvg-logo="",SPORT TV 1
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105713
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105714
-#EXTINF:-1 tvg-logo="",SPORT TV 1 ᴴᴰ NOS ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105715
-#EXTINF:-1 tvg-logo="",SPORT TV 2
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105716
-#EXTINF:-1 tvg-logo="",SPORT TV 2 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105717
-#EXTINF:-1 tvg-logo="",SPORT TV 3
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105718
-#EXTINF:-1 tvg-logo="",SPORT TV 3 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105719
-#EXTINF:-1 tvg-logo="",SPORT TV 4
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105720
-#EXTINF:-1 tvg-logo="",SPORT TV 5
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105721
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 1 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105656
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 2 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105657
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 3 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105658
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 4 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105659
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 5 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105752
-#EXTINF:-1 tvg-logo="",ELEVEN SPORTS 6 ᴴᴰ ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/105753
-#EXTINF:-1 tvg-logo="",FLIX MOVIES NETFLIX ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/591415
-#EXTINF:-1 tvg-logo="",FLIX MOVIES MARVEL ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/591414
-#EXTINF:-1 tvg-logo="",FLIX MOVIES DISNEY ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/609783
-#EXTINF:-1 tvg-logo="",FLIX MOVIES FLIX SPEED ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/617406
-#EXTINF:-1 tvg-logo="",FLIX MOVIES ACTION ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/365924
-#EXTINF:-1 tvg-logo="",FLIX MOVIES DRAMA ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/366769
-#EXTINF:-1 tvg-logo="",FLIX MOVIES COMEDY ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/366770
-#EXTINF:-1 tvg-logo="",FLIX MOVIES FAMILY ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/368294
-#EXTINF:-1 tvg-logo="",FLIX MOVIES CRIME ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/368293
-#EXTINF:-1 tvg-logo="",FLIX MOVIES HORROR ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/368292
-#EXTINF:-1 tvg-logo="",FLIX MOVIES WESTERN ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/369786
-#EXTINF:-1 tvg-logo="",FLIX MOVIES ROMANCE ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/366773
-#EXTINF:-1 tvg-logo="",FLIX MOVIES DOCUMENTARY ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/369787
-#EXTINF:-1 tvg-logo="",FLIX MOVIES CHRISTMAS
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/453951
-#EXTINF:-1 tvg-logo="",FLIX MOVIES JIM CARREY
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/350333
-#EXTINF:-1 tvg-logo="",FLIX MOVIES MEL GIBSON
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/350335
-#EXTINF:-1 tvg-logo="",FLIX MOVIES JOHN TRAVOLTA
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/350334
-#EXTINF:-1 tvg-logo="",FLIX MOVIES ROBERT DE NIRO ᴴᴰ
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/350926
-#EXTINF:-1 tvg-logo="",FLIX MOVIES JACKIE CHAN
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/362499
-#EXTINF:-1 tvg-logo="",FLIX MOVIES VAN DAMME
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/364153
-#EXTINF:-1 tvg-logo="",FLIX MOVIES JASON STATHAM
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/364152
-#EXTINF:-1 tvg-logo="",FLIX MOVIES TOM CRUISE
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/362833
-#EXTINF:-1 tvg-logo="",FLIX MOVIES ANGELINA JOLIE
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/364611
-#EXTINF:-1 tvg-logo="",FLIX MOVIES JET LI
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/361389
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/Portugal.png",========= 10 JULHO 2023 =========
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63548
+#EXTINF:-1 tvg-name="FOX ᶠᴴᴰ" tvg-id="Fox.pt" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg",FOX ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3232
+#EXTINF:-1 tvg-name="FOX LIFE ᶠᴴᴰ" tvg-id="FoxLife.pt" tvg-logo="https://picon-13398.kxcdn.com/foxlifehd.jpg",FOX LIFE ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3233
+#EXTINF:-1 tvg-name="FOX CRIME ᴴᴰ" tvg-id="FoxCrime.pt" tvg-logo="https://picon-13398.kxcdn.com/foxcrimehd.jpg",FOX CRIME ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5549
+#EXTINF:-1 tvg-name="FOX COMEDY ᶠᴴᴰ" tvg-id="FoxComedy.pt" tvg-logo="https://picon-13398.kxcdn.com/foxcomedyhd.jpg",FOX COMEDY ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/20260
+#EXTINF:-1 tvg-name="HISTÓRIA" tvg-id="HistoryChannel.pt" tvg-logo="https://picon-13398.kxcdn.com/historia.jpg",HISTÓRIA
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3238
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC ᴴᴰ" tvg-id="NatGeo.pt" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg",NATIONAL GEOGRAPHIC ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3306
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL ᴴᴰ" tvg-id="DiscoveryChannel.pt" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg",DISCOVERY CHANNEL ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3247
+#EXTINF:-1 tvg-name="TRAVEL CHANNEL ᴴᴰ" tvg-id="TravelChannel.pt" tvg-logo="https://picon-13398.kxcdn.com/travelchannelhd.jpg",TRAVEL CHANNEL ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9497
+#EXTINF:-1 tvg-name="ODISSEIA" tvg-id="Odisseia.pt" tvg-logo="https://picon-13398.kxcdn.com/odisseia.jpg",ODISSEIA
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3230
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD ᴴᴰ" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg",NATIONAL GEOGRAPHIC WILD ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/20259
+#EXTINF:-1 tvg-name="INVESTIGATION DISCOVERY ᴴᴰ" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/investigationdiscoveryhd.jpg",INVESTIGATION DISCOVERY ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27794
+#EXTINF:-1 tvg-name="AMC CRIME" tvg-id="CrimeInvestigation.pt" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg",AMC CRIME
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27790
+#EXTINF:-1 tvg-name="SIC NOTICIAS ᶠᴴᴰ" tvg-id="SicNoticias.pt" tvg-logo="https://picon-13398.kxcdn.com/sicnoticiaspt.jpg",SIC NOTICIAS ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/20258
+#EXTINF:-1 tvg-name="CNN PORTUGAL" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/cnn.jpg",CNN PORTUGAL
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/19588
+#EXTINF:-1 tvg-name="CMTV" tvg-id="Cmtv.pt" tvg-logo="https://picon-13398.kxcdn.com/cmtvpt.jpg",CMTV
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3236
+#EXTINF:-1 tvg-name="SIC RADICAL ᶠᴴᴰ" tvg-id="SicRadical.pt" tvg-logo="https://picon-13398.kxcdn.com/sicradicalpt.jpg",SIC RADICAL ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/20256
+#EXTINF:-1 tvg-name="MTV PORTUGAL" tvg-id="MTV.pt" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg",MTV PORTUGAL
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9478
+#EXTINF:-1 tvg-name="MTV 00s" tvg-id="MTV00s.uk" tvg-logo="https://picon-13398.kxcdn.com/vh1.jpg",MTV 00s
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/24665
+#EXTINF:-1 tvg-name="MTV 80s" tvg-id="" tvg-logo="https://raw.githubusercontent.com/moob158/MYS-Portugal/main/Logos/281px/mtv-80s.png",MTV 80s
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9475
+#EXTINF:-1 tvg-name="MCM POP" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/mcmpop.jpg",MCM POP
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/21948
+#EXTINF:-1 tvg-name="MCM TOP" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/mcmtop.jpg",MCM TOP
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/21949
+#EXTINF:-1 tvg-name="RTP 1 ᶠᴴᴰ" tvg-id="Rtp1.pt" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg",RTP 1 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/19040
+#EXTINF:-1 tvg-name="RTP 2 ᶠᴴᴰ" tvg-id="Rtp2.pt" tvg-logo="https://picon-13398.kxcdn.com/rtp2.jpg",RTP 2 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/20257
+#EXTINF:-1 tvg-name="RTP 3" tvg-id="Rtp3.pt" tvg-logo="https://picon-13398.kxcdn.com/rtp3.jpg",RTP 3
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3213
+#EXTINF:-1 tvg-name="SIC ᶠᴴᴰ" tvg-id="Sic.pt" tvg-logo="https://picon-13398.kxcdn.com/sictvpt.jpg",SIC ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/19041
+#EXTINF:-1 tvg-name="SIC MULHER" tvg-id="SicMulher.pt" tvg-logo="https://picon-13398.kxcdn.com/sicmulherpt.jpg",SIC MULHER
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9467
+#EXTINF:-1 tvg-name="SIC CARAS" tvg-id="SicCaras.pt" tvg-logo="https://picon-13398.kxcdn.com/siccaras.jpg",SIC CARAS
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9466
+#EXTINF:-1 tvg-name="TVI ᴴᴰ" tvg-id="Tvi.pt" tvg-logo="https://picon-13398.kxcdn.com/tvihdpt.jpg",TVI ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5537
+#EXTINF:-1 tvg-name="CANAL Q" tvg-id="CanalQ.pt" tvg-logo="https://picon-13398.kxcdn.com/canalqpt.jpg",CANAL Q
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9465
+#EXTINF:-1 tvg-name="AMC ᴴᴰ" tvg-id="AMC.pt" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg",AMC ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9487
+#EXTINF:-1 tvg-name="AXN ᴴᴰ" tvg-id="AXN.pt" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg",AXN ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3255
+#EXTINF:-1 tvg-name="AXN WHITE ᴴᴰ" tvg-id="AXNWhite.pt" tvg-logo="https://picon-13398.kxcdn.com/axnwhitehd.jpg",AXN WHITE ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3242
+#EXTINF:-1 tvg-name="SYFY" tvg-id="Syfy.pt" tvg-logo="https://picon-13398.kxcdn.com/syfy.jpg",SYFY
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3226
+#EXTINF:-1 tvg-name="AMC BREAK" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/blazetvuk.jpg",AMC BREAK
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/21524
+#EXTINF:-1 tvg-name="E!" tvg-id="EEntertainment.pt" tvg-logo="https://picon-13398.kxcdn.com/e.jpg",E!
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3257
+#EXTINF:-1 tvg-name="AXN MOVIES ᴴᴰ" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/axnmoviespt.jpg",AXN MOVIES ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5551
+#EXTINF:-1 tvg-name="NOS STUDIOS ᶠᴴᴰ" tvg-id="NosStudios.pt" tvg-logo="https://picon-13398.kxcdn.com/nosstudiospt.jpg",NOS STUDIOS ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27665
+#EXTINF:-1 tvg-name="CANAL HOLLYWOOD" tvg-id="CanalHollywood.pt" tvg-logo="https://picon-13398.kxcdn.com/canalhollywoodpt.jpg",CANAL HOLLYWOOD
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27793
+#EXTINF:-1 tvg-name="TVCINE TOP ᶠᴴᴰ" tvg-id="Tvcine1.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcinetoppt.jpg",TVCINE TOP ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5545
+#EXTINF:-1 tvg-name="TVCINE EDITION ᶠᴴᴰ" tvg-id="Tvcine2.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcineeditionpt.jpg",TVCINE EDITION ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5546
+#EXTINF:-1 tvg-name="TVCINE EMOTION ᶠᴴᴰ" tvg-id="Tvcine3.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcineemotionpt.jpg",TVCINE EMOTION ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5547
+#EXTINF:-1 tvg-name="TVCINE ACTION ᶠᴴᴰ" tvg-id="Tvcine4.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcineactionpt.jpg",TVCINE ACTION ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5548
+#EXTINF:-1 tvg-name="CANAL HOLLYWOOD ᴴᴰ" tvg-id="CanalHollywood.pt" tvg-logo="https://picon-13398.kxcdn.com/canalhollywoodhd.jpg",CANAL HOLLYWOOD ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3307
+#EXTINF:-1 tvg-name="FOX MOVIES" tvg-id="FoxMovies.pt" tvg-logo="https://picon-13398.kxcdn.com/foxmovies.jpg",FOX MOVIES
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5550
+#EXTINF:-1 tvg-name="CINEMUNDO" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/cinemundopt.jpg",CINEMUNDO
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5544
+#EXTINF:-1 tvg-name="TVI FICÇÃO" tvg-id="TVIFiccao.pt" tvg-logo="https://picon-13398.kxcdn.com/tvificcaopt.jpg",TVI FICÇÃO
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5542
+#EXTINF:-1 tvg-name="TVI REALITY" tvg-id="TviReality.pt" tvg-logo="https://picon-13398.kxcdn.com/tvirealitypt.jpg",TVI REALITY
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9464
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 ᴴᴰ" tvg-id="ElevenSports1.pt" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg",ELEVEN SPORTS 1 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/23325
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 ᴴᴰ" tvg-id="ElevenSports2.pt" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg",ELEVEN SPORTS 2 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/23320
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 ᴴᴰ" tvg-id="ElevenSports3.pt" tvg-logo="https://picon-13398.kxcdn.com/elvensports3pl.jpg",ELEVEN SPORTS 3 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/23321
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 ᴴᴰ" tvg-id="ElevenSports4.pt" tvg-logo="https://picon-13398.kxcdn.com/elvensports4pl.jpg",ELEVEN SPORTS 4 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/23322
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 ᴴᴰ" tvg-id="ElevenSports5.pt" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg",ELEVEN SPORTS 5 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/23323
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 ᶠᴴᴰ" tvg-id="Premiere3.br" tvg-logo="https://picon-13398.kxcdn.com/elevensportspt.jpg",ELEVEN SPORTS 6 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/23324
+#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 ⁴ᴷ" tvg-id="ElevenSports1.pt" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg",ELEVEN SPORTS 1 ⁴ᴷ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/86630
+#EXTINF:-1 tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-id="SportTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg",SPORT TV 1 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/17744
+#EXTINF:-1 tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-id="SportTV2.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pthd.jpg",SPORT TV 2 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3222
+#EXTINF:-1 tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-id="SportTV3.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv3hdpt.jpg",SPORT TV 3 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3223
+#EXTINF:-1 tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-id="SportTV4.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv4hdpt.jpg",SPORT TV 4 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3224
+#EXTINF:-1 tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-id="SportTV5.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv5hdpt.jpg",SPORT TV 5 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/16297
+#EXTINF:-1 tvg-name="SPORT TV 6 ᶠᴴᴰ" tvg-id="" tvg-logo="",SPORT TV 6 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/86095
+#EXTINF:-1 tvg-name="SPORT TV + ᶠᴴᴰ" tvg-id="SportTVPlus.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg",SPORT TV + ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/19589
+#EXTINF:-1 tvg-name="SPORT TV 1 ⁴ᴷ" tvg-id="SportTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg",SPORT TV 1 ⁴ᴷ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/86631
+#EXTINF:-1 tvg-name="BENFICA TV 1 ⁴ᴷ" tvg-id="BenficaTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg",BENFICA TV 1 ⁴ᴷ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/86629
+#EXTINF:-1 tvg-name="BENFICA TV 1 ᴴᴰ" tvg-id="BenficaTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg",BENFICA TV 1 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5541
+#EXTINF:-1 tvg-name="CANAL 11 ᶠᴴᴰ" tvg-id="Canal11.pt" tvg-logo="https://picon-13398.kxcdn.com/canal11pt.jpg",CANAL 11 ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/28181
+#EXTINF:-1 tvg-name="A BOLA TV" tvg-id="24Kitchen.pt" tvg-logo="https://picon-13398.kxcdn.com/abolatv.jpg",A BOLA TV
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5540
+#EXTINF:-1 tvg-name="EUROSPORT 1 ᴴᴰ" tvg-id="Eurosport1.pt" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg",EUROSPORT 1 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3234
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-id="Eurosport2.pt" tvg-logo="https://picon-13398.kxcdn.com/eurosport2.jpg",EUROSPORT 2
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9482
+#EXTINF:-1 tvg-name="FUEL TV" tvg-id="FuelTV.pt" tvg-logo="https://picon-13398.kxcdn.com/fueltvuk.jpg",FUEL TV
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/19625
+#EXTINF:-1 tvg-name="DOG TV ᶠᴴᴰ" tvg-id="DogTV.pt" tvg-logo="https://picon-13398.kxcdn.com/dogtvpt.jpg",DOG TV ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/25172
+#EXTINF:-1 tvg-name="AR TV CANAL PARLAMENTO" tvg-id="Artv.pt" tvg-logo="https://picon-13398.kxcdn.com/artvpt.jpg",AR TV CANAL PARLAMENTO
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27789
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg",NBA TV
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27799
+#EXTINF:-1 tvg-name="SPORT TV NBA ᶠᴴᴰ" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg",SPORT TV NBA ᶠᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27801
+#EXTINF:-1 tvg-name="TV GLOBO NOW" tvg-id="GloboNow.pt" tvg-logo="https://picon-13398.kxcdn.com/tvglobo.jpg",TV GLOBO NOW
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3217
+#EXTINF:-1 tvg-name="PORTO CANAL ᴴᴰ" tvg-id="Porto.pt" tvg-logo="https://picon-13398.kxcdn.com/portocanalpt.jpg",PORTO CANAL ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/19704
+#EXTINF:-1 tvg-name="RTP 1 ᴴᴰ" tvg-id="Rtp1.pt" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg",RTP 1 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/22983
+#EXTINF:-1 tvg-name="EURONEWS" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg",EURONEWS
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/95334
+#EXTINF:-1 tvg-name="RTP 1" tvg-id="Rtp1.pt" tvg-logo="https://picon-13398.kxcdn.com/rtp1.jpg",RTP 1
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3208
+#EXTINF:-1 tvg-name="RTP 2" tvg-id="Rtp2.pt" tvg-logo="https://picon-13398.kxcdn.com/rtp2.jpg",RTP 2
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3209
+#EXTINF:-1 tvg-name="SIC" tvg-id="Sic.pt" tvg-logo="https://picon-13398.kxcdn.com/sictvpt.jpg",SIC
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3227
+#EXTINF:-1 tvg-name="TVI" tvg-id="Tvi.pt" tvg-logo="https://picon-13398.kxcdn.com/tvihdpt.jpg",TVI
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3214
+#EXTINF:-1 tvg-name="TVCINE TOP" tvg-id="Tvcine1.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcinetoppt.jpg",TVCINE TOP
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/15796
+#EXTINF:-1 tvg-name="TVCINE EDITION" tvg-id="Tvcine2.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcineeditionpt.jpg",TVCINE EDITION
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/15797
+#EXTINF:-1 tvg-name="TVCINE EMOTION" tvg-id="Tvcine3.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcineemotionpt.jpg",TVCINE EMOTION
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/15798
+#EXTINF:-1 tvg-name="TVCINE ACTION" tvg-id="Tvcine4.pt" tvg-logo="https://picon-13398.kxcdn.com/tvcineactionpt.jpg",TVCINE ACTION
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/15799
+#EXTINF:-1 tvg-name="FOX COMEDY" tvg-id="FoxComedy.pt" tvg-logo="https://picon-13398.kxcdn.com/foxcomedy.jpg",FOX COMEDY
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9489
+#EXTINF:-1 tvg-name="SPORT TV 4" tvg-id="SportTV4.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg",SPORT TV 4
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/7843
+#EXTINF:-1 tvg-name="SPORT TV 3" tvg-id="SportTV3.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg",SPORT TV 3
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/7844
+#EXTINF:-1 tvg-name="SPORT TV 5" tvg-id="SportTV5.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv5pt.jpg",SPORT TV 5
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/7842
+#EXTINF:-1 tvg-name="BENFICA TV 1" tvg-id="BenficaTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/benficatv1.jpg",BENFICA TV 1
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3308
+#EXTINF:-1 tvg-name="SPORTING TV" tvg-id="SportingTV.pt" tvg-logo="https://picon-13398.kxcdn.com/sportingtvpt.jpg",SPORTING TV
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3305
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-id="Eurosport1.pt" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg",EUROSPORT 1
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/7851
+#EXTINF:-1 tvg-name="SPORT TV 1" tvg-id="SportTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg",SPORT TV 1
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/7846
+#EXTINF:-1 tvg-name="SPORT TV 1 ᴴᴰ" tvg-id="SportTV1.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pthd.jpg",SPORT TV 1 ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3221
+#EXTINF:-1 tvg-name="SPORT TV 2" tvg-id="SportTV2.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg",SPORT TV 2
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/7845
+#EXTINF:-1 tvg-name="AMC" tvg-id="AMC.pt" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg",AMC
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/27788
+#EXTINF:-1 tvg-name="SPORTING TV ᴴᴰ" tvg-id="SportingTV.pt" tvg-logo="https://picon-13398.kxcdn.com/sportingtvhdpt.jpg",SPORTING TV ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3246
+#EXTINF:-1 tvg-name="SIC RADICAL" tvg-id="SicRadical.pt" tvg-logo="https://picon-13398.kxcdn.com/sicradicalpt.jpg",SIC RADICAL
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9468
+#EXTINF:-1 tvg-name="SPORT TV +" tvg-id="SportTVPlus.pt" tvg-logo="https://picon-13398.kxcdn.com/sporttvpluspt.jpg",SPORT TV +
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9499
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.pt" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg",TLC
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9496
+#EXTINF:-1 tvg-name="24 KITCHEN ᴴᴰ" tvg-id="24Kitchen.pt" tvg-logo="https://picon-13398.kxcdn.com/24kitchenhd.jpg",24 KITCHEN ᴴᴰ
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3243
+#EXTINF:-1 tvg-name="FASHION TV" tvg-id="FashionTV.pt" tvg-logo="https://picon-13398.kxcdn.com/fashiontv.jpg",FASHION TV
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9495
+#EXTINF:-1 tvg-name="RTP MEMÓRIA" tvg-id="RtpMemoria.pt" tvg-logo="https://picon-13398.kxcdn.com/rtpmemoria.jpg",RTP MEMÓRIA
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3212
+#EXTINF:-1 tvg-name="PORTO CANAL" tvg-id="Porto.pt" tvg-logo="https://picon-13398.kxcdn.com/portocanalpt.jpg",PORTO CANAL
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/5538
+#EXTINF:-1 tvg-name="TV GLOBO" tvg-id="Globo.pt" tvg-logo="https://picon-13398.kxcdn.com/tvglobopt.jpg",TV GLOBO
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/9471
+#EXTINF:-1 tvg-name="RECORD EUROPA" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/recordtv.jpg",RECORD EUROPA
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3249
+#EXTINF:-1 tvg-name="SIC NOTÍCIAS" tvg-id="SicNoticias.pt" tvg-logo="https://picon-13398.kxcdn.com/sicnoticiaspt.jpg",SIC NOTÍCIAS
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/3229
+#EXTINF:-1 tvg-name="▬ PORTUGAL [PT] ▬" tvg-id="" tvg-logo="https://picon-13398.kxcdn.com/portugal.jpg",▬ PORTUGAL [PT] ▬
+http://tv.iceiptv.iptv.uno:80/GHntniQEi1ct737/oRw8Pg6FjWE2314/16519
